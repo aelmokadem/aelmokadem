@@ -6,7 +6,9 @@ about:
         - icon: linkedin
           url: https://www.linkedin.com/in/ahmed-elmokadem-87b01875/
         - icon: github
-          url: https://github.com/aelmokadem      
+          url: https://github.com/aelmokadem 
+        - text: "{{< ai orcid >}}"
+          url: https://orcid.org/0000-0002-2412-4986     
 image: img/my-photo.png
 ---
 
