@@ -8,7 +8,9 @@ about:
         - icon: github
           url: https://github.com/aelmokadem 
         - text: "{{< ai orcid >}}"
-          url: https://orcid.org/0000-0002-2412-4986     
+          url: https://orcid.org/0000-0002-2412-4986   
+        - text: "{{< ai google-scholar >}}"
+          url: https://scholar.google.com/citations?user=1tqhtzMAAAAJ&hl=en 
 image: img/my-photo.png
 ---
 
