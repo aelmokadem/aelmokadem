@@ -1,7 +1,10 @@
 ---
 title: "Ahmed Elmokadem"
+image: img/my-photo.png
 ---
 
 This is a Quarto website.
+
+![](img/my-photo.png)
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
