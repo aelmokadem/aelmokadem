@@ -1,10 +1,15 @@
 ---
 title: "Ahmed Elmokadem"
+about:
+    template: trestles
+    links:
+        - icon: linkedin
+          url: https://www.linkedin.com/in/ahmed-elmokadem-87b01875/
+        - icon: github
+          url: https://github.com/aelmokadem      
 image: img/my-photo.png
 ---
 
 This is a Quarto website.
-
-![](img/my-photo.png)
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.

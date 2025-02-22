@@ -3,3 +3,5 @@
 
 # Quarto cache directory
 /.quarto/
+
+.DS_Store
