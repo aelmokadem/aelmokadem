@@ -13,6 +13,8 @@ website:
         text: Papers
       - href: posts
         text: Blogs
+      - href: books
+        text: Books
 
 format:
   html:
