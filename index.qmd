@@ -23,17 +23,19 @@ I am a Pharmacometrician and a Senior Scientist at Metrum Research Group. I hold
 
 I am proficient in programming languages such as Julia and R, which I use extensively in my research and modeling work.
 
-I am an active member of the International Society of Pharmacometrics (ISoP) and the American Society of Clinical Pharmacology and Therapeutics (ASCPT). I also contribute as a Review Editor for Frontiers in Pharmacology.
-
 ## Key research interests
 
-* **Pharmacometrics**: agent-based modelling, disease-avoidant behaviours, epidemics over dynamic networks, geospatial computational epidemiology -- all primarily in the context of infectious diseases
+* **Pharmacometrics**: Quantitative systems pharmacology (QSP), physiologically based pharmacokinetics (PBPK), population pharmacokinetics/pharmacodynamics (PKPD), Bayesian hierarchical PKPD modeling, merging pharmacometrics with machine learning
 
 ## Teaching
 
 I serve as an adjunct professor at both the University of Connecticut and Indiana University
 
 ## Selected papers
+
+**Elmokadem A**, Wiens M, Knab T, Utsey K, Callisto S, Kirouac D. **Hierarchical deep compartment modeling: A workflow to leverage machine learning and Bayesian inference for hierarchical pharmacometric modeling**. Clinical and Translational Science, October. [https://doi.org/10.1111/cts.70045](https://doi.org/10.1111/cts.70045). 
+
+Chigutsa E, Jordie E, Riggs M, Nirula A, **Elmokadem A**, Knab T, and Chien JY. **A Quantitative Modeling and Simulation Framework to Support Candidate and Dose Selection of Anti-SARS-CoV-2 Monoclonal Antibodies to Advance Bamlanivimab into a First-in-Human Clinical Trial**. Clinical Pharmacology & Therapeutics, October. [https://doi.org/10.1002/cpt.2459](https://doi.org/10.1002/cpt.2459). This manuscript received the **“Outstanding Research Manuscript Award”** from the International Society of Pharmacometrics (ISoP) in October 2022.
 
 ## Professional affiliations
 
