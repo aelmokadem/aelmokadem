@@ -4,8 +4,6 @@ title: "Books"
 
 # The Dreamers - Arabic
 
-[https://play.google.com/store/books/details/%D8%A7%D9%84%D8%AD%D8%A7%D9%84%D9%85%D9%88%D9%86?id=-axeDwAAQBAJ&hl=en_CA&pli=1](https://play.google.com/store/books/details/%D8%A7%D9%84%D8%AD%D8%A7%D9%84%D9%85%D9%88%D9%86?id=-axeDwAAQBAJ&hl=en_CA&pli=1)
-
 [https://www.jarir.com/arabic-books-jbb6720na092.html](https://www.jarir.com/arabic-books-jbb6720na092.html)
 
 ![](../img/cover-dreamers.png){width=200}
