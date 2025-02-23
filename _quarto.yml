@@ -19,7 +19,12 @@ website:
 format:
   html:
     theme:
-      - cosmo
+      #- cosmo
+      - cerulean
+      #- minty
+      #- sketchy
+      #- spacelab
+      #- morph
       - brand
     css: styles.css
     toc: true
