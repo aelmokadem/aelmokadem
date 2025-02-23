@@ -14,6 +14,7 @@ about:
         - text: "{{< fa envelope >}}"
           url: mailto:aelmokadem.pmx@gmail.com
 image: img/my-photo.png
+image-shape: round
 ---
 
 ## Bio
