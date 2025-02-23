@@ -10,6 +10,8 @@ website:
       - about.qmd
       - href: papers
         text: Papers
+      - href: posts
+        text: Blogs
 
 format:
   html:
