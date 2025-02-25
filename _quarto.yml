@@ -1,9 +1,10 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "Ahmed Elmokadem"
-  site-url: https://github.com/aelmokadem/aelmokadem
+  #site-url: https://github.com/aelmokadem/aelmokadem
   navbar:
     left:
       - href: index.qmd
