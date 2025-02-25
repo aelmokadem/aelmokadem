@@ -4,7 +4,7 @@ project:
 
 website:
   title: "Ahmed Elmokadem"
-  #site-url: https://github.com/aelmokadem/aelmokadem
+  site-url: https://github.com/aelmokadem/aelmokadem.github.io
   navbar:
     left:
       - href: index.qmd
