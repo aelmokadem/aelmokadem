@@ -19,7 +19,7 @@ image-shape: round
 
 ## Bio
 
-I am a Pharmacometrician and a Senior Scientist at Metrum Research Group. I hold a PhD in Biomedical Sciences from the University of Connecticut. My research includes numerous publications on pharmacometric modeling and simulation across various therapeutic areas such as cancer, diabetes, and COVID-19. My work employs diverse techniques including Quantitative Systems Pharmacology (QSP), Physiologically-Based Pharmacokinetics (PBPK), Bayesian inference, and machine learning.
+I am a Pharmacometrician and a Senior Scientist. I hold a PhD in Biomedical Sciences from the University of Connecticut. My research includes numerous publications on pharmacometric modeling and simulation across various therapeutic areas such as cancer, diabetes, and COVID-19. My work employs diverse techniques including Quantitative Systems Pharmacology (QSP), Physiologically-Based Pharmacokinetics (PBPK), Bayesian inference, and machine learning.
 
 I am proficient in programming languages such as Julia and R, which I use extensively in my research and modeling work.
 
