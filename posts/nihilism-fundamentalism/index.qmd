@@ -3,9 +3,9 @@ categories:
 - PHILOSOPHY
 - RELIGION
 date: 2025-01-04
-description: Are You a Nihilist or a Fundamentalist? Choose before it's too late!
+description: Better chose soon
 image: nihilism-fundamentalism.jpeg
-title: "Science and God"
+title: "Are You a Nihilist or a Fundamentalist? Choose before it's too late!"
 ---
 
 The case for a creator
