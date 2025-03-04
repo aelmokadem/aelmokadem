@@ -4,7 +4,7 @@ categories:
 - SCIENCE
 date: 2025-01-04
 description: Can Science Prove the Existence of God
-image: praying-hands.jpg
+image: god-science.jpeg
 title: "Science and God"
 ---
 
