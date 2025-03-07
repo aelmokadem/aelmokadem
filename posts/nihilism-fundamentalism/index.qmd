@@ -3,9 +3,54 @@ categories:
 - PHILOSOPHY
 - RELIGION
 date: 2025-01-04
-description: Better chose soon
+description: This article examines nihilism and fundamentalism, defining each and exploring their influence on modern society. It highlights the rise of both trends and discusses Nietzsche's proposed solution to nihilism. The article suggests creating new, adaptable ideological systems to restore human value and identity, encouraging readers to reflect on their own beliefs and consider whether they lean towards nihilism or fundamentalism.
 image: nihilism-fundamentalism.jpeg
-title: "Are You a Nihilist or a Fundamentalist? Choose before it's too late!"
+title: "Are You a Nihilist or a Fundamentalist? A Question to Ask Yourself Before It's Too Late"
 ---
 
-The case for a creator
+Before diving into this article, let's define the terms in the title: nihilism and fundamentalism.
+
+**Nihilism**
+
+Nihilism is a philosophical term describing a state where life lacks any meaning or value. As Friedrich Nietzsche, often considered the foremost theorist of modern nihilism, put it: nihilism is the process of emptying the universe, especially human existence, of any meaning, purpose, value, or absolute truth. Although this idea existed before Nietzsche, he was the first to analyze it thoroughly and predict its inevitable spread, particularly in the Western world, which was suffering from the decay of old values. It's worth noting that while Nietzsche's name is closely associated with nihilism, he actually despised it, considering it a weak and cowardly philosophy that inevitably leads to destruction.
+
+**Fundamentalism**
+
+Fundamentalism, according to the Oxford Dictionary, is a religious movement that adheres to the literal interpretation of religious texts. It began in the late 19th and early 20th centuries in the United States when liberalism, which encouraged rational judgment of religious texts, threatened Protestant Christianity. Religious leaders, fearing for their faith and influence, held conferences to define the essential "fundamentals" of Christianity, giving rise to the term "fundamentalism." However, as historian and writer John Bucher explains, the term has since broadened to mean "strict and unquestioning adherence to any set of ideas or beliefs," extending beyond religion to include political and racial fundamentalism, among others. This broader definition allows us to identify periods in both ancient and modern history characterized by the rise of fundamentalism.
+
+It's important to note that these definitions are not the only ones for these significant phenomena. There are many interpretations and perspectives on understanding nihilism and fundamentalism, but I chose these definitions because they are the most common and widely accepted among philosophers and sociologists.
+
+## Are Nihilism and Fundamentalism Opposites?
+
+At first glance, nihilism and fundamentalism seem contradictory. Nihilism tells us that life has no value or absolute truth, while fundamentalism clings to a set of values as absolute truths. This contrast is highlighted by Bulgarian-French philosopher Julia Kristeva in her book This Incredible Need to Believe. However, the story is more complex. Both nihilism and fundamentalism share a crucial common factor: the "abandonment of life." For nihilists, life is inherently meaningless, so there's no need to care about it. For fundamentalists, life is worthless compared to their doctrine, making it expendable for the cause. Austrian-American sociologist Peter Ludwig Berger warned of the dangers of this shared mindset, as it leads to stagnation and a lack of effort to improve the future or solve current problems. Thus, this stance may seem like the easier, negative solution for overcoming life's difficulties.
+
+## Are We Living in a Nihilistic or Fundamentalist World?
+
+Many philosophers believe we are living in a "postmodern" world, which the late great thinker Dr. Abdel Wahab El-Messiri described as a materialistic, nihilistic world that deconstructs humanity, reducing it to a valueless, purposeless entity. He provided examples, such as clothing, which once expressed individual identity but has become merely functional, like a T-shirt that can even serve as an advertisement. Another example is the home, which El-Messiri saw as crucial in embodying a specific worldview that influences its inhabitants. Modern homes, however, are purely functional in design, lacking depth or character, which strips the residents of their individuality.
+
+In addition to these examples, there are many others that demonstrate the dominance of the idea of "objectification" of humans in our current era, where people have become just another mold among many similar ones. This idea is further entrenched in our consciousness through cultural outlets like literature, art, and media, whether intentionally or unintentionally.
+
+## What About Fundamentalism?
+
+The signs of fundamentalism may be more apparent than those of nihilism. Although fundamentalism is not synonymous with extremism, it often leads to it. As psychoanalyst Dr. Robert Young stated, "The terrorist is the fundamentalist who has finally resorted to violence." From this perspective, every terrorist is certainly a fundamentalist, but not every fundamentalist is a terrorist. A quick look at the expanding map of global terrorism suggests that fundamentalism is indeed on the rise.
+
+We also see this spread when we look at the U.S. presidential elections, specifically the controversial candidate Donald Trump. His rhetoric appeals to various forms of fundamentalism, including religious, racial, and nationalistic. His significant lead in the early Republican primary results indicates that there are more fundamentalists in the United States than we might have expected.
+
+Another prominent example is the rise of neo-Nazis in Europe and the United States, representing racial fundamentalism. This rise is evident in the unprecedented increase in the popularity of neo-Nazi parties, both in membership numbers and electoral gains.
+
+Therefore, it is difficult to classify our world as purely nihilistic or fundamentalist. Absolute classifications often miss the mark. However, it can be said that we live in a world experiencing a sharp rise in both these trends.
+
+## Nietzsche's Solution to Nihilism
+
+Nietzsche believed he found a reasonable solution to nihilism within itself. He thought that nihilism, after philosophically dismantling old values, would lead to the emergence of the "Superman" who would transcend these values without succumbing to the maze of nihilism. Instead, this Superman would create a new system that embraces life. The problem with this view is that it seems somewhat idealistic, and the concept of the Superman appears to be an unattainable ideal in reality.
+
+## The Path to a Solution
+
+In my opinion, the solution must begin with awareness, which brings us back to the question posed in the title: "Are you a nihilist or a fundamentalist?" The importance of this question lies in the fact that a nihilist or a fundamentalist often does not realize their true nature. They may categorize themselves under different labels. For example, a nihilist might see themselves as "cultured," "scientific," or "enlightened," while a fundamentalist might view themselves as "religious," "patriotic," or "moral." These labels do not carry the negative connotations of "nihilist" or "fundamentalist." Therefore, recognizing the problem correctly is the first step to solving it. Some may object to this question, arguing that it sharply divides people into two categories. However, given the overwhelming spread of these two trends, it seems that today's individuals are either nihilists, fundamentalists, or on their way to joining one of these groups.
+
+## Creating New Ideological Systems
+
+After awareness comes the creation of new ideological systems to replace the old ones, restoring human value and identity. This was Nietzsche's suggestion, but I differ in that I believe this replacement must occur without completely dismantling the old systems. Instead, we should modify them to fit the times while keeping them flexible enough to withstand change without collapsing.
+
+This is not an easy task. Any attempt to modify a system by a moderate individual will face resistance from fundamentalists who reject any change and nihilists who insist on the futility of such efforts. However, this individual must continue their attempts and resist these two powerful currents, or else face extinction.
+
