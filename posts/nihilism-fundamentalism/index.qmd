@@ -3,7 +3,7 @@ categories:
 - PHILOSOPHY
 - RELIGION
 date: last-modified
-description: This article examines nihilism and fundamentalism, defining each and exploring their influence on modern society. It highlights the rise of both trends and discusses Nietzsche's proposed solution to nihilism. The article suggests creating new, adaptable ideological systems to restore human value and identity, encouraging readers to reflect on their own beliefs and consider whether they lean towards nihilism or fundamentalism.
+description: This article explores nihilism and fundamentalism, their impact on society, and Nietzsche's solution to nihilism. It suggests creating new, flexible ideologies to restore human value and identity, urging readers to reflect on their own beliefs.
 image: nihilism-fundamentalism.jpeg
 title: "Are You a Nihilist or a Fundamentalist? A Question to Ask Yourself Before It's Too Late"
 ---
@@ -16,7 +16,7 @@ Nihilism is a philosophical term describing a state where life lacks any meaning
 
 **Fundamentalism**
 
-Fundamentalism, according to the Oxford Dictionary, is a religious movement that adheres to the literal interpretation of religious texts. It began in the late 19th and early 20th centuries in the United States when liberalism, which encouraged rational judgment of religious texts, threatened Protestant Christianity. Religious leaders, fearing for their faith and influence, held conferences to define the essential "fundamentals" of Christianity, giving rise to the term "fundamentalism." However, as historian and writer John Bucher explains, the term has since broadened to mean "strict and unquestioning adherence to any set of ideas or beliefs," extending beyond religion to include political and racial fundamentalism, among others. This broader definition allows us to identify periods in both ancient and modern history characterized by the rise of fundamentalism.
+Fundamentalism, according to the Oxford Dictionary, is a religious movement that adheres to the literal interpretation of religious texts. It began in the late 19^th^ and early 20^th^ centuries in the United States when liberalism, which encouraged rational judgment of religious texts, threatened Protestant Christianity. Religious leaders, fearing for their faith and influence, held conferences to define the essential "fundamentals" of Christianity, giving rise to the term "fundamentalism." However, as historian and writer John Bucher explains, the term has since broadened to mean "strict and unquestioning adherence to any set of ideas or beliefs," extending beyond religion to include political and racial fundamentalism, among others. This broader definition allows us to identify periods in both ancient and modern history characterized by the rise of fundamentalism.
 
 It's important to note that these definitions are not the only ones for these significant phenomena. There are many interpretations and perspectives on understanding nihilism and fundamentalism, but I chose these definitions because they are the most common and widely accepted among philosophers and sociologists.
 
