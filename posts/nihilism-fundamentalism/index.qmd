@@ -2,7 +2,7 @@
 categories:
 - PHILOSOPHY
 - RELIGION
-date: 2025-01-04
+date: last-modified
 description: This article examines nihilism and fundamentalism, defining each and exploring their influence on modern society. It highlights the rise of both trends and discusses Nietzsche's proposed solution to nihilism. The article suggests creating new, adaptable ideological systems to restore human value and identity, encouraging readers to reflect on their own beliefs and consider whether they lean towards nihilism or fundamentalism.
 image: nihilism-fundamentalism.jpeg
 title: "Are You a Nihilist or a Fundamentalist? A Question to Ask Yourself Before It's Too Late"
