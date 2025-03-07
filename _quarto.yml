@@ -13,11 +13,14 @@ website:
       - href: papers
         text: Papers
       - href: posts
-        text: Blogs
+        text: Blog
       - href: books
         text: Books
   page-footer:
     left: "(c) Ahmed Elmokadem, 2025–. [Disclaimer](disclaimer)"
+  comments:
+    giscus:
+      repo: quarto-dev/quarto-web
 
 format:
   html:
