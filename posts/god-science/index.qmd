@@ -8,6 +8,7 @@ description: This article examines the question of God's existence through scien
 image: god-science.jpeg
 title: "Can Science Prove the Existence of God?"
 bibliography: references.bib
+draft: true
 ---
 
 There is no bigger question than this. Answering it leads to a cascade of other questions: Why were we created? What is the secret behind the order in the universe? What happens when we die? It's no wonder that human minds have been tirelessly seeking an answer to this question since ancient times.

@@ -20,7 +20,8 @@ website:
     left: "(c) Ahmed Elmokadem, 2025–. [Disclaimer](disclaimer)"
   comments:
     giscus:
-      repo: quarto-dev/quarto-web
+      #repo: quarto-dev/quarto-web
+      repo: aelmokadem/aelmokadem
 
 format:
   html:
