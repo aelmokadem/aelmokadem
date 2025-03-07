@@ -18,10 +18,10 @@ website:
         text: Books
   page-footer:
     left: "(c) Ahmed Elmokadem, 2025–. [Disclaimer](disclaimer)"
-  comments:
-    giscus:
-      #repo: quarto-dev/quarto-web
-      repo: aelmokadem/aelmokadem
+  # comments:
+  #   giscus:
+  #     #repo: quarto-dev/quarto-web
+  #     repo: aelmokadem/aelmokadem
 
 format:
   html:
