@@ -6,7 +6,8 @@ categories:
 - CONSPIRACY
 date: last-modified
 image: preventive-coronavirus-vaccine-bottles.jpg
-title: "Anti-Vax: The Dumbest Way to Go"
+#title: "Anti-Vax: The Dumbest Way to Go"
+title: "Anti-Vax: A Case Study in the Theory of Stupidity" 
 description: "This article examines the history and benefits of vaccines, debunks Andrew Wakefield's fraudulent claims linking vaccines to autism, and discusses the harmful effects of the anti-vax movement, including disease resurgence and political influence on vaccine hesitancy. It underscores the need to fight misinformation to safeguard public health."
 bibliography: references.bib
 draft: true
@@ -46,3 +47,13 @@ The rise of social media has also amplified the spread of vaccine misinformation
 ## Conclusion
 
 The anti-vax movement, fueled by misinformation, fraudulent claims, and political agendas, poses a significant threat to public health. Vaccines have a proven track record of saving lives and preventing diseases. It is crucial to combat misinformation and promote the benefits of vaccination to protect our communities and future generations.
+
+
+
+The "Theory of Stupidity" was developed by the German theologian and philosopher Dietrich Bonhoeffer. He argued that stupidity is more dangerous than evil because it can be manipulated and used by evil forces, and it often goes hand-in-hand with power @Bonhoeffer2023 @BigThink2023.
+
+Bonhoeffer's theory suggests that stupidity is not merely an intellectual defect but a human one. It is not necessarily linked to a lack of intelligence; rather, it is a social phenomenon that can arise under certain circumstances. For example, people who are isolated or live in solitude are less likely to exhibit stupidity compared to those who are part of large groups or societies @Bonhoeffer2023.
+
+One key aspect of Bonhoeffer's theory is that stupidity is resistant to reason and facts. When confronted with evidence that contradicts their beliefs, stupid people often dismiss it as inconsequential or irrelevant. This makes them particularly dangerous because they are self-satisfied and can become aggressive when challenged @BigThink2023.
+
+Bonhoeffer also noted that every strong upsurge of power in the public sphere, whether political or religious, tends to infect a large part of humanity with stupidity. This is because the power of one person or group often requires the submission and uncritical acceptance of others @Bonhoeffer2023.
