@@ -10,6 +10,9 @@ title: "Anti-Vax: The Dumbest Way to Go"
 description: "This article examines the history and benefits of vaccines, debunks Andrew Wakefield's fraudulent claims linking vaccines to autism, and discusses the harmful effects of the anti-vax movement, including disease resurgence and political influence on vaccine hesitancy. It underscores the need to fight misinformation to safeguard public health."
 bibliography: references.bib
 draft: true
+comments:
+    giscus:
+        repo: aelmokadem/aelmokadem
 ---
 
 ## The Historical Progress and Impact of Vaccines

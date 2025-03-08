@@ -7,6 +7,9 @@ description: This article explores nihilism and fundamentalism, their impact on 
 image: nihilism-fundamentalism.jpeg
 title: "Are You a Nihilist or a Fundamentalist? A Question to Ask Yourself Before It's Too Late"
 bibliography: references.bib
+comments:
+    giscus:
+        repo: aelmokadem/aelmokadem
 ---
 
 Before diving into this article, let's define the terms in the title: nihilism and fundamentalism.
