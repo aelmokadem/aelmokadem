@@ -19,9 +19,11 @@ image-shape: round
 
 ## Bio
 
-I am a Pharmacometrician and a Senior Scientist. I hold a PhD in Biomedical Sciences from the University of Connecticut. My research includes numerous publications on pharmacometric modeling and simulation across various therapeutic areas such as cancer, diabetes, and COVID-19. My work employs diverse techniques including Quantitative Systems Pharmacology (QSP), Physiologically-Based Pharmacokinetics (PBPK), Bayesian inference, and machine learning.
+I am a passionate Pharmacometrician and Senior Scientist with a deep love for science and science communication. I hold a PhD in Biomedical Sciences from the University of Connecticut. My research includes numerous publications on pharmacometric modeling and simulation across various therapeutic areas such as cancer, diabetes, and COVID-19. My work employs diverse techniques including Quantitative Systems Pharmacology (QSP), Physiologically-Based Pharmacokinetics (PBPK), Bayesian inference, and machine learning.
 
-I am proficient in programming languages such as Julia and R, which I use extensively in my research and modeling work.
+I am proficient in programming languages such as Julia and R, which I use extensively in my research and modeling work. Beyond my professional expertise, I am deeply interested in the intersection of science, philosophy, and religion, and how these fields can inform and enrich each other. Additionally, I have a strong interest in mathematics, its history, and its profound impact on daily lives and human civilization. I am fascinated by how mathematical principles and numbers shape our world and contribute to solving complex scientific problems.
+
+I am also an author of both fiction and nonfiction, with two books published in Arabic and currently in the process of publishing them in English. My writing reflects my passion for science and my desire to communicate complex ideas in an accessible and engaging way.
 
 ## Key research interests
 
@@ -30,6 +32,12 @@ I am proficient in programming languages such as Julia and R, which I use extens
 ## Teaching
 
 I serve as an adjunct professor at both the University of Connecticut and Indiana University
+
+## Books
+
+**The Dreamers (Arabic)** [https://www.jarir.com/arabic-books-jbb6720na092.html](https://www.jarir.com/arabic-books-jbb6720na092.html)
+
+**Numbers that Dazzled the World (Arabic)** [https://www.jarir.com/arabic-books-522887.html?country=us](https://www.jarir.com/arabic-books-522887.html?country=us)
 
 ## Selected papers
 
@@ -46,4 +54,7 @@ Chigutsa E, Jordie E, Riggs M, Nirula A, **Elmokadem A**, Knab T, and Chien JY. 
 
 ## Personal life
 
+I am a father and a husband who enjoys the routine scientific-philosophical-religious-political discussions with my family. My wife is incredibly supportive and loving, always encouraging me in my pursuits and standing by my side through thick and thin. We share a deep bond and a mutual passion for exploring life's big questions together.
+
+Video game time with my son is also something I cherish. It's our special way of bonding and having fun, whether we're teaming up to conquer virtual worlds or just laughing at our in-game mishaps. These moments are priceless and bring a lot of joy to our lives.
 
