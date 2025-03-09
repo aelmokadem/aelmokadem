@@ -5,8 +5,7 @@ categories:
 - AUTISM
 - CONSPIRACY
 date: last-modified
-image: preventive-coronavirus-vaccine-bottles.jpg
-#title: "Anti-Vax: The Dumbest Way to Go"
+image: male-medic-holding-vaccine-vial-with-syringe.jpg
 title: "Anti-Vax: A Case Study in the Theory of Stupidity" 
 description: "This article compares Lysenkoism and the anti-vax movement, highlighting their rejection of science for ideology, and connects them to Bonhoeffer's 'Theory of Stupidity,' emphasizing the dangers of ignorance and the need for public health responsibility."
 bibliography: references.bib

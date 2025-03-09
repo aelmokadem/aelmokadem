@@ -7,7 +7,7 @@ image: science-religion.jpeg
 title: "When Science and Religion Collide: The Top 4 Historical Clashes" 
 description: "This article explore the fascinating clashes between science and religion throughout history, from geocentrism to evolution, and join the conversation on these thought-provoking topics."
 bibliography: references.bib
-draft: false
+draft: true
 comments:
     giscus:
         repo: aelmokadem/aelmokadem

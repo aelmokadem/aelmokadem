@@ -3,7 +3,6 @@ categories:
 - ABOUT THIS BLOG
 date: last-modified
 image: welcome.jpg
-#title: "Anti-Vax: The Dumbest Way to Go"
 title: "Welcome to My Blog" 
 description: "An introduction to my blog where we discuss everything from science to philosophy, politics, and more. Your thoughts and feedback are welcome!"
 #bibliography: references.bib
