@@ -34,9 +34,9 @@ Fast forward to the modern era, and it seems that we, as a species, have learned
 
 The journey of vaccines began with Edward Jenner’s smallpox vaccine in 1796, which laid the foundation for modern immunology. Jenner’s groundbreaking discovery demonstrated that exposure to cowpox could confer immunity to smallpox, leading to the development of the first successful vaccine. Fun fact: The word vaccine comes from the Latin word for cow, *vacca*, as a tribute to the first cowpox-based vaccine. This concept of inducing immunity through controlled exposure to a pathogen revolutionized medicine and set the stage for future vaccines [@who_vaccines; @britannica_vaccines].
 
-Throughout the 19^th^ and 20^th^ centuries, vaccine development advanced rapidly. Louis Pasteur developed vaccines for rabies and anthrax, while the 20^th^ century saw the introduction of vaccines for diseases like diphtheria, tetanus, pertussis, and tuberculosis. The mid-20th century was a golden era of vaccine breakthroughs, with the polio vaccine developed by Jonas Salk in 1955 and later improved by Albert Sabin’s oral polio vaccine. These vaccines played a crucial role in nearly eradicating polio globally [@who_vaccines; @britannica_vaccines].
+Throughout the 19^th^ and 20^th^ centuries, vaccine development advanced rapidly. Louis Pasteur developed vaccines for rabies and anthrax, while the 20^th^ century saw the introduction of vaccines for diseases like diphtheria, tetanus, pertussis, and tuberculosis. The mid-20^th^ century was a golden era of vaccine breakthroughs, with the polio vaccine developed by Jonas Salk in 1955 and later improved by Albert Sabin’s oral polio vaccine. These vaccines played a crucial role in nearly eradicating polio globally [@who_vaccines; @britannica_vaccines].
 
-To put this into perspective, global immunization efforts have saved at least 154 million lives over the past 50 years. The measles vaccine alone has saved nearly 94 million lives since 1974. Thanks to the polio vaccine, more than 20 million people are able to walk today who would otherwise have been paralyzed. Smallpox, once a deadly disease that killed 300 million people in the 20th century alone, was eradicated in 1980 due to a successful global vaccination campaign [@who_vaccines; @britannica_vaccines]. 
+To put this into perspective, global immunization efforts have saved at least 154 million lives over the past 50 years. The measles vaccine alone has saved nearly 94 million lives since 1974. Thanks to the polio vaccine, more than 20 million people are able to walk today who would otherwise have been paralyzed. Smallpox, once a deadly disease that killed 300 million people in the 20^th^ century alone, was eradicated in 1980 due to a successful global vaccination campaign [@who_vaccines; @britannica_vaccines]. 
 
 Then why on Earth did some people chose to steer away from such a successful history?
 
@@ -54,9 +54,34 @@ One of these studies was one that was published in 2019 and carried out in Denma
 
 Pretty conclusive, right?! Well, not for anti-vaxxers who had already guzzled the Wakefield Kool-Aid. The damage was done!
 
+## Anti-Vax Greatest Hits
+
+Despite the overwhelming evidence, anti-vaxxers continue to cling to several myths. So, let's knock these down one at a time, shall we?
+
+1. **Vaccines contain harmful ingredients:**
+    - **Thimerosal:** Thimerosal is a mercury-based preservative that was used in some vaccines. However, extensive research has shown that thimerosal is safe and does not cause autism [@bmj_wakefield]. Moreover, thimerosal has been removed or reduced to trace amounts in all childhood vaccines since 2001 [@wikipedia_wakefield].
+    - **Aluminum:** Aluminum is used as an adjuvant in vaccines to enhance the immune response. The amount of aluminum in vaccines is minimal and well within safety limits [@bmj_wakefield]. Studies have shown that the aluminum exposure from vaccines is much lower than what infants receive from their diet [@wikipedia_wakefield].
+    - **Formaldehyde:** The amount of formaldehyde in vaccines is much lower than what is naturally found in the human body and is not harmful [@bmj_wakefield].
+
+2. **Too many shots/antigens in a short time:** Some argue that the current vaccine schedule overwhelms a child's immune system. However, scientific evidence shows that children's immune systems can handle multiple vaccines at once. The number of antigens children are exposed to through vaccines is much lower than what they encounter daily through natural exposure [@bmj_wakefield].
+
+3. **Natural Immunity is Better:** Some anti-vaxxers argue that natural immunity from contracting a disease is better than vaccine-induced immunity. While natural immunity can be strong, it comes with the risk of severe illness, complications, and even death. Vaccines provide a safe way to develop immunity without these risks [@bmj_wakefield].
+
+4. **Vaccines Cause Autoimmune Diseases:** There is a claim that vaccines can trigger autoimmune diseases. However, extensive research has shown no link between vaccines and autoimmune diseases. The benefits of vaccination far outweigh the minimal risks [@bmj_wakefield].
+
+5. **Vaccines Contain Harmful Ingredients:** Anti-vaxxers often point to ingredients like formaldehyde, which is used in some vaccines. However, the amount of formaldehyde in vaccines is much lower than what is naturally found in the human body and is not harmful [@bmj_wakefield].
+
+6. **Vaccines Are Not Effective:** Some argue that vaccines do not work and that vaccinated individuals still get sick. Tell that to smallpox, which was eradicated thanks to vaccines. No vaccine is 100% effective, but honestly, what is? Seat belts and helmets aren't 100% effective either, yet we happily use them because we're reasonable people trying to prevent serious injuries, even by a tiny bit. Even if you end up getting sick, vaccines significantly reduce the risk of spreading diseases, supporting herd immunity that helps protect those who cannot be vaccinated [@bmj_wakefield].
+
+7.  **Pharmaceutical Companies Profit from Vaccines:** There is a belief that vaccines are pushed by pharmaceutical companies for profit. While companies do profit from vaccines, the primary goal of vaccination programs is public health. Vaccines save millions of lives and prevent the spread of infectious diseases [@bmj_wakefield]. Also, don't forget that numerous respectable scientists are involved in the process of vaccine productions. These are just people who have families that they too want to protect, which can only happen if the whole community is well protected by effective and safe vaccines. 
+
+8.  **Autism Cases are on the Rise:** Anti-vaxxers often point to the rising prevalence of autism as evidence that vaccines are to blame. However, the increase in autism diagnoses is largely due to better awareness, improved diagnostic criteria, and broader definitions of autism spectrum disorder (ASD) [@cdc_autism; @statista_autism]. In other words, we're getting better at recognizing and diagnosing autism, not causing it. As we mentioned earlier, numerous studies have shown no link between vaccines and autism [@mayo_autism]. So, while autism diagnoses are indeed on the rise, vaccines are not the culprit.
+
+
+
 ## The Current Impact of the Anti-Vax Movement
 
-Despite the discrediting of Wakefield’s fraudulent claims, the anti-vax movement, which guzzled the Wakefield Kool-Aid, has persisted and even grown. This movement has led to a resurgence of vaccine-preventable diseases. For instance, measles cases have spiked globally, with outbreaks in regions where vaccination rates have dropped. The World Health Organization has listed vaccine hesitancy as one of the top threats to global health [@who_vaccines; @britannica_vaccines].
+The anti-vax movement has led to a resurgence of vaccine-preventable diseases. For instance, measles cases have spiked globally, with outbreaks in regions where vaccination rates have dropped. The World Health Organization has listed vaccine hesitancy as one of the top threats to global health [@who_vaccines; @britannica_vaccines].
 
 The consequences of the anti-vax movement are dire. Unvaccinated individuals are at a higher risk of contracting and spreading diseases, leading to preventable illnesses and deaths. In some areas, previously eradicated diseases are making a comeback, putting vulnerable populations, such as infants and immunocompromised individuals, at risk [@who_vaccines; @britannica_vaccines].
 
@@ -66,11 +91,11 @@ The "Theory of Stupidity," developed by German theologian and philosopher Dietri
 
 One key aspect of Bonhoeffer's theory is that stupidity is resistant to reason and facts. When confronted with evidence that contradicts their beliefs, people entrenched in stupidity dismiss it outright. This makes them particularly dangerous because they become self-satisfied and hostile when challenged. Sound familiar?
 
-The anti-vax movement is a modern manifestation of this principle. It thrives on misinformation, paranoia, and a deep distrust of expertise. Instead of Soviet propaganda, we now have social media algorithms amplifying nonsense at an unprecedented scale. The result? Parents refusing to vaccinate their kids because they believe in medical fairy tales spun by influencers with no medical training. It’s like Lysenkoism all over again--—except this time, instead of Stalinist repression, we have the tyranny of viral stupidity [@bigthink_bonhoeffer; @sprouts_bonhoeffer].
+The anti-vax movement is a modern manifestation of this principle. It thrives on misinformation, paranoia, and a deep distrust of expertise. Instead of Soviet propaganda, we now have social media algorithms amplifying nonsense at an unprecedented scale. The result? Parents refusing to vaccinate their kids because they believe in medical fairy tales spun by influencers with no medical training. It’s like Lysenkoism all over again---except this time, instead of Stalinist repression, we have the tyranny of viral stupidity [@bigthink_bonhoeffer; @sprouts_bonhoeffer].
 
 ## Conclusion
 
-Let's be clear: the evidence is overwhelming and irrefutable--—vaccines save lives. Yet, despite all the scientific proof, anti-vaxxers cling to their misguided beliefs, putting everyone at risk. If you choose not to vaccinate your child and they end up sick, or worse, dead, that's on you. And if your unvaccinated child infects someone else, especially a vulnerable person like an infant or someone with a compromised immune system, then their suffering and potential death are YOUR FAULT. This isn't just about personal choice; it's about public responsibility. Ignorance and stubbornness in the face of clear evidence aren’t just foolish—they’re dangerous.
+Let's be clear: the evidence is overwhelming and irrefutable---vaccines save lives. Yet, despite all the scientific proof, anti-vaxxers cling to their misguided beliefs, putting everyone at risk. If you choose not to vaccinate your child and they end up sick, or worse, dead, that's on you. And if your unvaccinated child infects someone else, especially a vulnerable person like an infant or someone with a compromised immune system, then their suffering and potential death are YOUR FAULT. This isn't just about personal choice; it's about public responsibility. Ignorance and stubbornness in the face of clear evidence aren’t just foolish—they’re dangerous.
 
 And so, here we are, in a world where medical science has handed us the tools to prevent disease, yet we're still battling outbreaks fueled by willful ignorance. If history has taught us anything, it's that rejecting science in favor of ideological nonsense always ends in disaster. But hey, at least Lysenko didn’t have a YouTube channel to amplify his pseudoscience even further.
 
