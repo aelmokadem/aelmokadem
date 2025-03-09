@@ -8,7 +8,7 @@ date: last-modified
 image: preventive-coronavirus-vaccine-bottles.jpg
 #title: "Anti-Vax: The Dumbest Way to Go"
 title: "Anti-Vax: A Case Study in the Theory of Stupidity" 
-description: "This article examines the history and benefits of vaccines, debunks Andrew Wakefield's fraudulent claims linking vaccines to autism, and discusses the harmful effects of the anti-vax movement, including disease resurgence and political influence on vaccine hesitancy. It underscores the need to fight misinformation to safeguard public health."
+description: "This article compares Lysenkoism and the anti-vax movement, highlighting their rejection of science for ideology, and connects them to Bonhoeffer's 'Theory of Stupidity,' emphasizing the dangers of ignorance and the need for public health responsibility."
 bibliography: references.bib
 draft: true
 comments:
@@ -16,44 +16,61 @@ comments:
         repo: aelmokadem/aelmokadem
 ---
 
+## Lysenkoism: A Prelude to Modern Stupidity
+
+Lysenkoism, a political and scientific movement led by Soviet biologist Trofim Lysenko, rejected Mendelian genetics in favor of a flawed form of Lamarckism. Lysenko's theories, which he termed "Michurinism" after the Russian plant breeder Ivan Michurin, claimed that environmental changes could directly alter an organism's traits and that these changes could be inherited by future generations. This contradicted the well-established principles of genetics developed by Gregor Mendel and others, which showed that traits are inherited through genes that remain largely unchanged except for mutations and recombination during reproduction [@wikipedia_lysenkoism; @ethos_lysenkoism].
+
+With the backing of Joseph Stalin, Lysenko’s pseudoscientific ideas gained dominance in Soviet biology. Stalin’s support was crucial, as it allowed Lysenko to suppress dissenting scientific views and promote his theories as the official state doctrine. This led to the dismissal, imprisonment, or execution of over 3,000 mainstream biologists, including prominent geneticists like Nikolai Vavilov, who had initially mentored Lysenko but later denounced him. Vavilov was imprisoned and died in custody, and Soviet genetics research was effectively destroyed during this period [@wikipedia_lysenkoism; @ethos_lysenkoism].
+
+Lysenko’s influence extended beyond genetics to other fields of biology, including neurophysiology and cell biology, which were also harmed or banned. His agricultural policies, based on his flawed theories, led to widespread crop failures and food shortages, contributing to the suffering of millions of people. Despite the clear failures of his methods, Lysenko remained in power for many years, as his ideas aligned with the political ideology of the Soviet regime [@wikipedia_lysenkoism; @ethos_lysenkoism].
+
+The term "Lysenkoism" has since come to symbolize the dangers of political interference in science. It serves as a cautionary tale of how ideological agendas can distort scientific knowledge and lead to disastrous consequences.
+
+## The Anti-Vax Movement: Lysenkoism’s Brain-Dead Cousin
+
+Fast forward to the modern era, and it seems that we, as a species, have learned absolutely nothing. As I followed in horrified amazement the progress of the anti-vax—--and more generally the anti-science--—movement, I kept being reminded of Lysenkoism and how these movements were actually the same. The sheer audacity required to reject centuries of scientific progress in favor of YouTube conspiracy theories is truly something to behold. It begs the question: what could possibly motivate people to turn their backs on one of the most significant human advancements in medical history, putting themselves, their loved ones, and their whole communities in harm’s way for absolutely no reason? Well, I believe I have reached a reasonable answer, but before the big reveal, let’s first take a quick tour through the history of vaccines and how they helped humanity, just to have some perspective on how idiotic the anti-vax movement is.
+
 ## The Historical Progress and Impact of Vaccines
 
-Vaccines have been one of the most significant advancements in medical history. The journey began with Edward Jenner's smallpox vaccine in 1796, which laid the foundation for modern immunology [@jenner1796]. Over the centuries, vaccines have eradicated smallpox, nearly eliminated polio, and significantly reduced the incidence of diseases like measles, mumps, and rubella. The impact of vaccines on public health is profound, with millions of lives saved and countless diseases prevented.
+The journey of vaccines began with Edward Jenner’s smallpox vaccine in 1796, which laid the foundation for modern immunology. Jenner’s groundbreaking discovery demonstrated that exposure to cowpox could confer immunity to smallpox, leading to the development of the first successful vaccine. Fun fact: The word vaccine comes from the Latin word for cow, *vacca*, as a tribute to the first cowpox-based vaccine. This concept of inducing immunity through controlled exposure to a pathogen revolutionized medicine and set the stage for future vaccines [@who_vaccines; @britannica_vaccines].
 
-To put this into perspective, global immunization efforts have saved at least 154 million lives over the past 50 years [@who2024]. The measles vaccine alone has saved nearly 94 million lives since 1974 [@who2024]. Thanks to the polio vaccine, more than 20 million people are able to walk today who would otherwise have been paralyzed [@who2024]. Smallpox, once a deadly disease that killed 300 million people in the 20th century alone, was eradicated in 1980 due to a successful global vaccination campaign [@247wallst2020].
+Throughout the 19^th^ and 20^th^ centuries, vaccine development advanced rapidly. Louis Pasteur developed vaccines for rabies and anthrax, while the 20^th^ century saw the introduction of vaccines for diseases like diphtheria, tetanus, pertussis, and tuberculosis. The mid-20th century was a golden era of vaccine breakthroughs, with the polio vaccine developed by Jonas Salk in 1955 and later improved by Albert Sabin’s oral polio vaccine. These vaccines played a crucial role in nearly eradicating polio globally [@who_vaccines; @britannica_vaccines].
+
+To put this into perspective, global immunization efforts have saved at least 154 million lives over the past 50 years. The measles vaccine alone has saved nearly 94 million lives since 1974. Thanks to the polio vaccine, more than 20 million people are able to walk today who would otherwise have been paralyzed. Smallpox, once a deadly disease that killed 300 million people in the 20th century alone, was eradicated in 1980 due to a successful global vaccination campaign [@who_vaccines; @britannica_vaccines]. 
+
+Then why on Earth did some people chose to steer away from such a successful history?
 
 ## The Wakefield Paper: A Fraudulent Beginning
 
-Ah, the infamous Wakefield paper. In 1998, Andrew Wakefield published a paper in *The Lancet* claiming a link between the MMR (measles, mumps, and rubella) vaccine and autism [@wakefield1998]. This paper was later found to be fraudulent, with Wakefield manipulating data and having undisclosed conflicts of interest [@wakefield2010]. 
+Ah, the infamous Wakefield paper. In 1998, Andrew Wakefield published a paper in The Lancet claiming a link between the MMR (measles, mumps, and rubella) vaccine and autism. This paper was later found to be fraudulent, with Wakefield manipulating data and having undisclosed conflicts of interest [@bmj_wakefield; @wikipedia_wakefield].
 
-Let's dive into the juicy details. Wakefield's study was based on a whopping sample size of... twelve children. Yes, you read that right. Twelve. And these weren't just any children; they were handpicked to fit his narrative. The study had no control group, relied heavily on parental recall (because memories are always reliable, right?), and linked three common conditions without any solid evidence [@bmj2011].
+Let's dive into the juicy details. Wakefield's study was based on a whopping sample size of... twelve children. Yes, you read that right. Twelve. And these weren't just any children; they were handpicked to fit his narrative. The study had no control group, relied heavily on parental recall (because memories are always reliable, right?), and linked three common conditions without any solid evidence [@bmj_wakefield; @wikipedia_wakefield].
 
-But wait, there's more! Wakefield had financial motives too. He was involved in a lawsuit against vaccine manufacturers and had a patent for a rival vaccine. Talk about a conflict of interest [@bmj2011]. He even stood to make millions from selling diagnostic kits for a non-existent syndrome he claimed to have discovered [@wikipedia2023]. The paper was retracted in 2010, and Wakefield was stripped of his medical license [@wakefield2010]. 
+But wait, there's more! Wakefield had financial motives too. He was involved in a lawsuit against vaccine manufacturers and had a patent for a rival vaccine. Talk about a conflict of interest. He even stood to make millions from selling diagnostic kits for a non-existent syndrome he claimed to have discovered. 
+
+As a result of all this, the paper was retracted in 2010, and Wakefield was stripped of his medical license [@bmj_wakefield; @wikipedia_wakefield]. Since the release of this bloody paper, numerous studies have been carried out and not one supported its conclusions. On the contrary, all of these papers had the exact opposite conclusion: there is absolutely no correlation between the MMR vaccine and autism!  
+
+One of these studies was one that was published in 2019 and carried out in Denmark. This study was one of the largest and most comprehensive studies to investigate the link between the MMR vaccine and autism. Researchers analyzed data from 657,461 children born between 1999 and 2010, following them from age one until August 2013. The study found no increased risk of autism in children who received the MMR vaccine compared to those who did not.
+
+Pretty conclusive, right?! Well, not for anti-vaxxers who had already guzzled the Wakefield Kool-Aid. The damage was done!
 
 ## The Current Impact of the Anti-Vax Movement
 
-Despite the discrediting of Wakefield's paper, the anti-vax movement has persisted and even grown. This movement has led to a resurgence of vaccine-preventable diseases. For instance, measles cases have spiked globally, with outbreaks in regions where vaccination rates have dropped [@who2019]. The World Health Organization has listed vaccine hesitancy as one of the top threats to global health [@who2019].
+Despite the discrediting of Wakefield’s fraudulent claims, the anti-vax movement, which guzzled the Wakefield Kool-Aid, has persisted and even grown. This movement has led to a resurgence of vaccine-preventable diseases. For instance, measles cases have spiked globally, with outbreaks in regions where vaccination rates have dropped. The World Health Organization has listed vaccine hesitancy as one of the top threats to global health [@who_vaccines; @britannica_vaccines].
 
-The consequences of the anti-vax movement are dire. Unvaccinated individuals are at a higher risk of contracting and spreading diseases, leading to preventable illnesses and deaths. In some areas, previously eradicated diseases are making a comeback, putting vulnerable populations, such as infants and immunocompromised individuals, at risk.
+The consequences of the anti-vax movement are dire. Unvaccinated individuals are at a higher risk of contracting and spreading diseases, leading to preventable illnesses and deaths. In some areas, previously eradicated diseases are making a comeback, putting vulnerable populations, such as infants and immunocompromised individuals, at risk [@who_vaccines; @britannica_vaccines].
 
-## The Political Impact on Vaccine Hesitancy
+## The Theory of Stupidity: Connecting the Dots
 
-Politics, as it turns out, plays a significant role in vaccine hesitancy. The politicization of vaccines, especially during the COVID-19 pandemic, has fueled mistrust and skepticism. Political leaders and influencers have used vaccines as a tool to advance their agendas, often spreading misinformation and creating confusion [@bmj2024]. 
+The "Theory of Stupidity," developed by German theologian and philosopher Dietrich Bonhoeffer, provides a framework for understanding the persistence and danger of movements like Lysenkoism and the anti-vax movement. Bonhoeffer argued that stupidity is more dangerous than evil because it can be manipulated and used by evil forces, and it often goes hand-in-hand with power [@bigthink_bonhoeffer; @sprouts_bonhoeffer].
 
-For example, during the 2020 U.S. presidential election, vaccine hesitancy spiked due to conflicting messages from political leaders and uncertainty about the vaccine approval process [@duke2024]. This political turmoil led to increased vaccine hesitancy among various demographic groups, including Democrats, Asian and Black citizens, and college-educated individuals [@duke2024].
+One key aspect of Bonhoeffer's theory is that stupidity is resistant to reason and facts. When confronted with evidence that contradicts their beliefs, people entrenched in stupidity dismiss it outright. This makes them particularly dangerous because they become self-satisfied and hostile when challenged. Sound familiar?
 
-The rise of social media has also amplified the spread of vaccine misinformation. Anti-vaccine campaigns have proliferated online, reaching millions of people and undermining public health efforts [@columbia2024]. The high volume of misinformation can override reliable sources, making it challenging to counteract false claims effectively [@columbia2024].
+The anti-vax movement is a modern manifestation of this principle. It thrives on misinformation, paranoia, and a deep distrust of expertise. Instead of Soviet propaganda, we now have social media algorithms amplifying nonsense at an unprecedented scale. The result? Parents refusing to vaccinate their kids because they believe in medical fairy tales spun by influencers with no medical training. It’s like Lysenkoism all over again--—except this time, instead of Stalinist repression, we have the tyranny of viral stupidity [@bigthink_bonhoeffer; @sprouts_bonhoeffer].
 
 ## Conclusion
 
-The anti-vax movement, fueled by misinformation, fraudulent claims, and political agendas, poses a significant threat to public health. Vaccines have a proven track record of saving lives and preventing diseases. It is crucial to combat misinformation and promote the benefits of vaccination to protect our communities and future generations.
+Let's be clear: the evidence is overwhelming and irrefutable--—vaccines save lives. Yet, despite all the scientific proof, anti-vaxxers cling to their misguided beliefs, putting everyone at risk. If you choose not to vaccinate your child and they end up sick, or worse, dead, that's on you. And if your unvaccinated child infects someone else, especially a vulnerable person like an infant or someone with a compromised immune system, then their suffering and potential death are YOUR FAULT. This isn't just about personal choice; it's about public responsibility. Ignorance and stubbornness in the face of clear evidence aren’t just foolish—they’re dangerous.
 
+And so, here we are, in a world where medical science has handed us the tools to prevent disease, yet we're still battling outbreaks fueled by willful ignorance. If history has taught us anything, it's that rejecting science in favor of ideological nonsense always ends in disaster. But hey, at least Lysenko didn’t have a YouTube channel to amplify his pseudoscience even further.
 
-
-The "Theory of Stupidity" was developed by the German theologian and philosopher Dietrich Bonhoeffer. He argued that stupidity is more dangerous than evil because it can be manipulated and used by evil forces, and it often goes hand-in-hand with power @Bonhoeffer2023 @BigThink2023.
-
-Bonhoeffer's theory suggests that stupidity is not merely an intellectual defect but a human one. It is not necessarily linked to a lack of intelligence; rather, it is a social phenomenon that can arise under certain circumstances. For example, people who are isolated or live in solitude are less likely to exhibit stupidity compared to those who are part of large groups or societies @Bonhoeffer2023.
-
-One key aspect of Bonhoeffer's theory is that stupidity is resistant to reason and facts. When confronted with evidence that contradicts their beliefs, stupid people often dismiss it as inconsequential or irrelevant. This makes them particularly dangerous because they are self-satisfied and can become aggressive when challenged @BigThink2023.
-
-Bonhoeffer also noted that every strong upsurge of power in the public sphere, whether political or religious, tends to infect a large part of humanity with stupidity. This is because the power of one person or group often requires the submission and uncritical acceptance of others @Bonhoeffer2023.
