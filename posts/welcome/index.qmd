@@ -2,6 +2,7 @@
 categories:
 - ABOUT THIS BLOG
 date: last-modified
+#date: 2025-03-09
 image: welcome.jpg
 title: "Welcome to My Blog" 
 description: "An introduction to my blog where we discuss everything from science to philosophy, politics, and more. Your thoughts and feedback are welcome!"
