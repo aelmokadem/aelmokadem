@@ -1,0 +1,58 @@
+---
+categories:
+- SCIENCE
+- TRANSGENDER
+- POLITICS
+date: last-modified
+description: This article explores nihilism and fundamentalism, their impact on society, and Nietzsche's solution to nihilism. It suggests creating new, flexible ideologies to restore human value and identity, urging readers to reflect on their own beliefs.
+image: trans-mouse.png
+title: "No, They're Not Making Mice Transgender!"
+#bibliography: references.bib
+comments:
+    giscus:
+        repo: aelmokadem/aelmokadem
+draft: true
+---
+
+
+
+The claim that the Biden administration spent millions on "transgender animal experiments" is misleading and lacks context. Here’s a breakdown of the situation:
+
+Context of the Research
+The research projects in question involve studying the effects of hormone therapies and other treatments on mice to understand various health outcomes. These studies are not about "making mice transgender" but rather about understanding how hormone therapies, which are used in gender-affirming treatments, affect health conditions such as HIV, cancer, and asthma.
+
+Examples of Funded Research
+HIV Vaccine Responses: A study funded with $455,000 aimed to understand how gender-affirming hormone therapy affects immune responses to HIV vaccines1.
+Reproductive Health: A $2,500,000 study investigated the long-term effects of testosterone therapy on reproductive health in transgender men1.
+Breast Cancer Risk: A $299,940 project explored the impact of testosterone therapy on breast cancer risk and treatment outcomes1.
+Microbiome and Bone Health: Research funded with $735,113 examined how hormone therapy affects the gut microbiome and bone health1.
+Reproductive Neuroendocrine Axis: A $1,200,000 study focused on how androgens affect the reproductive neuroendocrine system1.
+Asthma Outcomes: A $3,100,000 project investigated how gonadal hormones influence asthma outcomes1.
+Misinterpretation of the Research
+The term "transgender animal experiments" is a mischaracterization. These studies are designed to improve our understanding of how hormone therapies impact various health conditions, which can benefit both transgender and non-transgender individuals. The research aims to provide insights that can lead to better medical treatments and outcomes.
+
+Conclusion
+While it is true that the Biden administration funded research involving hormone therapies in mice, the characterization of these studies as "transgender animal experiments" is misleading. The research is focused on understanding the health impacts of hormone therapies, not on making animals transgender.
+
+
+
+1. A Mouse Model to Test the Effects of Gender-affirming Hormone Therapy on HIV Vaccine-induced Immune Responses
+This project, funded with $455,000, aims to develop a mouse model to study the effects of gender-affirming hormone therapy (GAHT) on immune responses to HIV vaccines. The research focuses on understanding how feminizing hormone therapy impacts the immune system, which is crucial for improving HIV vaccine efficacy in transgender individuals1.
+
+1. Reproductive Consequences of Steroid Hormone Administration
+With a budget of $2,500,000, this study investigates the long-term effects of testosterone therapy on reproductive health in transgender men. The research uses a mouse model to mimic testosterone treatment and examines its impact on ovarian architecture and fertility. The goal is to understand whether these effects are reversible after stopping the therapy2.
+
+1. Gender-Affirming Testosterone Therapy on Breast Cancer Risk and Treatment Outcomes
+This project, funded with $299,940, explores the impact of testosterone therapy on breast cancer risk and treatment outcomes. The study compares breast cancer incidences and survival rates in female mice receiving testosterone therapy with those not receiving it. The aim is to provide insights into how gender-affirming hormone therapy affects breast cancer risk3.
+
+1. Microbiome Mediated Effects of Gender Affirming Hormone Therapy in Mice
+With $735,113 in funding, this research examines how gender-affirming hormone therapy affects the gut microbiome and, consequently, bone health. The study investigates the role of the microbiome in mediating the effects of hormone therapy on skeletal maturation and bone structure4.
+
+1. Androgen Effects on the Reproductive Neuroendocrine Axis
+This project, funded with $1,200,000, studies how androgens (male hormones) affect the reproductive neuroendocrine system. The research uses transgenic mice to understand the mechanisms by which androgens inhibit reproductive hormone secretion, focusing on the role of androgen receptors in kisspeptin neurons5.
+
+1. Gonadal Hormones as Mediators of Sex and Gender Influences in Asthma
+With a budget of $3,100,000, this study investigates how gonadal hormones, particularly estrogens, influence asthma outcomes. The research uses a mouse model to explore the contributions of estrogens to asthma phenotypes and aims to develop gender-specific treatments for asthma6.
+
+These projects aim to advance our understanding of how gender-affirming hormone therapies impact various aspects of health, from immune responses and reproductive health to cancer risk and asthma outcomes. If you have any more questions or need further details, feel free to ask!
+
