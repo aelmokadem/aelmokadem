@@ -12,7 +12,7 @@ title: "Numbers that Dazzled the World"
 comments:
     giscus:
         repo: aelmokadem/aelmokadem
-draft: true
+draft: false
 ---
 
 # Numbers that Dazzled the World (Arabic)

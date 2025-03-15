@@ -1,7 +1,10 @@
 [
   {
     "listing": "/books/index.html",
-    "items": []
+    "items": [
+      "/books/numbers/index.html",
+      "/books/dreamers/index.html"
+    ]
   },
   {
     "listing": "/posts/index.html",
