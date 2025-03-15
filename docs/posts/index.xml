@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Ahmed Elmokadem</title>
+<link>https://github.com/aelmokadem/aelmokadem.github.io/posts/</link>
+<atom:link href="https://github.com/aelmokadem/aelmokadem.github.io/posts/index.xml" rel="self" type="application/rss+xml"/>
+<description></description>
+<generator>quarto-1.6.42</generator>
+<lastBuildDate>Sun, 09 Mar 2025 17:35:02 GMT</lastBuildDate>
+<item>
+  <title>Welcome to My Blog</title>
+  <dc:creator>Ahmed Elmokadem</dc:creator>
+  <link>https://github.com/aelmokadem/aelmokadem.github.io/posts/welcome/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Hello and welcome to my little corner of the internet! I’m thrilled to have you here. This blog is a space where my passion for discussions and good debates comes to life. Whether you’re a curious mind, a seasoned debater, or just someone looking for interesting reads, there’s something here for you.</p>
+<p>We’ll dive into a wide range of topics, from the latest scientific discoveries to deep philosophical questions. We’ll explore the intricacies of political landscapes and, yes, even venture into the often controversial and confrontational realms of religion and politics. (Because who doesn’t love a good debate that can potentially end friendships, right? 😉)</p>
+<p>But this blog isn’t just about my thoughts and opinions. I want to hear from you! Use the comments section to provide feedback, engage in discussions, or suggest topics you’d like to see covered. Your input is invaluable and will help shape the direction of this blog.</p>
+<p>So, grab a cup of coffee, get comfortable, and let’s embark on this journey of exploration and debate together. I can’t wait to see where our conversations will take us!</p>
+<p>Happy reading and debating!</p>
+
+
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@misc{elmokadem2025,
+  author = {{Ahmed Elmokadem}},
+  title = {Welcome to {My} {Blog}},
+  date = {2025-03-09},
+  url = {https://github.com/aelmokadem/aelmokadem.github.io/posts/welcome/},
+  langid = {en-GB}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-elmokadem2025" class="csl-entry quarto-appendix-citeas">
+Ahmed Elmokadem. 2025. <span>“Welcome to My Blog.”</span> <a href="https://github.com/aelmokadem/aelmokadem.github.io/posts/welcome/">https://github.com/aelmokadem/aelmokadem.github.io/posts/welcome/</a>.
+</div></div></section></div> ]]></description>
+  <category>ABOUT THIS BLOG</category>
+  <guid>https://github.com/aelmokadem/aelmokadem.github.io/posts/welcome/</guid>
+  <pubDate>Sun, 09 Mar 2025 17:35:02 GMT</pubDate>
+  <media:content url="https://github.com/aelmokadem/aelmokadem.github.io/posts/welcome/welcome.jpg" medium="image" type="image/jpeg"/>
+</item>
+</channel>
+</rss>

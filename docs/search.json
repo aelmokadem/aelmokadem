@@ -1,0 +1,100 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "books/index.html",
+    "href": "books/index.html",
+    "title": "Books",
+    "section": "",
+    "text": "The Dreamers (Arabic)\nhttps://www.jarir.com/arabic-books-jbb6720na092.html\n\n\n\nNumbers that Dazzled the World (Arabic)\nhttps://www.jarir.com/arabic-books-522887.html?country=us"
+  },
+  {
+    "objectID": "disclaimer/index.html",
+    "href": "disclaimer/index.html",
+    "title": "Ahmed Elmokadem",
+    "section": "",
+    "text": "Opinions expressed on this Site are the author’s own in his personal capacity. They do not reflect the views of any organization, company, or board he is associated with."
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome to My Blog",
+    "section": "",
+    "text": "Hello and welcome to my little corner of the internet! I’m thrilled to have you here. This blog is a space where my passion for discussions and good debates comes to life. Whether you’re a curious mind, a seasoned debater, or just someone looking for interesting reads, there’s something here for you.\nWe’ll dive into a wide range of topics, from the latest scientific discoveries to deep philosophical questions. We’ll explore the intricacies of political landscapes and, yes, even venture into the often controversial and confrontational realms of religion and politics. (Because who doesn’t love a good debate that can potentially end friendships, right? 😉)\nBut this blog isn’t just about my thoughts and opinions. I want to hear from you! Use the comments section to provide feedback, engage in discussions, or suggest topics you’d like to see covered. Your input is invaluable and will help shape the direction of this blog.\nSo, grab a cup of coffee, get comfortable, and let’s embark on this journey of exploration and debate together. I can’t wait to see where our conversations will take us!\nHappy reading and debating!\n\n\n\nCitationBibTeX citation:@misc{elmokadem2025,\n  author = {{Ahmed Elmokadem}},\n  title = {Welcome to {My} {Blog}},\n  date = {2025-03-09},\n  url = {https://github.com/aelmokadem/aelmokadem.github.io/posts/welcome/},\n  langid = {en-GB}\n}\nFor attribution, please cite this work as:\nAhmed Elmokadem. 2025. “Welcome to My Blog.” https://github.com/aelmokadem/aelmokadem.github.io/posts/welcome/."
+  },
+  {
+    "objectID": "posts/index.html",
+    "href": "posts/index.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Welcome to My Blog\n\n\n\n\n\n\nABOUT THIS BLOG\n\n\n\nAn introduction to my blog where we discuss everything from science to philosophy, politics, and more. Your thoughts and feedback are welcome!\n\n\n\n\n\n9 Mar 2025\n\n\nAhmed Elmokadem\n\n\n\n\n\n\nNo matching items\n\nCitationBibTeX citation:@misc{elmokadem,\n  author = {{Ahmed Elmokadem}},\n  title = {Blog},\n  url = {https://github.com/aelmokadem/aelmokadem.github.io/posts/},\n  langid = {en-GB}\n}\nFor attribution, please cite this work as:\nAhmed Elmokadem. n.d. “Blog.” https://github.com/aelmokadem/aelmokadem.github.io/posts/."
+  },
+  {
+    "objectID": "papers/index.html",
+    "href": "papers/index.html",
+    "title": "Papers",
+    "section": "",
+    "text": "2024\nElmokadem A, Wiens M, Knab T, Utsey K, Callisto S, Kirouac D. Hierarchical deep compartment modeling: A workflow to leverage machine learning and Bayesian inference for hierarchical pharmacometric modeling. Clinical and Translational Science, October. https://doi.org/10.1111/cts.70045.\n\n\n2023\nElmokadem A, Zhang Y, Knab T, Jordie E, Gillespie WR. Bayesian PBPK Modeling using R/Stan/Torsten and Julia/SciML/Turing.jl. CPT: Pharmacometrics & Systems Pharmacology, January. https://doi.org/10.1002/psp4.12926.\n\n\n2021\nChigutsa E, Jordie E, Riggs M, Nirula A, Elmokadem A, Knab T, and Chien JY. A Quantitative Modeling and Simulation Framework to Support Candidate and Dose Selection of Anti-SARS-CoV-2 Monoclonal Antibodies to Advance Bamlanivimab into a First-in-Human Clinical Trial. Clinical Pharmacology & Therapeutics, October. https://doi.org/10.1002/cpt.2459. This manuscript received the “Outstanding Research Manuscript Award” from the International Society of Pharmacometrics (ISoP) in October 2022.\nBruno CD, Elmokadem A, Housand C, Jordie EB, Chow C, Laughren TP, and Greenblatt DJ. Impact of Obesity on Brexpiprazole Pharmacokinetics: Proposal for Improved Initiation of Treatment. Journal of Clinical Pharmacology, August. https://doi.org/10.1002/jcph.1947.\nElmokadem A, Bruno CD, Housand C, Jordie EB, Chow C, Lesko LJ, and Greenblatt DJ. Brexpiprazole Pharmacokinetics in CYP2D6 Poor Metabolizers: Using Physiologically Based Pharmacokinetic Modeling to Optimize Time to Effective Concentrations. Journal of Clinical Pharmacology, July. https://doi.org/10.1002/jcph.1946.\nJohnston CK, Eudy-Byrne RJ, Elmokadem A, Nock V, Marquard J, Soleymanlou N, Riggs MM, and Liesenfeld KH. A Model-Informed Drug Development (MIDD) Approach for a Low Dose of Empagliflozin in Patients with Type 1 Diabetes. Pharmaceutics, April. https://doi.org/10.3390/pharmaceutics13040485.\n\n\n2020\nUtsey K, Gastonguay MS, Russell S, Freling R, Riggs MM, and Elmokadem A. Quantification of the Impact of Partition Coefficient Prediction Methods on PBPK Model Output Using a Standardized Tissue Composition. Drug Metabolism and Disposition, July. https://doi.org/10.1124/dmd.120.090498. The paper was listed among the “Papers Worth Reading” by the International Society of Pharmacometrics (ISoP) newsletter issued in September 2020 https://doi.org/10.1124/dmd.120.090498.\n\n\n2019\nPerkins BA, Soleymanlou N, Rosenstock J, Skyler JS, Laffel LM, Liesenfeld KH, Neubacher D, Riggs MM, Johnston CK, Eudy‐Byrne RJ, Elmokadem A, George JT, Marquard J, and Nock V. Low‐dose empagliflozin as adjunct to insulin therapy in type 1 diabetes: A valid modelling and simulation analysis to confirm efficacy. Diabetes, Obesity and Metabolism, December. https://doi.org/10.1111/dom.13945.\nElmokadem A, Riggs MM, and Baron KB. Quantitative Systems Pharmacology and Physiologically-Based Pharmacokinetic Modeling With mrgsolve: A Hands-On Tutorial. CPT: Pharmacometrics & Systems Pharmacology, October. https://doi.org/10.1002/psp4.12467.\nJi Y and Elmokadem A. Single-Molecule Localization Microscopy as Nonlinear Inverse Problem. Proceedings of the National Academy of Sciences of the United States of America, September. https://doi.org/10.1073/pnas.1912634116.\n\n\n2015\nElmokadem A and Yu J. Optimal Drift Correction for Superresolution Localization Microscopy with Bayesian Inference. Biophys J. 109(9), 1772-1780. https://doi.org/10.1016/j.bpj.2015.09.017"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Ahmed Elmokadem",
+    "section": "",
+    "text": "I am a passionate Pharmacometrician and Senior Scientist with a deep love for science and science communication. I hold a PhD in Biomedical Sciences from the University of Connecticut. My research includes numerous publications on pharmacometric modeling and simulation across various therapeutic areas such as cancer, diabetes, and COVID-19. My work employs diverse techniques including Quantitative Systems Pharmacology (QSP), Physiologically-Based Pharmacokinetics (PBPK), Bayesian inference, and machine learning.\nI am proficient in programming languages such as Julia and R, which I use extensively in my research and modeling work. Beyond my professional expertise, I am deeply interested in the intersection of science, philosophy, and religion, and how these fields can inform and enrich each other. Additionally, I have a strong interest in mathematics, its history, and its profound impact on daily lives and human civilization. I am fascinated by how mathematical principles and numbers shape our world and contribute to solving complex scientific problems.\nI am also an author of both fiction and nonfiction, with two books published in Arabic and currently in the process of publishing them in English. My writing reflects my passion for science and my desire to communicate complex ideas in an accessible and engaging way."
+  },
+  {
+    "objectID": "index.html#bio",
+    "href": "index.html#bio",
+    "title": "Ahmed Elmokadem",
+    "section": "",
+    "text": "I am a passionate Pharmacometrician and Senior Scientist with a deep love for science and science communication. I hold a PhD in Biomedical Sciences from the University of Connecticut. My research includes numerous publications on pharmacometric modeling and simulation across various therapeutic areas such as cancer, diabetes, and COVID-19. My work employs diverse techniques including Quantitative Systems Pharmacology (QSP), Physiologically-Based Pharmacokinetics (PBPK), Bayesian inference, and machine learning.\nI am proficient in programming languages such as Julia and R, which I use extensively in my research and modeling work. Beyond my professional expertise, I am deeply interested in the intersection of science, philosophy, and religion, and how these fields can inform and enrich each other. Additionally, I have a strong interest in mathematics, its history, and its profound impact on daily lives and human civilization. I am fascinated by how mathematical principles and numbers shape our world and contribute to solving complex scientific problems.\nI am also an author of both fiction and nonfiction, with two books published in Arabic and currently in the process of publishing them in English. My writing reflects my passion for science and my desire to communicate complex ideas in an accessible and engaging way."
+  },
+  {
+    "objectID": "index.html#key-research-interests",
+    "href": "index.html#key-research-interests",
+    "title": "Ahmed Elmokadem",
+    "section": "Key research interests",
+    "text": "Key research interests\n\nPharmacometrics: Quantitative systems pharmacology (QSP), physiologically based pharmacokinetics (PBPK), population pharmacokinetics/pharmacodynamics (PKPD), Bayesian hierarchical PKPD modeling, merging pharmacometrics with machine learning"
+  },
+  {
+    "objectID": "index.html#teaching",
+    "href": "index.html#teaching",
+    "title": "Ahmed Elmokadem",
+    "section": "Teaching",
+    "text": "Teaching\nI serve as an adjunct professor at both the University of Connecticut and Indiana University"
+  },
+  {
+    "objectID": "index.html#books",
+    "href": "index.html#books",
+    "title": "Ahmed Elmokadem",
+    "section": "Books",
+    "text": "Books\nThe Dreamers (Arabic) https://www.jarir.com/arabic-books-jbb6720na092.html\nNumbers that Dazzled the World (Arabic) https://www.jarir.com/arabic-books-522887.html?country=us"
+  },
+  {
+    "objectID": "index.html#selected-papers",
+    "href": "index.html#selected-papers",
+    "title": "Ahmed Elmokadem",
+    "section": "Selected papers",
+    "text": "Selected papers\nElmokadem A, Wiens M, Knab T, Utsey K, Callisto S, Kirouac D. Hierarchical deep compartment modeling: A workflow to leverage machine learning and Bayesian inference for hierarchical pharmacometric modeling. Clinical and Translational Science, October. https://doi.org/10.1111/cts.70045.\nChigutsa E, Jordie E, Riggs M, Nirula A, Elmokadem A, Knab T, and Chien JY. A Quantitative Modeling and Simulation Framework to Support Candidate and Dose Selection of Anti-SARS-CoV-2 Monoclonal Antibodies to Advance Bamlanivimab into a First-in-Human Clinical Trial. Clinical Pharmacology & Therapeutics, October. https://doi.org/10.1002/cpt.2459. This manuscript received the “Outstanding Research Manuscript Award” from the International Society of Pharmacometrics (ISoP) in October 2022."
+  },
+  {
+    "objectID": "index.html#professional-affiliations",
+    "href": "index.html#professional-affiliations",
+    "title": "Ahmed Elmokadem",
+    "section": "Professional affiliations",
+    "text": "Professional affiliations\nInternational Society of Pharmacometrics (ISoP)\nAmerican Society of Clinical Pharmacology and Therapeutics (ASCPT)"
+  },
+  {
+    "objectID": "index.html#personal-life",
+    "href": "index.html#personal-life",
+    "title": "Ahmed Elmokadem",
+    "section": "Personal life",
+    "text": "Personal life\nI am a father and a husband who enjoys the routine scientific-philosophical-religious-political discussions with my family. My wife is incredibly supportive and loving, always encouraging me in my pursuits and standing by my side through thick and thin. We share a deep bond and a mutual passion for exploring life’s big questions together.\nVideo game time with my son is also something I cherish. It’s our special way of bonding and having fun, whether we’re teaming up to conquer virtual worlds or just laughing at our in-game mishaps. These moments are priceless and bring a lot of joy to our lives."
+  }
+]
