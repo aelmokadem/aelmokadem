@@ -1,13 +1,12 @@
 ---
 categories:
 - SCIENCE
-- TRANSGENDER
 - POLITICS
 date: last-modified
-description: This article explores nihilism and fundamentalism, their impact on society, and Nietzsche's solution to nihilism. It suggests creating new, flexible ideologies to restore human value and identity, urging readers to reflect on their own beliefs.
+description: "This post dismantles the viral claim about 'transgender animal experiments,' revealing the truth: research on hormone therapies for conditions like HIV and cancer. With humor, it critiques sensationalism and transphobia, urging readers to question outrageous headlines and value science."
 image: trans-mouse.png
-title: "No, They're Not Making Mice Transgender!"
-#bibliography: references.bib
+title: "No, Trump, Biden Didn’t Spend $8 Million to 'Make Mice Transgender'"
+bibliography: references.bib
 comments:
     giscus:
         repo: aelmokadem/aelmokadem
@@ -15,44 +14,53 @@ draft: true
 ---
 
 
-
-The claim that the Biden administration spent millions on "transgender animal experiments" is misleading and lacks context. Here’s a breakdown of the situation:
-
-Context of the Research
-The research projects in question involve studying the effects of hormone therapies and other treatments on mice to understand various health outcomes. These studies are not about "making mice transgender" but rather about understanding how hormone therapies, which are used in gender-affirming treatments, affect health conditions such as HIV, cancer, and asthma.
-
-Examples of Funded Research
-HIV Vaccine Responses: A study funded with $455,000 aimed to understand how gender-affirming hormone therapy affects immune responses to HIV vaccines1.
-Reproductive Health: A $2,500,000 study investigated the long-term effects of testosterone therapy on reproductive health in transgender men1.
-Breast Cancer Risk: A $299,940 project explored the impact of testosterone therapy on breast cancer risk and treatment outcomes1.
-Microbiome and Bone Health: Research funded with $735,113 examined how hormone therapy affects the gut microbiome and bone health1.
-Reproductive Neuroendocrine Axis: A $1,200,000 study focused on how androgens affect the reproductive neuroendocrine system1.
-Asthma Outcomes: A $3,100,000 project investigated how gonadal hormones influence asthma outcomes1.
-Misinterpretation of the Research
-The term "transgender animal experiments" is a mischaracterization. These studies are designed to improve our understanding of how hormone therapies impact various health conditions, which can benefit both transgender and non-transgender individuals. The research aims to provide insights that can lead to better medical treatments and outcomes.
-
-Conclusion
-While it is true that the Biden administration funded research involving hormone therapies in mice, the characterization of these studies as "transgender animal experiments" is misleading. The research is focused on understanding the health impacts of hormone therapies, not on making animals transgender.
+In a recent statement, Donald Trump claimed that the Biden administration spent $8 million on "transgender animal experiments," suggesting that the government is funding efforts to, as he dramatically put it, "make mice transgender." This claim, which sounds like it was ripped straight from the script of a bad sci-fi movie, has predictably sparked outrage and confusion. To make matters worse, Trump’s propaganda arm, previously known as the White House official page, doubled down on the narrative, citing a list of studies with a triumphant "Aha, see!" [@whitehouse_transgender_2025]. But before you grab your pitchforks and torches, let’s take a step back and unpack this absurd claim with the seriousness it deserves (which is to say, not much at all).
 
 
+## The "Scandal" Explained
 
-1. A Mouse Model to Test the Effects of Gender-affirming Hormone Therapy on HIV Vaccine-induced Immune Responses
-This project, funded with $455,000, aims to develop a mouse model to study the effects of gender-affirming hormone therapy (GAHT) on immune responses to HIV vaccines. The research focuses on understanding how feminizing hormone therapy impacts the immune system, which is crucial for improving HIV vaccine efficacy in transgender individuals1.
+Trump’s claim hinges on the idea that the Biden administration is funding experiments to make animals transgender. Cue the outrage, the memes, and the inevitable Fox News segments. But here’s the thing: the truth is far less exciting—and far more scientific—than Trump and his followers would have you believe.
 
-1. Reproductive Consequences of Steroid Hormone Administration
-With a budget of $2,500,000, this study investigates the long-term effects of testosterone therapy on reproductive health in transgender men. The research uses a mouse model to mimic testosterone treatment and examines its impact on ovarian architecture and fertility. The goal is to understand whether these effects are reversible after stopping the therapy2.
+The so-called "transgender animal experiments" are actually research studies focused on understanding the effects of hormone therapies. You know, the kind of therapies used by transgender individuals as part of their medical care. But instead of, say, giving mice tiny little gender-affirming surgeries (which, let’s be honest, would be both ridiculous and logistically impossible), these studies are looking at how hormone treatments impact health conditions like HIV, cancer, and asthma. Shocking, right?
 
-1. Gender-Affirming Testosterone Therapy on Breast Cancer Risk and Treatment Outcomes
-This project, funded with $299,940, explores the impact of testosterone therapy on breast cancer risk and treatment outcomes. The study compares breast cancer incidences and survival rates in female mice receiving testosterone therapy with those not receiving it. The aim is to provide insights into how gender-affirming hormone therapy affects breast cancer risk3.
 
-1. Microbiome Mediated Effects of Gender Affirming Hormone Therapy in Mice
-With $735,113 in funding, this research examines how gender-affirming hormone therapy affects the gut microbiome and, consequently, bone health. The study investigates the role of the microbiome in mediating the effects of hormone therapy on skeletal maturation and bone structure4.
+## Breaking Down the "Controversial" Research
 
-1. Androgen Effects on the Reproductive Neuroendocrine Axis
-This project, funded with $1,200,000, studies how androgens (male hormones) affect the reproductive neuroendocrine system. The research uses transgenic mice to understand the mechanisms by which androgens inhibit reproductive hormone secretion, focusing on the role of androgen receptors in kisspeptin neurons5.
+Let’s take a closer look at some of these "scandalous" studies, shall we? Spoiler alert: none of them involve mice attending pride parades or coming out as non-binary.
 
-1. Gonadal Hormones as Mediators of Sex and Gender Influences in Asthma
-With a budget of $3,100,000, this study investigates how gonadal hormones, particularly estrogens, influence asthma outcomes. The research uses a mouse model to explore the contributions of estrogens to asthma phenotypes and aims to develop gender-specific treatments for asthma6.
+### 1. **HIV Vaccine Responses ($455,000)**  
+This study aimed to understand how gender-affirming hormone therapy affects immune responses to HIV vaccines [@nih_hiv_2021]. The horror! How dare scientists try to improve healthcare for transgender individuals, who are disproportionately affected by HIV? Next thing you know, they’ll be curing diseases or something equally outrageous.
 
-These projects aim to advance our understanding of how gender-affirming hormone therapies impact various aspects of health, from immune responses and reproductive health to cancer risk and asthma outcomes. If you have any more questions or need further details, feel free to ask!
+### 2. **Reproductive Health ($2,500,000)**  
+This project investigated the long-term effects of testosterone therapy on reproductive health in transgender men [@nih_reproductive_2021]. Imagine, scientists caring about the health and well-being of an underserved population. The audacity!
+
+### 3. **Breast Cancer Risk ($299,940)**  
+This study explored how testosterone therapy impacts breast cancer risk and treatment outcomes [@nih_breastcancer_2021]. Because, apparently, understanding how to better treat cancer is now a controversial endeavor.
+
+### 4. **Microbiome and Bone Health ($735,113)**  
+This research examined how hormone therapy affects the gut microbiome and bone health [@nih_microbiome_2021]. Because nothing says "waste of taxpayer money" like trying to prevent osteoporosis.
+
+### 5. **Reproductive Neuroendocrine Axis ($1,200,000)**  
+This study focused on how androgens affect the reproductive neuroendocrine system [@nih_neuroendocrine_2021]. Yes, it’s a mouthful, but no, it’s not about turning mice into drag queens.
+
+### 6. **Asthma Outcomes ($3,100,000)**  
+This project investigated how gonadal hormones influence asthma outcomes [@nih_asthma_2021]. Because, as we all know, understanding how hormones affect respiratory health is clearly a gateway to some kind of dystopian mouse utopia.
+
+## The Misinformation Machine
+
+The term "transgender animal experiments" is a masterclass in sensationalism. It’s the kind of phrase that makes you stop scrolling, click the link, and share it with all your friends without actually reading the article. But here’s the thing: these studies aren’t about making animals transgender. They’re about understanding how hormone therapies—which are used by real, live humans—affect the body. 
+
+The idea that scientists are sitting in a lab, twirling their mustaches and cackling as they force mice to transition is, frankly, ridiculous. But hey, why let facts get in the way of a good story?
+
+## Why This Matters
+
+Beyond the absurdity of the claim, this whole "controversy" highlights a bigger issue: the deliberate spread of misinformation to stoke outrage. By framing legitimate scientific research as some kind of bizarre government overreach, critics are not only misrepresenting the facts but also undermining important work that could improve healthcare for millions of people.
+
+And let’s not forget the transphobic undertones of this whole debacle. The implication that studying hormone therapies—which are a lifeline for many transgender individuals—is somehow frivolous or immoral is deeply harmful. It’s a reminder that, for some people, the mere existence of transgender individuals is a threat to their worldview.
+
+## Conclusion: Don’t Believe Everything Trump Says
+
+So, the next time you hear Trump or his allies claiming that the government is funding "transgender animal experiments," take a deep breath and ask yourself: does this sound like something that could actually be happening? Or does it sound like the plot of a bad B-movie? 
+
+The truth is, these studies are about improving healthcare and understanding the effects of hormone therapies. They’re not about turning mice into activists or whatever other nonsense the internet is peddling. But hey, if you’d rather believe in a world where scientists are secretly running a mouse pride parade, who am I to stop you?
 
