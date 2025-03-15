@@ -20,7 +20,7 @@ image-shape: round
 
 ## Bio
 
-I am a passionate Pharmacometrician and Senior Scientist with a deep love for science and science communication. I hold a PhD in Biomedical Sciences from the University of Connecticut. My research includes numerous publications on pharmacometric modeling and simulation across various therapeutic areas such as cancer, diabetes, and COVID-19. My work employs diverse techniques including Quantitative Systems Pharmacology (QSP), Physiologically-Based Pharmacokinetics (PBPK), Bayesian inference, and machine learning.
+I am a passionate Pharmacometrician and Senior Scientist with a deep love for science and science communication. I hold a PhD in Biomedical Sciences from the University of Connecticut. My research includes pharmacometric modeling and simulation across various therapeutic areas such as cancer, diabetes, and COVID-19. My work employs diverse techniques including Quantitative Systems Pharmacology (QSP), Physiologically-Based Pharmacokinetics (PBPK), Bayesian inference, and machine learning.
 
 I am proficient in programming languages such as Julia and R, which I use extensively in my research and modeling work. Beyond my professional expertise, I am deeply interested in the intersection of science, philosophy, and religion, and how these fields can inform and enrich each other. Additionally, I have a strong interest in mathematics, its history, and its profound impact on daily lives and human civilization. I am fascinated by how mathematical principles and numbers shape our world and contribute to solving complex scientific problems.
 
