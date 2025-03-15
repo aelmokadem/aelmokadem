@@ -5,7 +5,7 @@ categories:
 - MATH
 - HISTORY
 date: last-modified
-#description: This article explores nihilism and fundamentalism, their impact on society, and Nietzsche's solution to nihilism. It suggests creating new, flexible ideologies to restore human value and identity, urging readers to reflect on their own beliefs.
+description: This book takes readers on a captivating journey through the history and significance of extraordinary numbers that have shaped human thought and understanding. From the ancient civilizations that first counted and measured, to modern scientists decoding the cosmos, this book explores the profound impact of numbers on science, philosophy, literature, and society. Delving into the stories behind these remarkable numbers, the book reveals their mysteries, the struggles of those who discovered them, and their lasting influence on our world. Whether you are a student, a professional, or simply curious, this book invites you to uncover the magic of numbers and gain a deeper appreciation for their role in our lives and the universe.
 image: cover-numbers.png
 title: "Numbers that Dazzled the World"
 #bibliography: references.bib
