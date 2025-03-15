@@ -13,7 +13,8 @@ about:
           url: https://scholar.google.com/citations?user=1tqhtzMAAAAJ&hl=en 
         - text: "{{< fa envelope >}}"
           url: mailto:aelmokadem.pmx@gmail.com
-image: img/my-photo.png
+#image: img/my-photo.png
+image: img/Ahmed_ACoP.webp
 image-shape: round
 ---
 

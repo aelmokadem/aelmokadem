@@ -10,6 +10,7 @@ bibliography: references.bib
 comments:
     giscus:
         repo: aelmokadem/aelmokadem
+draft: true
 ---
 
 Before diving into this article, let's define the terms in the title: nihilism and fundamentalism.
