@@ -10,42 +10,7 @@
 <atom:link href="https://github.com/aelmokadem/aelmokadem.github.io/posts/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.6.42</generator>
-<lastBuildDate>Sat, 15 Mar 2025 01:55:46 GMT</lastBuildDate>
-<item>
-  <title></title>
-  <dc:creator>Ahmed Elmokadem</dc:creator>
-  <link>https://github.com/aelmokadem/aelmokadem.github.io/posts/science-religion/</link>
-  <description><![CDATA[ undefined ]]></description>
-  <category>SCIENCE</category>
-  <category>RELIGION</category>
-  <guid>https://github.com/aelmokadem/aelmokadem.github.io/posts/science-religion/</guid>
-  <pubDate>Sat, 15 Mar 2025 01:55:46 GMT</pubDate>
-  <media:content url="https://github.com/aelmokadem/aelmokadem.github.io/posts/science-religion/science-religion.jpeg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title></title>
-  <dc:creator>Ahmed Elmokadem</dc:creator>
-  <link>https://github.com/aelmokadem/aelmokadem.github.io/posts/vaccines-antivax/</link>
-  <description><![CDATA[ undefined ]]></description>
-  <category>VACCINE</category>
-  <category>MISINFORMATION</category>
-  <category>AUTISM</category>
-  <category>CONSPIRACY</category>
-  <guid>https://github.com/aelmokadem/aelmokadem.github.io/posts/vaccines-antivax/</guid>
-  <pubDate>Sat, 15 Mar 2025 01:44:10 GMT</pubDate>
-  <media:content url="https://github.com/aelmokadem/aelmokadem.github.io/posts/vaccines-antivax/male-medic-holding-vaccine-vial-with-syringe.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title></title>
-  <dc:creator>Ahmed Elmokadem</dc:creator>
-  <link>https://github.com/aelmokadem/aelmokadem.github.io/posts/nihilism-fundamentalism/</link>
-  <description><![CDATA[ undefined ]]></description>
-  <category>PHILOSOPHY</category>
-  <category>RELIGION</category>
-  <guid>https://github.com/aelmokadem/aelmokadem.github.io/posts/nihilism-fundamentalism/</guid>
-  <pubDate>Fri, 14 Mar 2025 15:44:09 GMT</pubDate>
-  <media:content url="https://github.com/aelmokadem/aelmokadem.github.io/posts/nihilism-fundamentalism/nihilism-fundamentalism.jpeg" medium="image" type="image/jpeg"/>
-</item>
+<lastBuildDate>Sun, 09 Mar 2025 17:35:02 GMT</lastBuildDate>
 <item>
   <title>Welcome to My Blog</title>
   <dc:creator>Ahmed Elmokadem</dc:creator>
@@ -77,18 +42,6 @@ Ahmed Elmokadem. 2025. <span>“Welcome to My Blog.”</span> <a href="https://g
   <guid>https://github.com/aelmokadem/aelmokadem.github.io/posts/welcome/</guid>
   <pubDate>Sun, 09 Mar 2025 17:35:02 GMT</pubDate>
   <media:content url="https://github.com/aelmokadem/aelmokadem.github.io/posts/welcome/welcome.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title></title>
-  <dc:creator>Ahmed Elmokadem</dc:creator>
-  <link>https://github.com/aelmokadem/aelmokadem.github.io/posts/god-science/</link>
-  <description><![CDATA[ undefined ]]></description>
-  <category>GOD</category>
-  <category>SCIENCE</category>
-  <category>RELIGION</category>
-  <guid>https://github.com/aelmokadem/aelmokadem.github.io/posts/god-science/</guid>
-  <pubDate>Sat, 08 Mar 2025 01:20:57 GMT</pubDate>
-  <media:content url="https://github.com/aelmokadem/aelmokadem.github.io/posts/god-science/god-science.jpeg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>

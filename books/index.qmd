@@ -1,16 +1,13 @@
 ---
 title: "Books"
+listing:
+  categories: true
+  contents:
+  - '*.qmd'
+  feed: true
+  filter-ui: false
+  sort: date desc
+  sort-ui: false
+  type: default
+page-layout: full
 ---
-
-# The Dreamers (Arabic)
-
-[https://www.jarir.com/arabic-books-jbb6720na092.html](https://www.jarir.com/arabic-books-jbb6720na092.html)
-
-![](cover-dreamers.png){width=200}
-
-
-# Numbers that Dazzled the World (Arabic)
-
-[https://www.jarir.com/arabic-books-522887.html?country=us](https://www.jarir.com/arabic-books-522887.html?country=us)
-
-![](cover-numbers.png){width=200}

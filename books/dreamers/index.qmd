@@ -1,0 +1,21 @@
+---
+categories:
+- FANTASY
+- SCIFI
+date: last-modified
+#description: This article explores nihilism and fundamentalism, their impact on society, and Nietzsche's solution to nihilism. It suggests creating new, flexible ideologies to restore human value and identity, urging readers to reflect on their own beliefs.
+image: cover-dreamers.png
+title: "The Dreamers"
+#bibliography: references.bib
+comments:
+    giscus:
+        repo: aelmokadem/aelmokadem
+draft: true
+---
+
+
+# The Dreamers (Arabic)
+
+[https://www.jarir.com/arabic-books-jbb6720na092.html](https://www.jarir.com/arabic-books-jbb6720na092.html)
+
+<!-- ![](cover-dreamers.png){width=200} -->

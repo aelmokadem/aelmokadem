@@ -14,7 +14,8 @@ about:
         - text: "{{< fa envelope >}}"
           url: mailto:aelmokadem.pmx@gmail.com
 #image: img/my-photo.png
-image: img/Ahmed_ACoP.webp
+#image: img/Ahmed_ACoP.webp
+image: img/89e3e9fe-69f3-45b5-b29d-daa40b191ff9.jpeg
 image-shape: round
 ---
 

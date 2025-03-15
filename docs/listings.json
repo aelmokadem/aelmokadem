@@ -1,12 +1,12 @@
 [
   {
+    "listing": "/books/index.html",
+    "items": []
+  },
+  {
     "listing": "/posts/index.html",
     "items": [
-      "/posts/science-religion/index.html",
-      "/posts/vaccines-antivax/index.html",
-      "/posts/nihilism-fundamentalism/index.html",
-      "/posts/welcome/index.html",
-      "/posts/god-science/index.html"
+      "/posts/welcome/index.html"
     ]
   }
 ]

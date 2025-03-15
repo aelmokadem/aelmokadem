@@ -1,0 +1,22 @@
+---
+categories:
+- NUMBERS
+- PHILOSOPHY
+- MATH
+- HISTORY
+date: last-modified
+#description: This article explores nihilism and fundamentalism, their impact on society, and Nietzsche's solution to nihilism. It suggests creating new, flexible ideologies to restore human value and identity, urging readers to reflect on their own beliefs.
+image: cover-numbers.png
+title: "Numbers that Dazzled the World"
+#bibliography: references.bib
+comments:
+    giscus:
+        repo: aelmokadem/aelmokadem
+draft: true
+---
+
+# Numbers that Dazzled the World (Arabic)
+
+[https://www.jarir.com/arabic-books-522887.html?country=us](https://www.jarir.com/arabic-books-522887.html?country=us)
+
+<!-- ![](cover-numbers.png){width=200} -->
