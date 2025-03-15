@@ -2,7 +2,11 @@
   {
     "listing": "/posts/index.html",
     "items": [
-      "/posts/welcome/index.html"
+      "/posts/science-religion/index.html",
+      "/posts/vaccines-antivax/index.html",
+      "/posts/nihilism-fundamentalism/index.html",
+      "/posts/welcome/index.html",
+      "/posts/god-science/index.html"
     ]
   }
 ]
