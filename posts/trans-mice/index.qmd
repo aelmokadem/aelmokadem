@@ -29,13 +29,13 @@ The so-called "transgender animal experiments" are actually research studies foc
 Let’s take a closer look at some of these "scandalous" studies, shall we? Spoiler alert: none of them involve mice attending pride parades or coming out as non-binary.
 
 ### 1. **HIV Vaccine Responses ($455,000)**  
-This study aimed to understand how gender-affirming hormone therapy affects immune responses to HIV vaccines [@nih_hiv_2021]. The horror! How dare scientists try to improve healthcare for transgender individuals, who are disproportionately affected by HIV? Next thing you know, they’ll be curing diseases or something equally outrageous.
+This study aimed to understand how gender-affirming hormone therapy affects immune responses to HIV vaccines [@nih_hiv_vaccine_2021]. The horror! How dare scientists try to improve healthcare for transgender individuals, who are disproportionately affected by HIV? Next thing you know, they’ll be curing diseases or something equally outrageous.
 
 ### 2. **Reproductive Health ($2,500,000)**  
 This project investigated the long-term effects of testosterone therapy on reproductive health in transgender men [@nih_reproductive_2021]. Imagine, scientists caring about the health and well-being of an underserved population. The audacity!
 
 ### 3. **Breast Cancer Risk ($299,940)**  
-This study explored how testosterone therapy impacts breast cancer risk and treatment outcomes [@nih_breastcancer_2021]. Because, apparently, understanding how to better treat cancer is now a controversial endeavor.
+This study explored how testosterone therapy impacts breast cancer risk and treatment outcomes [@nih_breast_cancer_2021]. Because, apparently, understanding how to better treat cancer is now a controversial endeavor.
 
 ### 4. **Microbiome and Bone Health ($735,113)**  
 This research examined how hormone therapy affects the gut microbiome and bone health [@nih_microbiome_2021]. Because nothing says "waste of taxpayer money" like trying to prevent osteoporosis.
