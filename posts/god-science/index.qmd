@@ -6,7 +6,7 @@ categories:
 date: last-modified
 description: This article examines the question of God's existence through scientific evidence. It argues that while direct proof is impossible, indirect evidence—like that used for atoms and black holes—can support the belief in a creator. The article introduces key scientific discoveries that suggest the existence of God.
 image: god-science.jpeg
-title: "Can Science Prove the Existence of God?"
+title: "Designed or Coincidence? The Scientific Case for a Creator"
 bibliography: references.bib
 draft: true
 comments:
