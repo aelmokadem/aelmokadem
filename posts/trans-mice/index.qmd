@@ -5,7 +5,7 @@ categories:
 date: last-modified
 description: "This post dismantles the viral claim about 'transgender animal experiments,' revealing the truth: research on hormone therapies for conditions like HIV and cancer. With humor, it critiques sensationalism and transphobia, urging readers to question outrageous headlines and value science."
 image: trans-mouse.png
-title: "No, Trump, Biden Didn’t Spend $8 Million to 'Make Mice Transgender'"
+title: "No, Biden Didn’t Spend $8 Million to 'Make Mice Transgender'"
 bibliography: references.bib
 comments:
     giscus:
