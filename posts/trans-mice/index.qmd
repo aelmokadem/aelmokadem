@@ -14,7 +14,7 @@ draft: true
 ---
 
 
-In a recent statement, Donald Trump claimed that the Biden administration spent $8 million on "transgender animal experiments," suggesting that the government is funding efforts to, as he dramatically put it, "make mice transgender." This claim, which sounds like it was ripped straight from the script of a bad sci-fi movie, has predictably sparked outrage and confusion. To make matters worse, Trump’s propaganda arm, previously known as the White House official page, doubled down on the narrative, citing a list of studies with a triumphant "Aha, see!" [@whitehouse_transgender_2025]. But before you grab your pitchforks and torches, let’s take a step back and unpack this absurd claim with the seriousness it deserves (which is to say, not much at all).
+In a recent statement, Donald Trump claimed that the Biden administration spent $8 million on "transgender animal experiments," suggesting that the government is funding efforts to, as he dramatically put it, "make mice transgender." This claim, which sounds like it was ripped straight from the script of a bad sci-fi movie, has predictably sparked outrage and confusion. To make matters worse, Trump’s propaganda arm, previously known as the White House official page, doubled down on the narrative, citing a list of studies under the senational header "Yes, Biden Spent Millions on Transgender Animal Experiments" [@whitehouse_transgender_2025]. But before you grab your pitchforks and torches, let’s take a step back and unpack this absurd claim with the seriousness it deserves (which is to say, not much at all).
 
 
 ## The "Scandal" Explained
