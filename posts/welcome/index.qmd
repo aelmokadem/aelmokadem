@@ -5,7 +5,7 @@ categories:
 date: 2025-03-16
 image: welcome.jpg
 title: "Welcome to My Blog" 
-description: "An introduction to my blog where we discuss everything from science to philosophy, politics, and more. Your thoughts and feedback are welcome!"
+description: "An introduction to my blog where we discuss everything from science to philosophy, and more. Your thoughts and feedback are welcome!"
 #bibliography: references.bib
 draft: false
 comments:
