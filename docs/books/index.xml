@@ -10,7 +10,7 @@
 <atom:link href="https://github.com/aelmokadem/aelmokadem.github.io/books/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.6.42</generator>
-<lastBuildDate>Sat, 15 Mar 2025 15:09:51 GMT</lastBuildDate>
+<lastBuildDate>Mon, 17 Mar 2025 03:54:17 GMT</lastBuildDate>
 <item>
   <title>The Dreamers</title>
   <dc:creator>Ahmed Elmokadem</dc:creator>
@@ -23,6 +23,7 @@
 <section id="the-dreamers-arabic" class="level1">
 <h1>The Dreamers (Arabic)</h1>
 <p><a href="https://www.jarir.com/arabic-books-jbb6720na092.html">https://www.jarir.com/arabic-books-jbb6720na092.html</a></p>
+<p><strong>The English version is coming out soon so stay tuned!</strong></p>
 <!-- ![](cover-dreamers.png){width=200} -->
 
 
@@ -31,7 +32,7 @@
 <div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@misc{elmokadem2025,
   author = {{Ahmed Elmokadem}},
   title = {The {Dreamers}},
-  date = {2025-03-15},
+  date = {2025-03-16},
   url = {https://github.com/aelmokadem/aelmokadem.github.io/books/dreamers/},
   langid = {en-GB}
 }
@@ -41,7 +42,7 @@ Ahmed Elmokadem. 2025. <span>“The Dreamers.”</span> <a href="https://github.
   <category>FANTASY</category>
   <category>SCIFI</category>
   <guid>https://github.com/aelmokadem/aelmokadem.github.io/books/dreamers/</guid>
-  <pubDate>Sat, 15 Mar 2025 15:09:51 GMT</pubDate>
+  <pubDate>Mon, 17 Mar 2025 03:54:17 GMT</pubDate>
   <media:content url="https://github.com/aelmokadem/aelmokadem.github.io/books/dreamers/cover-dreamers.png" medium="image" type="image/png" height="197" width="144"/>
 </item>
 <item>
@@ -56,6 +57,7 @@ Ahmed Elmokadem. 2025. <span>“The Dreamers.”</span> <a href="https://github.
 <section id="numbers-that-dazzled-the-world-arabic" class="level1">
 <h1>Numbers that Dazzled the World (Arabic)</h1>
 <p><a href="https://www.jarir.com/arabic-books-522887.html?country=us">https://www.jarir.com/arabic-books-522887.html?country=us</a></p>
+<p><strong>The English version is coming out soon so stay tuned!</strong></p>
 <!-- ![](cover-numbers.png){width=200} -->
 
 
@@ -64,7 +66,7 @@ Ahmed Elmokadem. 2025. <span>“The Dreamers.”</span> <a href="https://github.
 <div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@misc{elmokadem2025,
   author = {{Ahmed Elmokadem}},
   title = {Numbers That {Dazzled} the {World}},
-  date = {2025-03-15},
+  date = {2025-03-16},
   url = {https://github.com/aelmokadem/aelmokadem.github.io/books/numbers/},
   langid = {en-GB}
 }
@@ -76,7 +78,7 @@ Ahmed Elmokadem. 2025. <span>“Numbers That Dazzled the World.”</span> <a hre
   <category>MATH</category>
   <category>HISTORY</category>
   <guid>https://github.com/aelmokadem/aelmokadem.github.io/books/numbers/</guid>
-  <pubDate>Sat, 15 Mar 2025 15:01:10 GMT</pubDate>
+  <pubDate>Mon, 17 Mar 2025 03:54:05 GMT</pubDate>
   <media:content url="https://github.com/aelmokadem/aelmokadem.github.io/books/numbers/cover-numbers.png" medium="image" type="image/png" height="200" width="144"/>
 </item>
 </channel>
