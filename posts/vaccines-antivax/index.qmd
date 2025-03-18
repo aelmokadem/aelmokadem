@@ -43,7 +43,7 @@ Then why on Earth did some people choose to steer away from such a successful hi
 
 ## It Runs Deep
 
-The anti-vax sentiment has always gone hand-in-hand with vaccines. A stark example of the manifestation of such sentiment was the formation of the "London Society for the Abolition of Compulsory Vaccination" in the UK in 1880 [@fig-death-the-vaccinator]. This organization spread misinformation on vaccines, leading to significantly lower vaccination rates, which in turn caused outbreaks of vaccine-preventable diseases like smallpox [@durbach2005].
+The anti-vax sentiment has always gone hand-in-hand with vaccines. A stark example of the manifestation of such sentiment was the formation of the "London Society for the Abolition of Compulsory Vaccination" in the UK in 1880 [@fig-death-the-vaccinator]. This organization spread misinformation on vaccines, leading to significantly lower vaccination rates, which in turn caused outbreaks of vaccine-preventable diseases like smallpox [@wikipedia_antivaccine; @durbach2005].
 
 !["Death the Vaccinator", published by the London Society for the Abolition of Compulsory Vaccination in the late 1800s](london-society.png){#fig-death-the-vaccinator width=300}
 
