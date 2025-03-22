@@ -7,7 +7,7 @@ date: last-modified
 description: statistical battle.
 #image: nihilism-fundamentalism.jpeg
 title: "The Great Statistical Showdown: Frequentists vs. Bayesians"
-bibliography: references.bib
+#bibliography: references.bib
 comments:
     giscus:
         repo: aelmokadem/aelmokadem
