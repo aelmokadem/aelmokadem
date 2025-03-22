@@ -6,15 +6,15 @@
       version="2.0">
 <channel>
 <title>Ahmed Elmokadem</title>
-<link>https://github.com/aelmokadem/aelmokadem.github.io/books/</link>
-<atom:link href="https://github.com/aelmokadem/aelmokadem.github.io/books/index.xml" rel="self" type="application/rss+xml"/>
+<link>https://aelmokadem.github.io/aelmokadem/books/</link>
+<atom:link href="https://aelmokadem.github.io/aelmokadem/books/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.6.42</generator>
 <lastBuildDate>Mon, 17 Mar 2025 03:54:17 GMT</lastBuildDate>
 <item>
   <title>The Dreamers</title>
   <dc:creator>Ahmed Elmokadem</dc:creator>
-  <link>https://github.com/aelmokadem/aelmokadem.github.io/books/dreamers/</link>
+  <link>https://aelmokadem.github.io/aelmokadem/books/dreamers/</link>
   <description><![CDATA[ 
 
 
@@ -33,23 +33,23 @@
   author = {{Ahmed Elmokadem}},
   title = {The {Dreamers}},
   date = {2025-03-16},
-  url = {https://github.com/aelmokadem/aelmokadem.github.io/books/dreamers/},
+  url = {https://aelmokadem.github.io/aelmokadem/books/dreamers/},
   langid = {en-GB}
 }
 </code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-elmokadem2025" class="csl-entry quarto-appendix-citeas">
-<div class="">Ahmed Elmokadem (2025) <a href="https://github.com/aelmokadem/aelmokadem.github.io/books/dreamers/">The
+<div class="">Ahmed Elmokadem (2025) <a href="https://aelmokadem.github.io/aelmokadem/books/dreamers/">The
 Dreamers</a></div>
 </div></div></section></div> ]]></description>
   <category>FANTASY</category>
   <category>SCIFI</category>
-  <guid>https://github.com/aelmokadem/aelmokadem.github.io/books/dreamers/</guid>
+  <guid>https://aelmokadem.github.io/aelmokadem/books/dreamers/</guid>
   <pubDate>Mon, 17 Mar 2025 03:54:17 GMT</pubDate>
-  <media:content url="https://github.com/aelmokadem/aelmokadem.github.io/books/dreamers/cover-dreamers.png" medium="image" type="image/png" height="197" width="144"/>
+  <media:content url="https://aelmokadem.github.io/aelmokadem/books/dreamers/cover-dreamers.png" medium="image" type="image/png" height="197" width="144"/>
 </item>
 <item>
   <title>Numbers that Dazzled the World</title>
   <dc:creator>Ahmed Elmokadem</dc:creator>
-  <link>https://github.com/aelmokadem/aelmokadem.github.io/books/numbers/</link>
+  <link>https://aelmokadem.github.io/aelmokadem/books/numbers/</link>
   <description><![CDATA[ 
 
 
@@ -68,20 +68,20 @@ Dreamers</a></div>
   author = {{Ahmed Elmokadem}},
   title = {Numbers That {Dazzled} the {World}},
   date = {2025-03-16},
-  url = {https://github.com/aelmokadem/aelmokadem.github.io/books/numbers/},
+  url = {https://aelmokadem.github.io/aelmokadem/books/numbers/},
   langid = {en-GB}
 }
 </code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-elmokadem2025" class="csl-entry quarto-appendix-citeas">
-<div class="">Ahmed Elmokadem (2025) <a href="https://github.com/aelmokadem/aelmokadem.github.io/books/numbers/">Numbers
+<div class="">Ahmed Elmokadem (2025) <a href="https://aelmokadem.github.io/aelmokadem/books/numbers/">Numbers
 that Dazzled the World</a></div>
 </div></div></section></div> ]]></description>
   <category>NUMBERS</category>
   <category>PHILOSOPHY</category>
   <category>MATH</category>
   <category>HISTORY</category>
-  <guid>https://github.com/aelmokadem/aelmokadem.github.io/books/numbers/</guid>
+  <guid>https://aelmokadem.github.io/aelmokadem/books/numbers/</guid>
   <pubDate>Mon, 17 Mar 2025 03:54:05 GMT</pubDate>
-  <media:content url="https://github.com/aelmokadem/aelmokadem.github.io/books/numbers/cover-numbers.png" medium="image" type="image/png" height="200" width="144"/>
+  <media:content url="https://aelmokadem.github.io/aelmokadem/books/numbers/cover-numbers.png" medium="image" type="image/png" height="200" width="144"/>
 </item>
 </channel>
 </rss>
