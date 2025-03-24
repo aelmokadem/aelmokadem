@@ -2,6 +2,9 @@ project:
   type: website
   output-dir: docs
 
+resources:
+  - CNAME
+
 website:
   title: "Ahmed Elmokadem"
   site-url: "https://aelmokadem.github.io/aelmokadem"
