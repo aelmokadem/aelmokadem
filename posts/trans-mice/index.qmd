@@ -3,7 +3,7 @@ categories:
 - SCIENCE
 - POLITICS
 date: last-modified
-description: "This post dismantles the claim about 'transgender animal experiments,' revealing the truth: research on hormone therapies for conditions like HIV and cancer. It critiques sensationalism and transphobia, urging readers to question outrageous headlines and value science."
+description: "This post debunks the claim about 'transgender animal experiments,' clarifying that the research focuses on hormone therapies for conditions like HIV and cancer. It critiques sensationalism and encourages readers to question outrageous headlines and appreciate the value of scientific research."
 image: trans-mouse.png
 title: "No, $8 Million Wasn't Spent to 'Make Mice Transgender'"
 bibliography: references.bib
@@ -59,9 +59,11 @@ The idea that scientists are sitting in a lab, twirling their mustaches and cack
 
 Beyond the absurdity of the claim, this whole "controversy" highlights a bigger issue: the deliberate spread of misinformation to stoke outrage. By framing legitimate scientific research as some kind of bizarre government overreach, critics are not only misrepresenting the facts but also undermining important work that could improve healthcare for millions of people.
 
-Moreover, this controversy underscores the need for better representation of all underrepresented populations in scientific research. Historically, straight white males have been overrepresented in studies, leading to biases in research findings and healthcare outcomes [@stratified_sampling_2025]. Ensuring diverse representation in research is crucial for developing treatments and interventions that are effective for everyone, not just a select few.
+And let’s not forget the transphobic undertones of this whole debacle. The implication that studying hormone therapies---which are a lifeline for many transgender individuals---is somehow frivolous or immoral is deeply harmful. It’s a reminder that, for some people, the mere existence of transgender individuals is a threat to their worldview. It's important to remember that regardless of your views on transgender people, they are still people. They deserve the same rights as everyone else and deserve to have their government, to which they pay taxes, take care of them.
 
-## Conclusion: Don’t Believe Everything You Read (Goes without Saying, Really!!)
+Moreover, this controversy underscores the need for better representation of *all* underrepresented populations in scientific research. Historically, straight white males have been overrepresented in studies, leading to biases in research findings and healthcare outcomes [@stratified_sampling_2025]. Ensuring diverse representation in research is crucial for developing treatments and interventions that are effective for everyone, not just a select few.
+
+## Conclusion: Don’t Believe Everything You Read (Goes without Saying, Really!)
 
 So, the next time you hear claims that the government is funding "transgender animal experiments," take a deep breath and ask yourself: does this sound like something that could actually be happening? Or does it sound like the plot of a bad B-movie?
 
