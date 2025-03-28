@@ -18,7 +18,7 @@ draft: false
 
 A recent claim has circulated suggesting that the government spent $8 million on "transgender animal experiments," implying that there are efforts to, as dramatically put, "make mice transgender." This assertion, which sounds like it was pulled straight from a bad sci-fi movie, has predictably sparked outrage and confusion. Some sources have even doubled down on the narrative, citing a list of studies under sensationalized headlines. But before jumping to conclusions, let’s take a step back and unpack this claim with the seriousness it deserves (which is to say, not much at all).
 
-The claim hinges on the idea that federal research funding has supported experiments to make animals transgender. Cue the outrage, the memes, and the inevitable media segments. But here’s the thing: the truth is far less exciting--—and far more scientific—--than these dramatic portrayals suggest.
+The claim hinges on the idea that federal research funding has supported experiments to make animals transgender. Cue the outrage, the memes, and the inevitable media segments. But here’s the thing: the truth is far less exciting---and far more scientific---than these dramatic portrayals suggest.
 
 The so-called "transgender animal experiments" are actually research studies focused on understanding the effects of hormone therapies. These studies examine how hormone treatments impact health conditions like HIV, cancer, and asthma. Instead of, say, giving mice tiny gender-affirming surgeries (which would be both ridiculous and logistically impossible), these studies explore how medical treatments influence biological processes. Shocking, right?
 
@@ -52,7 +52,7 @@ This project investigated how gonadal hormones influence asthma outcomes [@nih_a
 
 ## The Misinformation Machine
 
-The term "transgender animal experiments" is a masterclass in sensationalism. It’s the kind of phrase designed to provoke reactions and shares, often without a full understanding of the studies in question. These studies aren’t about altering the identities of animals—--they’re about understanding the biological effects of hormone therapies, which are used by real, live humans.
+The term "transgender animal experiments" is a masterclass in sensationalism. It’s the kind of phrase designed to provoke reactions and shares, often without a full understanding of the studies in question. These studies aren’t about altering the identities of animals---they’re about understanding the biological effects of hormone therapies, which are used by real, live humans.
 
 The idea that scientists are sitting in a lab, twirling their mustaches and cackling as they force mice to transition is, frankly, ridiculous. But why let facts get in the way of a good story?
 
