@@ -2,6 +2,7 @@
 categories:
 - SCIENCE
 - MISINFORMATION
+- RESEARCH
 date: 2025-03-27
 description: "This post debunks the claim about 'transgender animal experiments,' clarifying that the research focuses on hormone therapies for conditions like HIV and cancer. It critiques sensationalism and encourages readers to question outrageous headlines and appreciate the value of scientific research."
 image: trans-mouse.png
