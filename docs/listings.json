@@ -9,6 +9,7 @@
   {
     "listing": "/posts/index.html",
     "items": [
+      "/posts/one/index.html",
       "/posts/trans-mice/index.html",
       "/posts/vaccines-antivax/index.html",
       "/posts/welcome/index.html"
