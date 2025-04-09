@@ -14,9 +14,12 @@ comments:
 draft: true
 ---
 
-I think it is safe to say that the launch of ChatGPT in 2022 by OpenAI sent rippling shockwaves across so many fields. This generative AI technology, with its advanced Natural Language Processing (NLP), pushed the boundaries of what machines can do and initiated a feverish race to finding nails that can accommodate such a fancy hammer. It also reignited the discussion on the danger of AI---no, not in the Skynet sense but rather the ethical use of AI and how it might impact human jobs.
 
-As a field that prides itself of being at the forefront of technology, pharmacometrics was not standing by idly. Rather, it was one of those fields that realized the incredible potential of machine learning early on and started searching for novel ways to utilize this amazing technology.  
+I think it is safe to say that the launch of ChatGPT in 2022 by OpenAI took the world by storm. It wasn't that we became suddenly aware of machine learning but the advanced Natural Language Processing (NLP) technology of ChatGPT felt to many like... magic. It pushed the boundaries of what machines can do and initiated a feverish race to finding nails that can accommodate such a fancy hammer. It also reignited the discussion on the danger of AI---no, not in the Skynet sense, but rather the ethical use of AI and how it might impact human jobs.
+
+As a field that prides itself of being at the forefront of technology, pharmacometrics was not standing by idly. Rather, it was one of those fields that realized the incredible potential of machine learning early on---way before ChatGPT. Thus, it was inevitable that the same excitement, and yes, apprehensions, to propagate through the pharmacometric community. So, let's embark on a quick tour through the landscape of machine learning in the world of pharmacometrics then shift to talk about the challenges and 
+
+## 
 
 
 
