@@ -4,7 +4,7 @@ categories:
 - ONE
 - HISTORY
 - MATHEMATICS
-date: 2025-03-27
+date: 2025-04-07
 description: "This post is the first chapter of my upcoming book *Numbers That Dazzled the World* and it traces how humanity's simplest number shaped civilization, from prehistoric tally marks to Leibniz's binary code. Discover how $1$ birthed mathematics, writing, and modern computing."
 image: one.png
 title: "In the Beginning... There Was $1$!"
