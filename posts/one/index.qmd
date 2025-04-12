@@ -10,11 +10,11 @@ image: one.png
 title: "In the Beginning... There Was $1$!"
 bibliography: references.bib
 comments:
-    #giscus:
-    #    repo: aelmokadem/aelmokadem
-    #hypothesis: true
-    utterances:
+    giscus:
         repo: aelmokadem/aelmokadem
+    #hypothesis: true
+    #utterances:
+    #    repo: aelmokadem/aelmokadem
 draft: false
 ---
 
