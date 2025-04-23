@@ -8,7 +8,7 @@ resources:
 website:
   title: "Ahmed Elmokadem"
   site-url: "https://aelmokadem.github.io/aelmokadem"
-  favicon: "img/favicon.jpeg"
+  favicon: "img/favicon3.png"
   navbar:
     left:
       - href: index.qmd
