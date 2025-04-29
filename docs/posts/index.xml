@@ -10,19 +10,7 @@
 <atom:link href="https://aelmokadem.github.io/aelmokadem/posts/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.6.42</generator>
-<lastBuildDate>Mon, 28 Apr 2025 12:15:21 GMT</lastBuildDate>
-<item>
-  <title></title>
-  <dc:creator>Ahmed Elmokadem</dc:creator>
-  <link>https://aelmokadem.github.io/aelmokadem/posts/ai-pmx/</link>
-  <description><![CDATA[ undefined ]]></description>
-  <category>PHARMACOMETRICS</category>
-  <category>AI</category>
-  <category>MACHINE LEARNING</category>
-  <guid>https://aelmokadem.github.io/aelmokadem/posts/ai-pmx/</guid>
-  <pubDate>Mon, 28 Apr 2025 12:15:21 GMT</pubDate>
-  <media:content url="https://aelmokadem.github.io/aelmokadem/posts/ai-pmx/one.png" medium="image" type="image/png"/>
-</item>
+<lastBuildDate>Sun, 27 Apr 2025 04:00:00 GMT</lastBuildDate>
 <item>
   <title>Are You a Nihilist or a Fundamentalist? A Question to Ask Yourself Before It’s Too Late</title>
   <dc:creator>Ahmed Elmokadem</dc:creator>
@@ -166,17 +154,6 @@ It’s Too Late</a></div>
   <guid>https://aelmokadem.github.io/aelmokadem/posts/nihilism-fundamentalism/</guid>
   <pubDate>Sun, 27 Apr 2025 04:00:00 GMT</pubDate>
   <media:content url="https://aelmokadem.github.io/aelmokadem/posts/nihilism-fundamentalism/nihilism-fundamentalism.jpeg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title></title>
-  <dc:creator>Ahmed Elmokadem</dc:creator>
-  <link>https://aelmokadem.github.io/aelmokadem/posts/free-will-science/</link>
-  <description><![CDATA[ undefined ]]></description>
-  <category>FREE WILL</category>
-  <category>SCIENCE</category>
-  <category>PHILOSOPHY</category>
-  <guid>https://aelmokadem.github.io/aelmokadem/posts/free-will-science/</guid>
-  <pubDate>Mon, 14 Apr 2025 03:50:09 GMT</pubDate>
 </item>
 <item>
   <title>In the Beginning… There Was \(1\)!</title>
@@ -377,17 +354,6 @@ Million Wasn’t Spent to <span>“Make Mice Transgender”</span></a></div>
   <media:content url="https://aelmokadem.github.io/aelmokadem/posts/trans-mice/trans-mouse.png" medium="image" type="image/png" height="144" width="144"/>
 </item>
 <item>
-  <title></title>
-  <dc:creator>Ahmed Elmokadem</dc:creator>
-  <link>https://aelmokadem.github.io/aelmokadem/posts/statistics-battle/</link>
-  <description><![CDATA[ undefined ]]></description>
-  <category>STATISTICS</category>
-  <category>FREQUENTIST</category>
-  <category>BAYESIAN</category>
-  <guid>https://aelmokadem.github.io/aelmokadem/posts/statistics-battle/</guid>
-  <pubDate>Sat, 22 Mar 2025 13:59:43 GMT</pubDate>
-</item>
-<item>
   <title>Anti-Vax: A Case Study in the Theory of Stupidity</title>
   <dc:creator>Ahmed Elmokadem</dc:creator>
   <link>https://aelmokadem.github.io/aelmokadem/posts/vaccines-antivax/</link>
@@ -553,18 +519,6 @@ A Case Study in the Theory of Stupidity</a></div>
   <media:content url="https://aelmokadem.github.io/aelmokadem/posts/vaccines-antivax/male-medic-holding-vaccine-vial-with-syringe.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
-  <title></title>
-  <dc:creator>Ahmed Elmokadem</dc:creator>
-  <link>https://aelmokadem.github.io/aelmokadem/posts/god-science/</link>
-  <description><![CDATA[ undefined ]]></description>
-  <category>GOD</category>
-  <category>SCIENCE</category>
-  <category>RELIGION</category>
-  <guid>https://aelmokadem.github.io/aelmokadem/posts/god-science/</guid>
-  <pubDate>Sun, 16 Mar 2025 15:23:28 GMT</pubDate>
-  <media:content url="https://aelmokadem.github.io/aelmokadem/posts/god-science/god-science.jpeg" medium="image" type="image/jpeg"/>
-</item>
-<item>
   <title>Welcome to My Blog</title>
   <dc:creator>Ahmed Elmokadem</dc:creator>
   <link>https://aelmokadem.github.io/aelmokadem/posts/welcome/</link>
@@ -597,17 +551,6 @@ My Blog</a></div>
   <guid>https://aelmokadem.github.io/aelmokadem/posts/welcome/</guid>
   <pubDate>Sun, 16 Mar 2025 04:00:00 GMT</pubDate>
   <media:content url="https://aelmokadem.github.io/aelmokadem/posts/welcome/welcome.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title></title>
-  <dc:creator>Ahmed Elmokadem</dc:creator>
-  <link>https://aelmokadem.github.io/aelmokadem/posts/science-religion/</link>
-  <description><![CDATA[ undefined ]]></description>
-  <category>SCIENCE</category>
-  <category>RELIGION</category>
-  <guid>https://aelmokadem.github.io/aelmokadem/posts/science-religion/</guid>
-  <pubDate>Sat, 15 Mar 2025 01:55:46 GMT</pubDate>
-  <media:content url="https://aelmokadem.github.io/aelmokadem/posts/science-religion/science-religion.jpeg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
