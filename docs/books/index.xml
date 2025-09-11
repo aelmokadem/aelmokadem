@@ -10,7 +10,48 @@
 <atom:link href="https://aelmokadem.github.io/aelmokadem/books/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.7.32</generator>
-<lastBuildDate>Fri, 01 Aug 2025 12:53:17 GMT</lastBuildDate>
+<lastBuildDate>Thu, 11 Sep 2025 01:53:56 GMT</lastBuildDate>
+<item>
+  <title>Numbers that Dazzled the World</title>
+  <dc:creator>Ahmed Elmokadem</dc:creator>
+  <link>https://aelmokadem.github.io/aelmokadem/books/numbers/</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="numbers-that-dazzled-the-world-english" class="level1">
+<h1>Numbers that Dazzled the World (English)</h1>
+<p>And finally, the English version of the book is available on <a href="https://www.amazon.com/Numbers-that-Dazzled-World-Imagination-ebook/dp/B0FQCT4XCQ/ref=sr_1_1?crid=1ADOI8J6FS1V7&amp;dib=eyJ2IjoiMSJ9.8o6_aOeSSKCtJ3pXnR3y6Q.TQeIqBqKooGkrID0Q4rDqKdAjP1cMmTACfYu32q1YTo&amp;dib_tag=se&amp;keywords=numbers+that+dazzled+the+world&amp;qid=1757555588&amp;sprefix=numbers+that+%2Caps%2C430&amp;sr=8-1">Amazon</a></p>
+<p>Hope you enjoy it!</p>
+</section>
+<section id="numbers-that-dazzled-the-world-arabic" class="level1">
+<h1>Numbers that Dazzled the World (Arabic)</h1>
+<p><a href="https://www.jarir.com/arabic-books-522887.html?country=us">https://www.jarir.com/arabic-books-522887.html?country=us</a></p>
+<!-- ![](cover-numbers.png){width=200} -->
+
+
+</section>
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@misc{elmokadem2025,
+  author = {{Ahmed Elmokadem}},
+  title = {Numbers That {Dazzled} the {World}},
+  date = {2025-09-10},
+  url = {https://aelmokadem.github.io/aelmokadem/books/numbers/},
+  langid = {en-GB}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-elmokadem2025" class="csl-entry quarto-appendix-citeas">
+<div class="">Ahmed Elmokadem (2025) <a href="https://aelmokadem.github.io/aelmokadem/books/numbers/">Numbers
+that Dazzled the World</a></div>
+</div></div></section></div> ]]></description>
+  <category>NUMBERS</category>
+  <category>PHILOSOPHY</category>
+  <category>MATH</category>
+  <category>HISTORY</category>
+  <guid>https://aelmokadem.github.io/aelmokadem/books/numbers/</guid>
+  <pubDate>Thu, 11 Sep 2025 01:53:56 GMT</pubDate>
+  <media:content url="https://aelmokadem.github.io/aelmokadem/books/numbers/cover-fixed.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>The Dreamers</title>
   <dc:creator>Ahmed Elmokadem</dc:creator>
@@ -45,43 +86,6 @@ Dreamers</a></div>
   <guid>https://aelmokadem.github.io/aelmokadem/books/dreamers/</guid>
   <pubDate>Fri, 01 Aug 2025 12:53:17 GMT</pubDate>
   <media:content url="https://aelmokadem.github.io/aelmokadem/books/dreamers/cover-dreamers.png" medium="image" type="image/png" height="197" width="144"/>
-</item>
-<item>
-  <title>Numbers that Dazzled the World</title>
-  <dc:creator>Ahmed Elmokadem</dc:creator>
-  <link>https://aelmokadem.github.io/aelmokadem/books/numbers/</link>
-  <description><![CDATA[ 
-
-
-
-
-<section id="numbers-that-dazzled-the-world-arabic" class="level1">
-<h1>Numbers that Dazzled the World (Arabic)</h1>
-<p><a href="https://www.jarir.com/arabic-books-522887.html?country=us">https://www.jarir.com/arabic-books-522887.html?country=us</a></p>
-<p><strong>The English version is coming out soon so stay tuned!</strong></p>
-<!-- ![](cover-numbers.png){width=200} -->
-
-
-</section>
-
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@misc{elmokadem2025,
-  author = {{Ahmed Elmokadem}},
-  title = {Numbers That {Dazzled} the {World}},
-  date = {2025-08-01},
-  url = {https://aelmokadem.github.io/aelmokadem/books/numbers/},
-  langid = {en-GB}
-}
-</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-elmokadem2025" class="csl-entry quarto-appendix-citeas">
-<div class="">Ahmed Elmokadem (2025) <a href="https://aelmokadem.github.io/aelmokadem/books/numbers/">Numbers
-that Dazzled the World</a></div>
-</div></div></section></div> ]]></description>
-  <category>NUMBERS</category>
-  <category>PHILOSOPHY</category>
-  <category>MATH</category>
-  <category>HISTORY</category>
-  <guid>https://aelmokadem.github.io/aelmokadem/books/numbers/</guid>
-  <pubDate>Fri, 01 Aug 2025 12:53:17 GMT</pubDate>
-  <media:content url="https://aelmokadem.github.io/aelmokadem/books/numbers/cover-numbers.png" medium="image" type="image/png" height="200" width="144"/>
 </item>
 </channel>
 </rss>
