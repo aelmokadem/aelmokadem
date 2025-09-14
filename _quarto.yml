@@ -26,6 +26,7 @@ website:
   #   giscus:
   #     #repo: quarto-dev/quarto-web
   #     repo: aelmokadem/aelmokadem
+  margin-header: subscribe.html
 
 format:
   html:
