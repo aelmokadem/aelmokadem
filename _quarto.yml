@@ -26,7 +26,7 @@ website:
   #   giscus:
   #     #repo: quarto-dev/quarto-web
   #     repo: aelmokadem/aelmokadem
-  margin-header: subscribe.html
+  # margin-header: subscribe.html
 
 format:
   html:
@@ -39,6 +39,8 @@ format:
       #- spacelab
       #- morph
       - brand
+    include-after-body:
+      - subscribe.html   # path relative to the project root
     css: styles.css
     toc: true
 
