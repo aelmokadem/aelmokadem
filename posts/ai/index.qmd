@@ -1,0 +1,51 @@
+---
+categories:
+- Artificial Intelligence
+- Technology
+- Philosophy
+date: 2025-10-27
+description: A personal reflection on how machine learning and LLMs challenge human uniqueness, creativity---and what we can do about it.
+image: nihilism-fundamentalism.jpeg
+title: "When the Algorithm Knows You"
+bibliography: references.bib
+comments:
+    giscus:
+        repo: aelmokadem/aelmokadem
+draft: true
+---
+
+### The Awakening
+
+I didn't think much of it when I took Andrew Ng's online machine learning (ML) course a few years back. I was curious about the field, and---admit it---I wanted a CV boost to help land a better job. What started as a pragmatic move became an epistemic jolt: machines could detect patterns that felt private, and that troubled my ideas about subjectivity and agency.
+
+The course project was simple: build an algorithm to predict IMDb movie ratings. A neural network (NN) was the model, trained on features like genre, release year, runtime, and budget. I was skeptical---I genuinely believed an ML algorithm could never predict something as subjective as a movie rating, especially not from such *apparently* random features we don't normally associate with personal taste. After training the NN I fed it the features of a movie it hadn't seen, and it predicted the IMDb rating with unsettling accuracy. The result shattered my naive belief about what it means to be human and to hold subjective opinions, and convinced me that machines can pick up patterns we miss---whether we're aware of them or not.
+
+A technical caveat: predictive success can arise from surprising sources---dataset artifacts, confounders, or leakage between training and test sets---so accuracy alone isn't proof of deep understanding. Even so, the experiment made plain that statistical regularities in preference and behavior often hide in plain sight.
+
+### LLMs and the Shattered Human-Centric Worldview
+
+My unsettling revelation was reinforced when ChatGPT and other large language models (LLMs) swept into public view. Their ability to produce fluent, human-like text and sustain conversation was striking---ChatGPT 4.5 was judged to be human 73% of the time, making it the first AI to pass a version of the Turing test [@JonesBergen2025].
+
+What's striking is the mechanism: given a prompt, these models predict the most probable next token and chain those predictions together. "Next-token prediction" sounds almost trivial, yet with massive data and scale it yields surprisingly coherent, context-aware output. That forces a hard question: can human reasoning be captured by something that, at base, predicts the next token? The idea feels at odds with how we conceive thinking---as layered, intentional, and meaning-driven---but LLMs push us to reconsider whether our reasoning is less mysterious and more patterned than we like to believe. For me, it recalled the cognitive dissonance people felt when they learned Earth wasn't the center of the universe.
+
+### Creativity, Art, and Music
+
+If human creativity is your linchpin for exceptionalism, let me burst that bubble: LLMs and generative models now produce poems, images, and music that many people find deeply moving---sometimes indistinguishable from human work in blind tests [@Cenerini2025]. These systems mostly remix and amplify patterns from human-made data rather than lived experience, yet their outputs can surprise, provoke, and influence. That's not entirely surprising: both humans and models draw from the same cultural and experiential environment, so similar inputs often yield similar outputs. Ask a model to render a "full glass" and it will often avoid filling it to the rim---because such images are uncommon---just as human creators are shaped by the same constraints. AI doesn't erase human meaning; it shifts where and how it's made---meaning now arises from the loop of model outputs, human curation, and audience interpretation.
+
+These observations also touch on agency: do predictive systems change what it means to be an author or an agent? I'll tackle free will, with perspectives from relativity, quantum physics, and AI, in a forthcoming post; here I stay focused on creativity and meaning.
+
+### Limits and Fragilities
+
+That said, LLMs are far from omniscient. They hallucinate---confidently asserting falsehoods; they are brittle---small prompt changes can produce wildly different outputs; and they lack grounding---no direct access to lived experience or intentions. They inherit and can amplify biases in their training data. These limitations matter: they constrain where and how these systems should be trusted and complicate sweeping claims that machines possess genuinely human understanding.
+
+### Social and Ethical Stakes
+
+The implications go beyond philosophy. Predictive systems already shape what we see and like---recommendation algorithms tune taste, targeted ads and surveillance personalize influence, and automation reshapes labor markets. There are real risks: filter bubbles that narrow public discourse, opaque systems making consequential decisions without accountability, and economic dislocation for workers whose tasks are automatable. These are concrete policy and design problems, not only metaphysical puzzles.
+
+### An Uplifting Note --- Practical Takeaways
+
+If you're feeling unsettled, here's a reframing: this is also an extraordinary opportunity. Interacting with these systems can be like meeting an alien intelligence---mirrors that reflect our collective patterns back at us, and probes that reveal blind spots.
+
+Practical takeaways: don't panic, but do act. Invest in basic AI literacy (how models are trained and what their limits are), demand transparency and accountability in systems that shape public life, and design tools to augment rather than replace human judgment. Encourage interdisciplinary dialogue---engineers, artists, ethicists, and policymakers---to rebuild institutions and value systems that preserve human dignity and creativity in an age of powerful prediction.
+
+The challenge is to do that deliberately---reconstruct values and institutions that preserve what we care about---before social and cultural ruptures force the reconstruction for us.
