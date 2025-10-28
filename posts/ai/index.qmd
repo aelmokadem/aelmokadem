@@ -30,7 +30,7 @@ That early shock returned when large language models (LLMs) swept into public vi
 
 What’s striking is *how* they do it: by predicting the most probable next token and chaining those predictions. “Next-token prediction” sounds trivial, yet at scale it produces coherence, creativity, even style. Which forces a hard question: could human reasoning itself be a form of pattern prediction? 
 
-The idea feels alien to how we conceive thought—intentional, layered, meaning-driven—but LLMs compel us to consider whether our cognition is less mysterious, more statistical than we like to believe. It’s the same disorientation people must have felt when they learned Earth wasn’t the center of the universe.
+The idea feels alien to how we conceive thought---intentional, layered, meaning-driven---but LLMs compel us to consider whether our cognition is less mysterious, more statistical than we like to believe. It’s the same disorientation people must have felt when they learned Earth wasn’t the center of the universe.
 
 If machines can model preference, can they also model *agency*? That question—whether free will survives in a predictive world—haunts the edges of this reflection, though I’ll tackle it more directly in a future post.
 
