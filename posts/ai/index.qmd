@@ -5,7 +5,7 @@ categories:
 - Philosophy
 date: 2025-10-27
 description: A personal reflection on how machine learning and LLMs challenge human uniqueness, creativity—and what we can do about it.
-image: ai.png
+image: ai2.png
 title: "When the Algorithm Knows You"
 bibliography: references.bib
 comments:
