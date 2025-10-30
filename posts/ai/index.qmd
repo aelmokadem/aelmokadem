@@ -45,7 +45,7 @@ AI doesn’t erase meaning; it relocates it. Meaning now arises in the loop---mo
 
 ## Limits and Fragilities
 
-Still, LLMs are far from omniscient. They hallucinate---confidently asserting falsehoods. They’re brittle---small prompt changes can yield wildly different results. And they lack grounding---no lived experience or intention to draw upon. They inherit and amplify biases embedded in their data.
+Still, LLMs are far from omniscient. They hallucinate---confidently asserting falsehoods. They’re brittle---small prompt changes can yield wildly different results. And they lack grounding---no lived experience or intention to draw upon. They also inherit and sometimes amplify biases embedded in their training data.
 
 These limits matter. They define where and how such systems should be trusted, and they remind us that imitation isn’t understanding.
 
