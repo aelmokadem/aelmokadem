@@ -11,7 +11,7 @@ bibliography: references.bib
 comments:
     giscus:
         repo: aelmokadem/aelmokadem
-draft: true
+draft: false
 ---
 
 ## The Awakening

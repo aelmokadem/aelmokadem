@@ -10,7 +10,78 @@
 <atom:link href="https://aelmokadem.github.io/aelmokadem/posts/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.6.42</generator>
-<lastBuildDate>Sun, 27 Apr 2025 04:00:00 GMT</lastBuildDate>
+<lastBuildDate>Mon, 27 Oct 2025 04:00:00 GMT</lastBuildDate>
+<item>
+  <title>When the Algorithm Knows You</title>
+  <dc:creator>Ahmed Elmokadem</dc:creator>
+  <link>https://aelmokadem.github.io/aelmokadem/posts/ai/</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="the-awakening" class="level2">
+<h2 class="anchored" data-anchor-id="the-awakening">The Awakening</h2>
+<p>I didn’t think much of it when I took Andrew Ng’s online machine learning (ML) course a few years back. I was curious about the field and—admit it—wanted a CV boost to help land a good job. What began as a pragmatic move became an epistemic jolt: machines could detect patterns that felt private, and that troubled my sense of subjectivity and agency.</p>
+<p>The course project was simple: build an algorithm to predict IMDb movie ratings. My neural network was trained on features like genre, release year, runtime, and budget. I was skeptical—surely an algorithm couldn’t predict something as subjective as a movie rating from such <em>apparently</em> random data. But when I fed it a film it hadn’t seen, it predicted the IMDb rating with unsettling accuracy.</p>
+<p>That moment shattered my naïve belief in the sanctity of human taste. Machines, it seemed, could perceive the hidden regularities in our choices—patterns invisible even to us. It felt like watching a mirror sharpen into focus and realizing it reflects more than appearance—it reflects <em>preference.</em></p>
+<p>A technical caveat: predictive success can arise from quirks in data—artifacts, confounders, or leakage between training and test sets—so accuracy isn’t proof of deep understanding. But even so, the experiment revealed something plain: statistical regularities in our behavior often hide in plain sight.</p>
+</section>
+<section id="llms-and-the-shattered-human-centric-worldview" class="level2 page-columns page-full">
+<h2 class="anchored" data-anchor-id="llms-and-the-shattered-human-centric-worldview">LLMs and the Shattered Human-Centric Worldview</h2>
+<p>That early shock returned when large language models (LLMs) swept into public view. Their ability to produce fluent, human-like text was astonishing—ChatGPT 4.5 was judged to be human 73% of the time, making it the first AI to pass a version of the Turing test <span class="citation" data-cites="JonesBergen2025">[1]</span>.</p>
+<div class="no-row-height column-margin column-container"><div id="ref-JonesBergen2025" class="csl-entry">
+<div class="csl-left-margin">1. </div><div class="csl-right-inline">Jones CR, Bergen BK (2025) <a href="https://doi.org/10.48550/arXiv.2503.23674">Large language models pass the turing test</a></div>
+</div></div><p>What’s striking is <em>how</em> they do it: by predicting the most probable next token and chaining those predictions. “Next-token prediction” sounds trivial, yet at scale it produces coherence, creativity, even style. Which forces a hard question: could human reasoning itself be a form of pattern prediction?</p>
+<p>The idea feels alien to how we conceive thought—intentional, layered, meaning-driven—but LLMs compel us to consider whether our cognition is less mysterious, more statistical than we like to believe. It’s the same disorientation people must have felt when they learned Earth wasn’t the center of the universe.</p>
+<p>If machines can model preference, can they also model <em>agency</em>? That question—whether free will survives in a predictive world—haunts the edges of this reflection, though I’ll tackle it more directly in a future post.</p>
+</section>
+<section id="creativity-art-and-music" class="level2 page-columns page-full">
+<h2 class="anchored" data-anchor-id="creativity-art-and-music">Creativity, Art, and Music</h2>
+<p>If creativity is your last bastion of human exceptionalism, brace yourself. LLMs and generative models now produce poems, images, and music that many find moving—sometimes indistinguishable from human work in blind tests <span class="citation" data-cites="Cenerini2025">[2]</span>. These systems remix and amplify human-made data rather than lived experience, yet their outputs can still surprise, provoke, and influence.</p>
+<div class="no-row-height column-margin column-container"><div id="ref-Cenerini2025" class="csl-entry">
+<div class="csl-left-margin">2. </div><div class="csl-right-inline">Cenerini C, Keller F, Pennazza G, Santonico M (2025) Artistic turing test: The challenge of differentiating human and AI-generated art. Computers in Human Behavior ???(???):100209. <a href="https://doi.org/10.1016/j.chb.2025.100209">https://doi.org/10.1016/j.chb.2025.100209</a></div>
+</div></div><p>That’s not entirely shocking: humans and models draw from the same cultural reservoir. Similar inputs often yield similar outputs. Ask a model to render a “full glass,” and it will stop shy of the rim—because such images are rare in its training data. Human creators, shaped by the same environment, make the same choices.</p>
+<p>AI doesn’t erase meaning; it relocates it. Meaning now arises in the loop—model generation, human curation, and audience interpretation. Creativity becomes a conversation rather than a possession.</p>
+</section>
+<section id="limits-and-fragilities" class="level2">
+<h2 class="anchored" data-anchor-id="limits-and-fragilities">Limits and Fragilities</h2>
+<p>Still, LLMs are far from omniscient. They hallucinate—confidently asserting falsehoods. They’re brittle—small prompt changes can yield wildly different results. And they lack grounding—no lived experience or intention to draw upon. They also inherit and sometimes amplify biases embedded in their training data.</p>
+<p>These limits matter. They define where and how such systems should be trusted, and they remind us that imitation isn’t understanding.</p>
+</section>
+<section id="social-and-ethical-stakes" class="level2">
+<h2 class="anchored" data-anchor-id="social-and-ethical-stakes">Social and Ethical Stakes</h2>
+<p>The implications stretch beyond philosophy. Predictive systems already shape what we see, buy, and believe—recommendation engines tune taste, surveillance algorithms personalize influence, and automation redefines labor.</p>
+<p>The risks are tangible: filter bubbles that narrow public discourse, opaque systems making consequential decisions, and economic upheaval as prediction automates judgment. These are not just metaphysical puzzles; they’re design and policy crises.</p>
+</section>
+<section id="an-uplifting-note-practical-takeaways" class="level2">
+<h2 class="anchored" data-anchor-id="an-uplifting-note-practical-takeaways">An Uplifting Note — Practical Takeaways</h2>
+<p>If this feels unsettling, try this reframing: interacting with these systems is like encountering an alien intelligence—one that reflects our collective patterns back at us. They’re mirrors and probes, revealing the structure of our thought.</p>
+<p>So don’t panic—but do act. Invest in basic AI literacy: how models learn, where they fail, what they can and can’t do. Demand transparency and accountability in systems that govern public life. Design AI tools to <em>augment</em> rather than replace human judgment. And above all, foster dialogue across disciplines—engineers, artists, ethicists, policymakers—to build institutions that preserve human dignity in an age of prediction.</p>
+<p>The challenge is to do this <em>before</em> disruption forces us to. We can still choose what reflection we want to leave behind in the algorithmic mirror.</p>
+
+
+
+</section>
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@misc{elmokadem2025,
+  author = {{Ahmed Elmokadem}},
+  title = {When the {Algorithm} {Knows} {You}},
+  date = {2025-10-27},
+  url = {https://aelmokadem.github.io/aelmokadem/posts/ai/},
+  langid = {en-GB}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-elmokadem2025" class="csl-entry quarto-appendix-citeas">
+<div class="">Ahmed Elmokadem (2025) <a href="https://aelmokadem.github.io/aelmokadem/posts/ai/">When the
+Algorithm Knows You</a></div>
+</div></div></section></div> ]]></description>
+  <category>Artificial Intelligence</category>
+  <category>Technology</category>
+  <category>Philosophy</category>
+  <guid>https://aelmokadem.github.io/aelmokadem/posts/ai/</guid>
+  <pubDate>Mon, 27 Oct 2025 04:00:00 GMT</pubDate>
+  <media:content url="https://aelmokadem.github.io/aelmokadem/posts/ai/ai2.png" medium="image" type="image/png" height="96" width="144"/>
+</item>
 <item>
   <title>Are You a Nihilist or a Fundamentalist? A Question to Ask Yourself Before It’s Too Late</title>
   <dc:creator>Ahmed Elmokadem</dc:creator>
