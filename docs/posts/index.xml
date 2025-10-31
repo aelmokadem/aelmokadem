@@ -10,7 +10,7 @@
 <atom:link href="https://aelmokadem.github.io/aelmokadem/posts/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.6.42</generator>
-<lastBuildDate>Mon, 27 Oct 2025 04:00:00 GMT</lastBuildDate>
+<lastBuildDate>Fri, 31 Oct 2025 04:00:00 GMT</lastBuildDate>
 <item>
   <title>When the Algorithm Knows You</title>
   <dc:creator>Ahmed Elmokadem</dc:creator>
@@ -67,7 +67,7 @@
 <div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@misc{elmokadem2025,
   author = {{Ahmed Elmokadem}},
   title = {When the {Algorithm} {Knows} {You}},
-  date = {2025-10-27},
+  date = {2025-10-31},
   url = {https://aelmokadem.github.io/aelmokadem/posts/ai/},
   langid = {en-GB}
 }
@@ -79,7 +79,7 @@ Algorithm Knows You</a></div>
   <category>Technology</category>
   <category>Philosophy</category>
   <guid>https://aelmokadem.github.io/aelmokadem/posts/ai/</guid>
-  <pubDate>Mon, 27 Oct 2025 04:00:00 GMT</pubDate>
+  <pubDate>Fri, 31 Oct 2025 04:00:00 GMT</pubDate>
   <media:content url="https://aelmokadem.github.io/aelmokadem/posts/ai/ai2.png" medium="image" type="image/png" height="96" width="144"/>
 </item>
 <item>
