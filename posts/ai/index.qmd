@@ -1,8 +1,9 @@
 ---
 categories:
-- Artificial Intelligence
-- Technology
-- Philosophy
+- ARTIFICIAL INTELLIGENCE
+- MACHINE LEARNING
+- TECHNOLOGY
+- PHILOSOPHY
 date: 2025-10-27
 description: A personal reflection on how machine learning and LLMs challenge human uniqueness, creativity---and what we can do about it.
 image: ai.png
