@@ -2,13 +2,14 @@
   {
     "listing": "/books/index.html",
     "items": [
-      "/books/numbers/index.html",
-      "/books/dreamers/index.html"
+      "/books/dreamers/index.html",
+      "/books/numbers/index.html"
     ]
   },
   {
     "listing": "/posts/index.html",
     "items": [
+      "/posts/ai/index.html",
       "/posts/nihilism-fundamentalism/index.html",
       "/posts/one/index.html",
       "/posts/trans-mice/index.html",

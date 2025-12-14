@@ -9,8 +9,43 @@
 <link>https://aelmokadem.github.io/aelmokadem/books/</link>
 <atom:link href="https://aelmokadem.github.io/aelmokadem/books/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
-<generator>quarto-1.8.24</generator>
-<lastBuildDate>Thu, 11 Sep 2025 01:53:56 GMT</lastBuildDate>
+<generator>quarto-1.6.42</generator>
+<lastBuildDate>Sun, 26 Oct 2025 22:29:41 GMT</lastBuildDate>
+<item>
+  <title>The Dreamers</title>
+  <dc:creator>Ahmed Elmokadem</dc:creator>
+  <link>https://aelmokadem.github.io/aelmokadem/books/dreamers/</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="the-dreamers-arabic" class="level1">
+<h1>The Dreamers (Arabic)</h1>
+<p><a href="https://www.jarir.com/arabic-books-jbb6720na092.html">https://www.jarir.com/arabic-books-jbb6720na092.html</a></p>
+<p><strong>The English version is coming out soon so stay tuned!</strong></p>
+<!-- ![](cover-dreamers.png){width=200} -->
+
+
+</section>
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@misc{elmokadem2025,
+  author = {{Ahmed Elmokadem}},
+  title = {The {Dreamers}},
+  date = {2025-10-26},
+  url = {https://aelmokadem.github.io/aelmokadem/books/dreamers/},
+  langid = {en-GB}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-elmokadem2025" class="csl-entry quarto-appendix-citeas">
+<div class="">Ahmed Elmokadem (2025) <a href="https://aelmokadem.github.io/aelmokadem/books/dreamers/">The
+Dreamers</a></div>
+</div></div></section></div> ]]></description>
+  <category>FANTASY</category>
+  <category>SCIFI</category>
+  <guid>https://aelmokadem.github.io/aelmokadem/books/dreamers/</guid>
+  <pubDate>Sun, 26 Oct 2025 22:29:41 GMT</pubDate>
+  <media:content url="https://aelmokadem.github.io/aelmokadem/books/dreamers/cover-dreamers.png" medium="image" type="image/png" height="197" width="144"/>
+</item>
 <item>
   <title>Numbers that Dazzled the World</title>
   <dc:creator>Ahmed Elmokadem</dc:creator>
@@ -36,7 +71,7 @@
 <div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@misc{elmokadem2025,
   author = {{Ahmed Elmokadem}},
   title = {Numbers That {Dazzled} the {World}},
-  date = {2025-09-10},
+  date = {2025-10-26},
   url = {https://aelmokadem.github.io/aelmokadem/books/numbers/},
   langid = {en-GB}
 }
@@ -49,43 +84,8 @@ that Dazzled the World</a></div>
   <category>MATH</category>
   <category>HISTORY</category>
   <guid>https://aelmokadem.github.io/aelmokadem/books/numbers/</guid>
-  <pubDate>Thu, 11 Sep 2025 01:53:56 GMT</pubDate>
+  <pubDate>Sun, 26 Oct 2025 22:29:41 GMT</pubDate>
   <media:content url="https://aelmokadem.github.io/aelmokadem/books/numbers/cover-fixed.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>The Dreamers</title>
-  <dc:creator>Ahmed Elmokadem</dc:creator>
-  <link>https://aelmokadem.github.io/aelmokadem/books/dreamers/</link>
-  <description><![CDATA[ 
-
-
-
-
-<section id="the-dreamers-arabic" class="level1">
-<h1>The Dreamers (Arabic)</h1>
-<p><a href="https://www.jarir.com/arabic-books-jbb6720na092.html">https://www.jarir.com/arabic-books-jbb6720na092.html</a></p>
-<p><strong>The English version is coming out soon so stay tuned!</strong></p>
-<!-- ![](cover-dreamers.png){width=200} -->
-
-
-</section>
-
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@misc{elmokadem2025,
-  author = {{Ahmed Elmokadem}},
-  title = {The {Dreamers}},
-  date = {2025-08-01},
-  url = {https://aelmokadem.github.io/aelmokadem/books/dreamers/},
-  langid = {en-GB}
-}
-</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-elmokadem2025" class="csl-entry quarto-appendix-citeas">
-<div class="">Ahmed Elmokadem (2025) <a href="https://aelmokadem.github.io/aelmokadem/books/dreamers/">The
-Dreamers</a></div>
-</div></div></section></div> ]]></description>
-  <category>FANTASY</category>
-  <category>SCIFI</category>
-  <guid>https://aelmokadem.github.io/aelmokadem/books/dreamers/</guid>
-  <pubDate>Fri, 01 Aug 2025 12:53:17 GMT</pubDate>
-  <media:content url="https://aelmokadem.github.io/aelmokadem/books/dreamers/cover-dreamers.png" medium="image" type="image/png" height="197" width="144"/>
 </item>
 </channel>
 </rss>
