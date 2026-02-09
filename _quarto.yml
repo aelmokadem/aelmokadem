@@ -20,6 +20,8 @@ website:
         text: Blog
       - href: books
         text: Books
+      - href: media
+        text: Media
   page-footer:
     left: "(c) Ahmed Elmokadem, 2025–. [Disclaimer](disclaimer)"
   # comments:

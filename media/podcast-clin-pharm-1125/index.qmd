@@ -1,0 +1,55 @@
+---
+date: 2025-11-24
+title: "CLinical Pharmacology Podcast — QSP Modeling in Drug Development"
+description: Ahmed Elmokadem joins Nathan Teuscher to discuss QSP modeling, its role in model-informed drug development, and practical challenges teams face.
+image: ../clin-pharm-podcast-icon.png
+categories:
+  - Media
+  - Podcast
+comments:
+  giscus:
+    repo: aelmokadem/aelmokadem
+draft: true
+---
+
+## 🎙️ Featured Podcast Appearance: Teuscher Solutions Podcast
+
+I recently joined **Nathan Teuscher** on the *Teuscher Solutions Podcast* for a great conversation about  
+**Quantitative Systems Pharmacology (QSP)** and its growing importance in modern drug development.
+
+We discussed:
+
+- What QSP is and why it matters  
+- Where it brings the most value in model-informed drug development  
+- Common challenges teams face when adopting QSP  
+- Practical ways to overcome those challenges  
+
+It was a thoughtful and energizing discussion — big thanks to Nathan for having me on!
+
+### Listen to the Episode
+
+👉 **Episode Link:**  
+**[QSP Modeling with Ahmed El-Mokadem — Ep. 51](https://teuschersolutions.com/podcast/51-qsp-modeling-with-ahmed-elmokadem-ep-51/)**
+
+---
+
+## Episode Overview
+
+In this episode, we explore how QSP models can support better decision-making across the drug development lifecycle.
+
+From early discovery through clinical translation, QSP provides a mechanistic framework for integrating biology, pharmacology, and clinical data — helping teams make more confident, model-informed decisions.
+
+Whether you're new to QSP or already working in the space, I hope the discussion offers useful insights into both the opportunities and the realities of implementing these approaches in practice.
+
+---
+
+### Key Themes Discussed
+
+- The definition and purpose of QSP  
+- How mechanistic models support MIDD strategies  
+- Communication and alignment challenges across teams  
+- Best practices for building impactful QSP programs  
+
+---
+
+If you’re interested in QSP or improving decision-making with modeling, I hope you enjoy the episode.

@@ -1,0 +1,57 @@
+---
+date: 2026-02-05
+title: "AMSECast Podcast — Numbers that Dazzled the World"
+description: Ahmed Elmokadem joins AMSECast to discuss the mysterious numbers from his book *Numbers that Dazzled the World*.
+image: ../amsecast-icon.png
+categories: 
+  - Media
+  - Podcast
+comments:
+  giscus:
+    repo: aelmokadem/aelmokadem
+draft: true
+---
+
+## 🎙️ Featured Podcast Appearance: AMSECast
+
+I was invited to join **AMSECast** for a wide-ranging conversation inspired by my book  
+**_Numbers that Dazzled the World_**, where we explored some of mathematics’ most mysterious and beautiful ideas — including:
+
+- Zero and infinity  
+- Irrational and imaginary numbers  
+- Universal constants like **π**, **e**, and the golden ratio  
+- Hidden numerical structure in chaos and nature  
+
+### Listen to the Episode
+
+👉 **AMSECast Episode Link:**  
+**[Click here to listen](https://amsecast.libsyn.com/amsecast-with-guest-dr-ahmed-el-mokadem)**
+
+---
+
+## Episode Description (from AMSECast)
+
+In this wide-ranging conversation, Ahmed El-Mokadem explores the deep ideas behind mathematics’ most mysterious numbers, revealing how concepts like zero, infinity, irrational numbers, and imaginary numbers challenge both logic and philosophy.
+
+He traces how constants such as π, e, the golden ratio, and the Feigenbaum constants appear universally across nature, physics, biology, and technology—suggesting they are discovered features of reality rather than human inventions.
+
+El-Mokadem highlights how mathematics repeatedly expands its own boundaries, from accepting imaginary numbers to assigning meaning to divergent infinities through Ramanujan’s work.
+
+He shows that even chaos follows hidden numerical order, and that numbers long viewed as paradoxical often turn out to be indispensable.
+
+Throughout, mathematics emerges not as cold abstraction, but as a living language that reveals structure, mystery, and beauty in the universe.
+
+The discussion ultimately invites listeners to see math as a bridge between human curiosity and the deep order of the cosmos.
+
+---
+
+### Key Themes Discussed
+
+- Mathematics as discovery vs. invention  
+- The philosophical meaning of infinity  
+- Why imaginary numbers are essential  
+- How chaos reveals hidden constants  
+
+---
+
+If you enjoyed the conversation, feel free to reach out or explore more writing and projects here on my site.

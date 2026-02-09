@@ -1,12 +1,5 @@
 [
   {
-    "listing": "/books/index.html",
-    "items": [
-      "/books/dreamers/index.html",
-      "/books/numbers/index.html"
-    ]
-  },
-  {
     "listing": "/posts/index.html",
     "items": [
       "/posts/ai/index.html",
@@ -16,5 +9,16 @@
       "/posts/vaccines-antivax/index.html",
       "/posts/welcome/index.html"
     ]
+  },
+  {
+    "listing": "/books/index.html",
+    "items": [
+      "/books/dreamers/index.html",
+      "/books/numbers/index.html"
+    ]
+  },
+  {
+    "listing": "/media/index.html",
+    "items": []
   }
 ]
