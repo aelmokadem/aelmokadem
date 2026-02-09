@@ -9,12 +9,12 @@ categories:
 comments:
   giscus:
     repo: aelmokadem/aelmokadem
-draft: true
+draft: false
 ---
 
-## 🎙️ Featured Podcast Appearance: Teuscher Solutions Podcast
+## 🎙️ Featured Podcast Appearance: Clinical Pharmacology with Nathan Teuscher Podcast
 
-I recently joined **Nathan Teuscher** on the *Teuscher Solutions Podcast* for a great conversation about  
+I recently joined **Nathan Teuscher** on the *Clinical Pharmacology Podcast* for a great conversation about  
 **Quantitative Systems Pharmacology (QSP)** and its growing importance in modern drug development.
 
 We discussed:

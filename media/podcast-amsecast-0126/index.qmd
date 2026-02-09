@@ -9,7 +9,7 @@ categories:
 comments:
   giscus:
     repo: aelmokadem/aelmokadem
-draft: true
+draft: false
 ---
 
 ## 🎙️ Featured Podcast Appearance: AMSECast
