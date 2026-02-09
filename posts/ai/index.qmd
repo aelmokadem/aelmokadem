@@ -1,11 +1,12 @@
 ---
 categories:
-- Artificial Intelligence
-- Technology
-- Philosophy
+- ARTIFICIAL INTELLIGENCE
+- MACHINE LEARNING
+- TECHNOLOGY
+- PHILOSOPHY
 date: 2025-10-31
-description: A personal reflection on how machine learning and LLMs challenge human uniqueness, creativity—and what we can do about it.
-image: ai2.png
+description: A personal reflection on how machine learning and LLMs challenge human uniqueness, creativity---and what we can do about it.
+image: ai.png
 title: "When the Algorithm Knows You"
 bibliography: references.bib
 comments:
