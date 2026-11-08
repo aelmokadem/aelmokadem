@@ -1,0 +1,11 @@
+---
+title: "Podcasts"
+description: "Podcasts about pharmacometrics, drug development, and the people behind the models."
+listing:
+  contents:
+    - pmx/index.qmd
+  sort: title
+  type: default
+---
+
+Explore the podcasts I create and the topics they cover. Select a show to find its episodes and listening links.

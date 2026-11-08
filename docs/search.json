@@ -7,6 +7,13 @@
     "text": "About this site"
   },
   {
+    "objectID": "Podcasts/index.html",
+    "href": "Podcasts/index.html",
+    "title": "Podcasts",
+    "section": "",
+    "text": "Explore the podcasts I create and the topics they cover. Select a show to find its episodes and listening links.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe Pharmacometrics Podcast\n\n\nConversations about models, data, and the people who use them to make better drug development decisions.\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
     "objectID": "books/index.html",
     "href": "books/index.html",
     "title": "Books",
@@ -355,5 +362,19 @@
     "title": "Ahmed Elmokadem",
     "section": "Personal life",
     "text": "Personal life\nI am a father and a husband who enjoys the routine scientific-philosophical-religious-political discussions with my family. My wife is incredibly supportive and loving, always encouraging me in my pursuits and standing by my side through thick and thin. We share a deep bond and a mutual passion for exploring life’s big questions together.\nVideo game time with my son is also something I cherish. It’s our special way of bonding and having fun, whether we’re teaming up to conquer virtual worlds or just laughing at our in-game mishaps. These moments are priceless and bring a lot of joy to our lives."
+  },
+  {
+    "objectID": "Podcasts/pmx/index.html",
+    "href": "Podcasts/pmx/index.html",
+    "title": "The Pharmacometrics Podcast",
+    "section": "",
+    "text": "Welcome to The Pharmacometrics Podcast, a space to talk about models, data, and the people who use them to make better drug development decisions.\nWe explore pharmacometrics, PK/PD, QSP, PBPK, AI/ML, and model-informed drug development. Beyond the methods and equations, the podcast is about why we do this work, how we think through problems, and what happens when our models don’t behave as expected."
+  },
+  {
+    "objectID": "Podcasts/pmx/index.html#episodes",
+    "href": "Podcasts/pmx/index.html#episodes",
+    "title": "The Pharmacometrics Podcast",
+    "section": "Episodes",
+    "text": "Episodes\n\n\n\n\nEpisode 0 — Welcome to The Pharmacometrics Podcast!\nA quick introduction to the podcast, why I started it, and what you can expect.\nWatch on YouTube Listen on Spotify\n\n\n\n\n\n\nEpisode 1 — What Is Pharmacometrics?\nWe start with a deceptively simple question: What exactly is pharmacometrics? And why is it sometimes so difficult to explain what we do, especially to our families?\nWatch on YouTube Listen on Spotify"
   }
 ]

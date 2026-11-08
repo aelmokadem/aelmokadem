@@ -1,0 +1,41 @@
+---
+title: "The Pharmacometrics Podcast"
+description: "Conversations about models, data, and the people who use them to make better drug development decisions."
+image: pharmacometrics_podcast_cover.png
+---
+
+Welcome to **The Pharmacometrics Podcast**, a space to talk about models, data, and the people who use them to make better drug development decisions.
+
+We explore pharmacometrics, PK/PD, QSP, PBPK, AI/ML, and model-informed drug development. Beyond the methods and equations, the podcast is about why we do this work, how we think through problems, and what happens when our models don't behave as expected.
+
+## Episodes
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6}
+::: {.card .h-100}
+::: {.card-body}
+### Episode 0 — Welcome to The Pharmacometrics Podcast!
+
+A quick introduction to the podcast, why I started it, and what you can expect.
+
+[Watch on YouTube](https://youtu.be/Rhra9PqVxb4){.btn .btn-outline-danger}
+[Listen on Spotify](https://open.spotify.com/episode/40Jw4R7HmZAovTK0XJyo1Z){.btn .btn-outline-success}
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6}
+::: {.card .h-100}
+::: {.card-body}
+### Episode 1 — What Is Pharmacometrics?
+
+We start with a deceptively simple question: What exactly is pharmacometrics? And why is it sometimes so difficult to explain what we do, especially to our families?
+
+[Watch on YouTube](https://youtu.be/1_-fu9X1z-Q){.btn .btn-outline-danger}
+[Listen on Spotify](https://open.spotify.com/episode/62pmAlGEvNf4jkuEeOG790){.btn .btn-outline-success}
+:::
+:::
+:::
+
+:::

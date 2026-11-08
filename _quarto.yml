@@ -16,6 +16,8 @@ website:
       #- about.qmd
       - href: papers
         text: Papers
+      - href: Podcasts
+        text: Podcasts
       - href: posts
         text: Blog
       - href: books
