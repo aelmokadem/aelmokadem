@@ -1,8 +1,13 @@
 [
   {
-    "listing": "/Podcasts/index.html",
+    "listing": "/posts/index.html",
     "items": [
-      "/Podcasts/pmx/index.html"
+      "/posts/ai/index.html",
+      "/posts/nihilism-fundamentalism/index.html",
+      "/posts/one/index.html",
+      "/posts/trans-mice/index.html",
+      "/posts/vaccines-antivax/index.html",
+      "/posts/welcome/index.html"
     ]
   },
   {
@@ -13,14 +18,16 @@
     ]
   },
   {
-    "listing": "/posts/index.html",
+    "listing": "/Podcasts/index.html",
     "items": [
-      "/posts/ai/index.html",
-      "/posts/nihilism-fundamentalism/index.html",
-      "/posts/one/index.html",
-      "/posts/trans-mice/index.html",
-      "/posts/vaccines-antivax/index.html",
-      "/posts/welcome/index.html"
+      "/Podcasts/pmx/index.html"
+    ]
+  },
+  {
+    "listing": "/media/index.html",
+    "items": [
+      "/media/podcast-amsecast-0126/index.html",
+      "/media/podcast-clin-pharm-1125/index.html"
     ]
   }
 ]
