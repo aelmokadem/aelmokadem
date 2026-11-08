@@ -21,6 +21,7 @@ A quick introduction to the podcast, why I started it, and what you can expect.
 
 [Watch on YouTube](https://youtu.be/Rhra9PqVxb4){.btn .btn-outline-danger}
 [Listen on Spotify](https://open.spotify.com/episode/40Jw4R7HmZAovTK0XJyo1Z){.btn .btn-outline-success}
+[Listen on Apple Podcasts](https://podcasts.apple.com/us/podcast/welcome-to-the-pharmacometrics-podcast-ep-0/id6832096373?i=1000800455264){.btn .btn-outline-secondary}
 :::
 :::
 :::
@@ -34,6 +35,7 @@ We start with a deceptively simple question: What exactly is pharmacometrics? An
 
 [Watch on YouTube](https://youtu.be/1_-fu9X1z-Q){.btn .btn-outline-danger}
 [Listen on Spotify](https://open.spotify.com/episode/62pmAlGEvNf4jkuEeOG790){.btn .btn-outline-success}
+[Listen on Apple Podcasts](https://podcasts.apple.com/us/podcast/what-is-pharmacometrics-ep-1/id6832096373?i=1000800455280){.btn .btn-outline-secondary}
 :::
 :::
 :::
