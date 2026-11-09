@@ -3,7 +3,7 @@ title: "Podcasts"
 description: "Podcasts about pharmacometrics, drug development, and the people behind the models."
 listing:
   contents:
-    - pmx/index.qmd
+    - pharmacometrics-podcast/index.qmd
   sort: title
   type: default
 ---

@@ -6,9 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="description" content="Podcasts about pharmacometrics, drug development, and the people behind the models.">
+<meta name="description" content="Conversations about models, data, and the people who use them to make better drug development decisions.">
 
-<title>Podcasts – Ahmed Elmokadem</title>
+<title>The Pharmacometrics Podcast – Ahmed Elmokadem</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -24,27 +24,25 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="../site_libs/quarto-nav/headroom.min.js"></script>
-<script src="../site_libs/clipboard/clipboard.min.js"></script>
-<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="../site_libs/quarto-search/fuse.min.js"></script>
-<script src="../site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="../">
-<link href="../img/favicon3.png" rel="icon" type="image/png">
-<script src="../site_libs/quarto-listing/list.min.js"></script>
-<script src="../site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="../site_libs/quarto-html/quarto.js" type="module"></script>
-<script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
-<script src="../site_libs/quarto-html/popper.min.js"></script>
-<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="../site_libs/quarto-html/anchor.min.js"></script>
-<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dc55a5b9e770e841cd82e46aadbfb9b0.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-f93c2b1f3f0577f377aefa4848a86a36.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<link href="../../img/favicon3.png" rel="icon" type="image/png">
+<script src="../../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-dc55a5b9e770e841cd82e46aadbfb9b0.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap-f93c2b1f3f0577f377aefa4848a86a36.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -72,67 +70,9 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
 
-    const options = {
-      valueNames: ['listing-title','listing-author','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
-
-<link rel="stylesheet" href="../styles.css">
+<link rel="stylesheet" href="../../styles.css">
 </head>
 
 <body class="nav-fixed quarto-light">
@@ -142,9 +82,9 @@ window.Quarto = {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a href="../index.html" class="navbar-brand navbar-brand-logo">
+    <a href="../../index.html" class="navbar-brand navbar-brand-logo">
     </a>
-    <a class="navbar-brand" href="../index.html">
+    <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">Ahmed Elmokadem</span>
     </a>
   </div>
@@ -155,27 +95,27 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../index.html"> 
+    <a class="nav-link" href="../../index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../papers"> 
+    <a class="nav-link" href="../../papers"> 
 <span class="menu-text">Papers</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../Podcasts"> 
+    <a class="nav-link" href="../../podcasts"> 
 <span class="menu-text">Podcasts</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../posts"> 
+    <a class="nav-link" href="../../posts"> 
 <span class="menu-text">Blog</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../books"> 
+    <a class="nav-link" href="../../books"> 
 <span class="menu-text">Books</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../media"> 
+    <a class="nav-link" href="../../media"> 
 <span class="menu-text">Media</span></a>
   </li>  
 </ul>
@@ -195,12 +135,12 @@ window.Quarto = {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Podcasts</h1>
+<h1 class="title">The Pharmacometrics Podcast</h1>
 </div>
 
 <div>
   <div class="description">
-    Podcasts about pharmacometrics, drug development, and the people behind the models.
+    Conversations about models, data, and the people who use them to make better drug development decisions.
   </div>
 </div>
 
@@ -217,35 +157,35 @@ window.Quarto = {
 </header>
 
 
-<p>Explore the podcasts I create and the topics they cover. Select a show to find its episodes and listening links.</p>
-
-
-
-
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-listing-file-modified-sort="1794150519795" data-listing-reading-time-sort="1" data-listing-word-count-sort="148">
-<div class="thumbnail"><a href="../Podcasts/pmx/index.html" class="no-external">
-
-<img loading="lazy" src="../Podcasts/pmx/pharmacometrics_podcast_cover.png" class="thumbnail-image">
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="../Podcasts/pmx/index.html" class="no-external">The Pharmacometrics Podcast</a>
-</h3>
-<div class="delink listing-description"><a href="../Podcasts/pmx/index.html" class="no-external">
-<p>Conversations about models, data, and the people who use them to make better drug development decisions.</p>
-</a></div>
+<p>Welcome to <strong>The Pharmacometrics Podcast</strong>, a space to talk about models, data, and the people who use them to make better drug development decisions.</p>
+<p>We explore pharmacometrics, PK/PD, QSP, PBPK, AI/ML, and model-informed drug development. Beyond the methods and equations, the podcast is about why we do this work, how we think through problems, and what happens when our models don’t behave as expected.</p>
+<section id="episodes" class="level2">
+<h2 class="anchored" data-anchor-id="episodes">Episodes</h2>
+<div class="grid">
+<div class="g-col-12 g-col-md-6">
+<div class="card h-100">
+<section id="episode-0-welcome-to-the-pharmacometrics-podcast" class="level3 card-body">
+<h3 class="anchored" data-anchor-id="episode-0-welcome-to-the-pharmacometrics-podcast">Episode 0 — Welcome to The Pharmacometrics Podcast!</h3>
+<p>A quick introduction to the podcast, why I started it, and what you can expect.</p>
+<p><a href="https://youtu.be/Rhra9PqVxb4" class="btn btn-outline-danger">Watch on YouTube</a> <a href="https://open.spotify.com/episode/40Jw4R7HmZAovTK0XJyo1Z" class="btn btn-outline-success">Listen on Spotify</a> <a href="https://podcasts.apple.com/us/podcast/welcome-to-the-pharmacometrics-podcast-ep-0/id6832096373?i=1000800455264" class="btn btn-outline-secondary">Listen on Apple Podcasts</a></p>
+</section>
 </div>
-<div class="metadata">
-<a href="../Podcasts/pmx/index.html" class="no-external">
-</a>
+</div>
+<div class="g-col-12 g-col-md-6">
+<div class="card h-100">
+<section id="episode-1-what-is-pharmacometrics" class="level3 card-body">
+<h3 class="anchored" data-anchor-id="episode-1-what-is-pharmacometrics">Episode 1 — What Is Pharmacometrics?</h3>
+<p>We start with a deceptively simple question: What exactly is pharmacometrics? And why is it sometimes so difficult to explain what we do, especially to our families?</p>
+<p><a href="https://youtu.be/1_-fu9X1z-Q" class="btn btn-outline-danger">Watch on YouTube</a> <a href="https://open.spotify.com/episode/62pmAlGEvNf4jkuEeOG790" class="btn btn-outline-success">Listen on Spotify</a> <a href="https://podcasts.apple.com/us/podcast/what-is-pharmacometrics-ep-1/id6832096373?i=1000800455280" class="btn btn-outline-secondary">Listen on Apple Podcasts</a></p>
+</section>
 </div>
 </div>
 </div>
-<div class="listing-no-matching d-none">No matching items</div>
-</div></main> <!-- /main -->
+
+
+</section>
+
+</main> <!-- /main -->
 <!-- subscribe.html -->
 <div id="mc_embed_shell" class="subscribe-box">
   <link href="//cdn-images.mailchimp.com/embedcode/classic-061523.css" rel="stylesheet" type="text/css">
