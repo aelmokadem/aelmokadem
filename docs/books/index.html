@@ -353,6 +353,35 @@ Ahmed Elmokadem
       text-align: center; /* center heading & form in footer */
     }
 
+    #mc_embed_signup .subscribe-preferences {
+      border: 0;
+      padding: 0;
+      margin: 1rem 0;
+      text-align: left;
+    }
+    #mc_embed_signup .subscribe-preferences legend {
+      float: none;
+      width: auto;
+      margin-bottom: 0.5rem;
+      font-size: 1rem;
+      font-weight: 600;
+    }
+    #mc_embed_signup .subscribe-preference {
+      display: flex;
+      align-items: baseline;
+      gap: 0.5rem;
+      margin-bottom: 0.4rem;
+    }
+    #mc_embed_signup .subscribe-preference input {
+      flex: 0 0 auto;
+      width: auto;
+      margin: 0;
+    }
+    #mc_embed_signup .subscribe-preference label {
+      display: inline;
+      margin: 0;
+    }
+
     /* Small screens: container should span full width */
     @media (max-width: 768px) {
       #mc_embed_signup {
@@ -371,6 +400,18 @@ Ahmed Elmokadem
           <label for="mce-EMAIL" style="display:block; margin-bottom:0.4rem;">Email Address</label>
           <input type="email" name="EMAIL" class="required email" id="mce-EMAIL" required="">
         </div>
+
+        <fieldset class="subscribe-preferences">
+          <legend>Email Preferences</legend>
+          <div class="subscribe-preference">
+            <input type="checkbox" name="group[14931][1]" id="mce-group-14931-1" value="">
+            <label for="mce-group-14931-1">Pharmacometrics and Podcast</label>
+          </div>
+          <div class="subscribe-preference">
+            <input type="checkbox" name="group[14931][2]" id="mce-group-14931-2" value="">
+            <label for="mce-group-14931-2">Personal Blog and Updates</label>
+          </div>
+        </fieldset>
 
         <div id="mce-responses" class="clear foot">
           <div class="response" id="mce-error-response" style="display:none;"></div>
