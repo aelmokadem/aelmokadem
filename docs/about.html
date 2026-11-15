@@ -97,25 +97,78 @@ ul.task-list li input[type="checkbox"] {
     <a class="nav-link" href="./index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-about" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">About</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-about">    
+        <li>
+    <a class="dropdown-item" href="./about.html#biography">
+ <span class="dropdown-text">Biography</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./about.html#teaching-mentoring">
+ <span class="dropdown-text">Teaching &amp; Mentoring</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./about.html#affiliations">
+ <span class="dropdown-text">Affiliations</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./about.html#personal-life">
+ <span class="dropdown-text">Personal Life</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-research" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Research</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-research">    
+        <li>
+    <a class="dropdown-item" href="./research.html">
+ <span class="dropdown-text">Research Interests</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./papers/index.html">
+ <span class="dropdown-text">Publications &amp; Papers</span></a>
+  </li>  
+    </ul>
+  </li>
   <li class="nav-item">
-    <a class="nav-link" href="./papers"> 
-<span class="menu-text">Papers</span></a>
+    <a class="nav-link" href="./books/index.html"> 
+<span class="menu-text">Books</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./podcasts"> 
 <span class="menu-text">Podcasts</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./posts"> 
-<span class="menu-text">Blog</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./books"> 
-<span class="menu-text">Books</span></a>
-  </li>  
-  <li class="nav-item">
     <a class="nav-link" href="./media"> 
 <span class="menu-text">Media</span></a>
+  </li>  
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-academies" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Academies</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-academies">    
+        <li>
+    <a class="dropdown-item" href="./academies.html">
+ <span class="dropdown-text">Overview</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="https://aeacademypmx.com">
+ <span class="dropdown-text">AEAcademy PMx</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="https://aeacademyprep.com">
+ <span class="dropdown-text">AEAcademy Prep</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="./posts/index.html"> 
+<span class="menu-text">Blog</span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -128,8 +181,17 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#biography" id="toc-biography" class="nav-link active" data-scroll-target="#biography">Biography</a></li>
+  <li><a href="#teaching-mentoring" id="toc-teaching-mentoring" class="nav-link" data-scroll-target="#teaching-mentoring">Teaching &amp; Mentoring</a></li>
+  <li><a href="#affiliations" id="toc-affiliations" class="nav-link" data-scroll-target="#affiliations">Affiliations</a></li>
+  <li><a href="#personal-life" id="toc-personal-life" class="nav-link" data-scroll-target="#personal-life">Personal Life</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -153,9 +215,36 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>About this site</p>
+<section id="biography" class="level2">
+<h2 class="anchored" data-anchor-id="biography">Biography</h2>
+<figure class="about-profile figure">
+<img src="img/profile.jpg" alt="Portrait of Ahmed Elmokadem" class="figure-img">
+<figcaption>
+Ahmed Elmokadem
+</figcaption>
+</figure>
+<p>I am a pharmacometrician and Senior Scientist with a PhD in Biomedical Sciences from the University of Connecticut. My work applies quantitative modeling and simulation across therapeutic areas including cancer, diabetes, and COVID-19. My experience spans quantitative systems pharmacology (QSP), physiologically based pharmacokinetics (PBPK), population pharmacokinetics/pharmacodynamics (PK/PD), Bayesian inference, and machine learning.</p>
+<p>I use Julia and R extensively for scientific computing and modeling. I am also interested in the intersections of science, philosophy, and religion, as well as mathematics and its history.</p>
+<p>I write fiction and nonfiction, including books that bring complex ideas to a broad audience. See the <a href="./books/index.html">Books page</a> for more.</p>
+<p><a href="./files/cv.pdf" class="btn btn-primary" target="_blank">Download my CV</a></p>
+</section>
+<section id="teaching-mentoring" class="level2">
+<h2 class="anchored" data-anchor-id="teaching-mentoring">Teaching &amp; Mentoring</h2>
+<p>I serve as an adjunct professor at the University of Connecticut and Indiana University. I enjoy helping students and colleagues build strong foundations in quantitative modeling, scientific programming, and clear scientific communication.</p>
+</section>
+<section id="affiliations" class="level2">
+<h2 class="anchored" data-anchor-id="affiliations">Affiliations</h2>
+<ul>
+<li><a href="https://www.isop.org/">International Society of Pharmacometrics (ISoP)</a></li>
+<li><a href="https://www.ascpt.org/">American Society for Clinical Pharmacology and Therapeutics (ASCPT)</a></li>
+</ul>
+</section>
+<section id="personal-life" class="level2">
+<h2 class="anchored" data-anchor-id="personal-life">Personal Life</h2>
+<p>Outside of work, I enjoy exploring big questions in science, philosophy, religion, and politics with my family. I also treasure playing video games with my son.</p>
 
 
+</section>
 
 </main> <!-- /main -->
 <!-- subscribe.html -->

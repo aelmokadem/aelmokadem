@@ -1,13 +1,8 @@
 [
   {
-    "listing": "/posts/index.html",
+    "listing": "/podcasts/index.html",
     "items": [
-      "/posts/ai/index.html",
-      "/posts/nihilism-fundamentalism/index.html",
-      "/posts/one/index.html",
-      "/posts/trans-mice/index.html",
-      "/posts/vaccines-antivax/index.html",
-      "/posts/welcome/index.html"
+      "/podcasts/pharmacometrics-podcast/index.html"
     ]
   },
   {
@@ -18,9 +13,14 @@
     ]
   },
   {
-    "listing": "/podcasts/index.html",
+    "listing": "/posts/index.html",
     "items": [
-      "/podcasts/pharmacometrics-podcast/index.html"
+      "/posts/ai/index.html",
+      "/posts/nihilism-fundamentalism/index.html",
+      "/posts/one/index.html",
+      "/posts/trans-mice/index.html",
+      "/posts/vaccines-antivax/index.html",
+      "/posts/welcome/index.html"
     ]
   },
   {

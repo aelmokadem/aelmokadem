@@ -1,64 +1,37 @@
 ---
 title: "Ahmed Elmokadem"
 about:
-    template: trestles
-    links:
-        - icon: linkedin
-          url: https://www.linkedin.com/in/ahmed-elmokadem-87b01875/
-        - icon: github
-          url: https://github.com/aelmokadem 
-        - text: "{{< ai orcid >}}"
-          url: https://orcid.org/0000-0002-2412-4986   
-        - text: "{{< ai google-scholar >}}"
-          url: https://scholar.google.com/citations?user=1tqhtzMAAAAJ&hl=en 
-        - text: "{{< fa envelope >}}"
-          url: mailto:aelmokadem.pmx@gmail.com
-#image: img/my-photo.png
-#image: img/Ahmed_ACoP.webp
-image: img/89e3e9fe-69f3-45b5-b29d-daa40b191ff9.jpeg
-image-shape: round
+  template: trestles
+  links:
+    - icon: linkedin
+      url: https://www.linkedin.com/in/ahmed-elmokadem-87b01875/
+    - icon: github
+      url: https://github.com/aelmokadem
+    - text: "{{< ai orcid >}}"
+      url: https://orcid.org/0000-0002-2412-4986
+    - text: "{{< ai google-scholar >}}"
+      url: https://scholar.google.com/citations?user=1tqhtzMAAAAJ&hl=en
+    - text: "{{< fa envelope >}}"
+      url: mailto:aelmokadem.pmx@gmail.com
+  image: img/89e3e9fe-69f3-45b5-b29d-daa40b191ff9.jpeg
+  image-shape: round
 ---
 
-## Bio
+## Welcome
 
-[Download my CV](/files/cv.pdf){target="_blank" .btn .btn-primary}
+I am a pharmacometrician, researcher, educator, and author. My work uses quantitative modeling and scientific computing to support drug development, and I enjoy making complex ideas clear through teaching, writing, and science communication.
 
-I am a passionate Pharmacometrician and Senior Scientist with a deep love for science and science communication. I hold a PhD in Biomedical Sciences from the University of Connecticut. My research includes pharmacometric modeling and simulation across various therapeutic areas such as cancer, diabetes, and COVID-19. My work employs diverse techniques including Quantitative Systems Pharmacology (QSP), Physiologically-Based Pharmacokinetics (PBPK), Bayesian inference, and machine learning.
+This site brings together my research and publications, books, podcasts, media, and educational projects.
 
-I am proficient in programming languages such as Julia and R, which I use extensively in my research and modeling work. Beyond my professional expertise, I am deeply interested in the intersection of science, philosophy, and religion, and how these fields can inform and enrich each other. Additionally, I have a strong interest in mathematics, its history, and its profound impact on daily lives and human civilization. I am fascinated by how mathematical principles and numbers shape our world and contribute to solving complex scientific problems.
+[About me](about.qmd){.btn .btn-primary}
+[Explore the Academies](academies.qmd){.btn .btn-outline-primary}
+[Research and publications](research.qmd){.btn .btn-outline-primary}
 
-I am also an author of both fiction and nonfiction, with two books published in Arabic and currently in the process of publishing them in English. My writing reflects my passion for science and my desire to communicate complex ideas in an accessible and engaging way.
+## Explore
 
-## Key research interests
-
-* **Pharmacometrics**: Quantitative systems pharmacology (QSP), physiologically based pharmacokinetics (PBPK), population pharmacokinetics/pharmacodynamics (PKPD), Bayesian hierarchical PKPD modeling, merging pharmacometrics with machine learning
-
-## Teaching
-
-I serve as an adjunct professor at both the University of Connecticut and Indiana University
-
-## Books
-
-**The Dreamers (Arabic)** [https://www.jarir.com/arabic-books-jbb6720na092.html](https://www.jarir.com/arabic-books-jbb6720na092.html)
-
-**Numbers that Dazzled the World (Arabic)** [https://www.jarir.com/arabic-books-522887.html?country=us](https://www.jarir.com/arabic-books-522887.html?country=us)
-
-## Selected papers
-
-**Elmokadem A**, Wiens M, Knab T, Utsey K, Callisto S, Kirouac D. **Hierarchical deep compartment modeling: A workflow to leverage machine learning and Bayesian inference for hierarchical pharmacometric modeling**. Clinical and Translational Science, October. [https://doi.org/10.1111/cts.70045](https://doi.org/10.1111/cts.70045). 
-
-Chigutsa E, Jordie E, Riggs M, Nirula A, **Elmokadem A**, Knab T, and Chien JY. **A Quantitative Modeling and Simulation Framework to Support Candidate and Dose Selection of Anti-SARS-CoV-2 Monoclonal Antibodies to Advance Bamlanivimab into a First-in-Human Clinical Trial**. Clinical Pharmacology & Therapeutics, October. [https://doi.org/10.1002/cpt.2459](https://doi.org/10.1002/cpt.2459). This manuscript received the **“Outstanding Research Manuscript Award”** from the International Society of Pharmacometrics (ISoP) in October 2022.
-
-## Professional affiliations
-
-**[International Society of Pharmacometrics (ISoP)](https://www.isop.org/)**
-
-**[American Society of Clinical Pharmacology and Therapeutics (ASCPT)](https://www.ascpt.org/)**
-
-
-## Personal life
-
-I am a father and a husband who enjoys the routine scientific-philosophical-religious-political discussions with my family. My wife is incredibly supportive and loving, always encouraging me in my pursuits and standing by my side through thick and thin. We share a deep bond and a mutual passion for exploring life's big questions together.
-
-Video game time with my son is also something I cherish. It's our special way of bonding and having fun, whether we're teaming up to conquer virtual worlds or just laughing at our in-game mishaps. These moments are priceless and bring a lot of joy to our lives.
-
+- **[Research](research.qmd)** — Learn about my research interests and find links to my publications.
+- **[Books](books/index.qmd)** — Explore my fiction and nonfiction writing.
+- **[Podcasts](podcasts/index.qmd)** — Listen to conversations and episodes about pharmacometrics and drug development.
+- **[Media](media/index.qmd)** — Find interviews, talks, and other media appearances.
+- **[Academies](academies.qmd)** — Visit AEAcademy PMx and AEAcademy Prep.
+- **[Blog](posts/index.qmd)** — Read essays on science, technology, and other topics.

@@ -1,0 +1,17 @@
+---
+title: "Research"
+description: "Research interests in pharmacometrics, quantitative pharmacology, Bayesian modeling, and machine learning."
+---
+
+## Research Interests
+
+My research focuses on quantitative approaches to understanding drug behavior and supporting development decisions. Areas of interest include:
+
+- Quantitative systems pharmacology (QSP) and physiologically based pharmacokinetics (PBPK)
+- Population pharmacokinetics/pharmacodynamics (PK/PD) and Bayesian hierarchical modeling
+- Integrating pharmacometrics with machine learning, including hybrid mechanistic and data-driven methods
+- Reproducible scientific computing and model-informed drug development
+
+## Publications
+
+See the [Papers page](papers/index.qmd) for a list of my publications.

@@ -2,6 +2,10 @@
 title: "Papers"
 ---
 
+# 2025
+
+Bruno CD, **Elmokadem A**, Greenblatt DJ, and Chow CR. Physiologically-based pharmacokinetic model for predicting drug-drug interactions perpetrated by posaconazole in healthy subjects with normal weight and obesity: Concomitant use and washout. Journal of Pharmacokinetics and Pharmacodynamics, July. [https://doi.org/10.1007/s10928-025-09983-6](https://doi.org/10.1007/s10928-025-09983-6).
+
 # 2024
 
 **Elmokadem A**, Wiens M, Knab T, Utsey K, Callisto S, Kirouac D. Hierarchical deep compartment modeling: A workflow to leverage machine learning and Bayesian inference for hierarchical pharmacometric modeling. Clinical and Translational Science, October. [https://doi.org/10.1111/cts.70045](https://doi.org/10.1111/cts.70045). 
@@ -38,4 +42,3 @@ Ji Y and **Elmokadem A**. Single-Molecule Localization Microscopy as Nonlinear I
 # 2015
 
 **Elmokadem A** and Yu J. Optimal Drift Correction for Superresolution Localization Microscopy with Bayesian Inference. Biophys J. 109(9), 1772-1780. [https://doi.org/10.1016/j.bpj.2015.09.017](https://doi.org/10.1016/j.bpj.2015.09.017)
-

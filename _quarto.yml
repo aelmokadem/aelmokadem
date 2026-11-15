@@ -13,17 +13,38 @@ website:
     left:
       - href: index.qmd
         text: Home
-      #- about.qmd
-      - href: papers
-        text: Papers
+      - text: About
+        menu:
+          - href: about.qmd#biography
+            text: Biography
+          - href: about.qmd#teaching-mentoring
+            text: Teaching & Mentoring
+          - href: about.qmd#affiliations
+            text: Affiliations
+          - href: about.qmd#personal-life
+            text: Personal Life
+      - text: Research
+        menu:
+          - href: research.qmd
+            text: Research Interests
+          - href: papers/index.qmd
+            text: Publications & Papers
+      - href: books/index.qmd
+        text: Books
       - href: podcasts
         text: Podcasts
-      - href: posts
-        text: Blog
-      - href: books
-        text: Books
       - href: media
         text: Media
+      - text: Academies
+        menu:
+          - href: academies.qmd
+            text: Overview
+          - href: https://aeacademypmx.com
+            text: AEAcademy PMx
+          - href: https://aeacademyprep.com
+            text: AEAcademy Prep
+      - href: posts/index.qmd
+        text: Blog
   page-footer:
     left: "(c) Ahmed Elmokadem, 2025–. [Disclaimer](disclaimer)"
   # comments:

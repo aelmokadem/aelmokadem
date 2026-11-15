@@ -1,0 +1,26 @@
+---
+title: "Academies"
+description: "Explore AEAcademy PMx and AEAcademy Prep, two learning platforms created by Ahmed Elmokadem."
+---
+
+I created two online learning platforms with a shared focus on clear explanations, structured learning, and practical understanding. AEAcademy PMx serves learners in pharmacometrics, while AEAcademy Prep helps students build their SAT and ACT math skills.
+
+<div class="academy-grid">
+  <section class="academy-card">
+    <a href="https://aeacademypmx.com" target="_blank" rel="noopener noreferrer" aria-label="Visit AEAcademy PMx">
+      <img src="img/aeacademy-pmx.png" alt="AEAcademy PMx logo" class="academy-logo">
+    </a>
+    <h2>AEAcademy PMx</h2>
+    <p>Practical, theory-informed courses in pharmacometrics, from pharmacokinetic foundations and noncompartmental analysis to population PK/PD modeling and simulation. The courses emphasize clear reasoning, reproducible workflows, and decision-focused learning.</p>
+    <p><a class="btn btn-primary" href="https://aeacademypmx.com" target="_blank" rel="noopener noreferrer">Explore AEAcademy PMx</a></p>
+  </section>
+
+  <section class="academy-card">
+    <a href="https://aeacademyprep.com" target="_blank" rel="noopener noreferrer" aria-label="Visit AEAcademy Prep">
+      <img src="img/aeacademy-prep.png" alt="AEAcademy Prep logo" class="academy-logo">
+    </a>
+    <h2>AEAcademy Prep</h2>
+    <p>Structured SAT and ACT math preparation focused on understanding, not memorizing shortcuts. Students learn through clear lessons, worked examples, targeted practice, and step-by-step solutions.</p>
+    <p><a class="btn btn-primary" href="https://aeacademyprep.com" target="_blank" rel="noopener noreferrer">Explore AEAcademy Prep</a></p>
+  </section>
+</div>
