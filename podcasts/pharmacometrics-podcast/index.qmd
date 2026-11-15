@@ -40,4 +40,18 @@ We start with a deceptively simple question: What exactly is pharmacometrics? An
 :::
 :::
 
+::: {.g-col-12 .g-col-md-6}
+::: {.card .h-100}
+::: {.card-body}
+### Episode 2 — Why Do We Build Models in Drug Development?
+
+We explore why models are built in drug development and how they support better decisions.
+
+[Watch on YouTube](https://www.youtube.com/watch?v=KvrO9zXpXFg&t=529s){.btn .btn-outline-danger}
+[Listen on Spotify](https://open.spotify.com/episode/5NudzLauxfYZlIWO5zJoLR?si=Hd44CRLUSEWKmqBIeSDgMw){.btn .btn-outline-success}
+[Listen on Apple Podcasts](https://podcasts.apple.com/us/podcast/why-do-we-build-models-in-drug-development-ep-2/id6832096373?i=1000801954419){.btn .btn-outline-secondary}
+:::
+:::
+:::
+
 :::
