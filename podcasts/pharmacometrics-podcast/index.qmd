@@ -8,6 +8,8 @@ Welcome to **The Pharmacometrics Podcast**, a space to talk about models, data, 
 
 We explore pharmacometrics, PK/PD, QSP, PBPK, AI/ML, and model-informed drug development. Beyond the methods and equations, the podcast is about why we do this work, how we think through problems, and what happens when our models don't behave as expected.
 
+[Explore the companion technical notebooks](https://aelmokadem.github.io/pharmacometrics-podcast/).
+
 ## Episodes
 
 ::: {.grid}

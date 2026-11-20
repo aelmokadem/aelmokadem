@@ -396,7 +396,7 @@
     "href": "podcasts/pharmacometrics-podcast/index.html",
     "title": "The Pharmacometrics Podcast",
     "section": "",
-    "text": "Welcome to The Pharmacometrics Podcast, a space to talk about models, data, and the people who use them to make better drug development decisions.\nWe explore pharmacometrics, PK/PD, QSP, PBPK, AI/ML, and model-informed drug development. Beyond the methods and equations, the podcast is about why we do this work, how we think through problems, and what happens when our models don’t behave as expected."
+    "text": "Welcome to The Pharmacometrics Podcast, a space to talk about models, data, and the people who use them to make better drug development decisions.\nWe explore pharmacometrics, PK/PD, QSP, PBPK, AI/ML, and model-informed drug development. Beyond the methods and equations, the podcast is about why we do this work, how we think through problems, and what happens when our models don’t behave as expected.\nExplore the companion technical notebooks."
   },
   {
     "objectID": "podcasts/pharmacometrics-podcast/index.html#episodes",
