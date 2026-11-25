@@ -25,19 +25,27 @@ So, you decided to read this article. Well, good for you! It's a wonderful read,
 
 Before you dismiss the question as a stupid philosophical exercise, think about how you ended up here.
 
-Perhaps one of your parents loved philosophy and got you asking big questions as a kid. Perhaps a recent conversation got you thinking about how we make choices. Maybe you're a relative of mine and felt obligated to read this to show your support. Or maybe you just had too much time on your hands and nothing better to do.
+Perhaps one of your parents loved philosophy and got you asking big questions as a kid. Perhaps a recent conversation got you thinking about how we make choices. Maybe you're my son and felt obligated to read this to make your dad happy. Or maybe you just had too much time on your hands and nothing better to do.
 
 Whatever brought you here, chances are it was a mix of what you already cared about and what happened to catch your attention, much of it beyond your control.
 
 So, if our decisions are shaped by things we had no say in, what does that mean for free will? Do we really have it? Or are we merely passengers in a universe where our sense of choice is an elaborate illusion?
 
-Imagine a sufficiently sophisticated computer program that can learn from its experiences, evaluate different options, weigh their consequences, modify its behavior, and even explain why it made a particular decision.
+This reminds me of a famous thought experiment proposed by the American philosopher John Searle in 1980, known as the *Chinese room* [@searle1980minds].
 
-Its decisions could be incredibly complex, perhaps even impossible for us to predict.[^predictability] Yet we might hesitate to say it has free will. After all, its decisions depend on how it was built, the information it receives, and everything it has learned along the way.
+Imagine a person sitting inside a room who doesn't understand a single word of Chinese. Messages written in Chinese are passed into the room through a slot, and the person inside has an elaborate set of instructions that allows them to manipulate the Chinese symbols and produce appropriate responses without ever understanding their meaning.
+
+To a native Chinese speaker outside the room, it might appear that whoever is inside understands Chinese perfectly. Yet, according to Searle's argument, what appears to be understanding is merely the execution of a set of rules.
+
+Now, Searle's thought experiment was concerned with understanding rather than free will, but I find the parallel intriguing.
+
+Could something similar be happening with our sense of agency? Could what we perceive as free choices emerge from an extraordinarily complex set of underlying processes?
+
+Imagine a computer program that can learn from its experiences, evaluate different options, modify its behavior, and even explain why it made a particular decision. Its decisions could be incredibly complex, perhaps even impossible for us to predict.[^predictability] Yet, we might still hesitate to say that it possesses free will.
 
 But then, what makes us fundamentally different? Could our genetics, upbringing, memories, emotions, and experiences collectively constitute our own rather sophisticated decision-making machinery?
 
-And if so, how complex would that machinery have to get before we'd call it free will?
+And unlike the person inside the Chinese room, we might not even be aware of most of the rules we're following.
 
 ## You Can Do What You Want, But Can You Want What You Want?
 
@@ -45,7 +53,7 @@ Before you hate me for this idea, let me appeal to authority and call on a guy a
 
 In his prize-winning essay *On the Freedom of the Will*, Schopenhauer argued that what we do in a given situation follows from our character and the motives at play, neither of which we ultimately chose [@schopenhauer2009freedom].
 
-In *My Credo*, Einstein put it this way, crediting Schopenhauer [@einstein1932credo].
+In *My Credo*, Einstein put it this way, crediting Schopenhauer [@einstein1932credo]:
 
 > Man can do what he wants, but he cannot will what he wills.
 
@@ -81,7 +89,7 @@ I see you fussing again. You can choose what to do with your wants, right? You c
 
 Think about the last time you said, "I really don't want to work out today," and went anyway. You probably meant it. You wanted to stay on the couch. You just wanted to keep the promise you'd made to yourself a little more.
 
-Hate to burst your bubble here, my friend, but you may have picked the fig because you *wanted* to go against your first impulse.
+Hate to burst your bubble here, my friend, but you may have picked the fig for a similar reason. You *wanted* to go against your first impulse.
 
 Maybe you picked the fig out of curiosity. Maybe you thought it was time you gave figs another chance. Or maybe you just desperately wanted to prove me wrong.
 
@@ -91,7 +99,9 @@ Maybe you worked at becoming more adventurous. But what made you want to do that
 
 You can see where this is going.
 
-If each want we chose takes us back to an earlier one, how far can we go before we run into something we never chose?[^basic-argument]
+If each attempt to choose what we want takes us back to an earlier motivation, how far can we go before we run into something we never chose?[^basic-argument]
+
+And by *wants* here, I don't just mean cravings or immediate desires. I'm also talking about our values, ambitions, convictions, and the reasons that motivate us to act, even when doing so is unpleasant.
 
 The point here is not that we are incapable of deliberating, reasoning, exercising self-control, or resisting our impulses. We do all of these things. The question is whether we are the ultimate authors of the very motivations and processes that allow us to do them.
 
@@ -109,7 +119,7 @@ That's one way to make the case for *compatibilism*, the view that we can have f
 
 Say you eat a mango because you enjoy mangoes. Now imagine eating the same mango because someone threatens you.
 
-Both choices can follow from earlier events. In the first case, you're acting on your own preferences. In the second, you're acting under coercion.
+Even if both actions were entirely determined by earlier events, there would still be a meaningful difference between them. In the first case, you're acting on your own preferences. In the second, you're acting under coercion.
 
 A compatibilist might say that's what matters for free will. We can act freely when we're guided by our own motives, values, and reasoning and have room to act on them.
 
@@ -121,7 +131,7 @@ Even if I accept that my desires are genuinely mine, I still wonder how much say
 
 Perhaps the disagreement here is partly about what we mean by the word *free*.
 
-Are we talking about the freedom to act according to who we are, or the freedom to determine who we are in the first place?
+Are we talking about the freedom to act according to who we are, or the freedom to ultimately determine who we are in the first place?
 
 The former seems considerably easier to defend than the latter.
 
@@ -137,11 +147,13 @@ Absolutely!
 
 And all that deliberation still draws on who we've become. What matters to us, which memories come to mind, and how readily we change our minds all shape how we think a decision through.
 
-Perhaps what we call free will is what it feels like to make a decision from the inside.
+Perhaps what we interpret as free will is simply what it feels like to make a decision from the inside.
 
-And perhaps the sense of agency that accompanies it serves a useful purpose.
+The experience of making a choice is real. What might be an illusion is the belief that we are the ultimate originators of that choice.
 
-Imagine how difficult it would be to navigate life if we constantly perceived ourselves as nothing more than the products of countless preceding events. Instead, we experience ourselves as individuals capable of evaluating possibilities, pursuing goals, and influencing our surroundings.
+And perhaps our sense of agency serves a useful purpose.
+
+Imagine how difficult it might be to navigate life if we constantly perceived ourselves as nothing more than the products of countless preceding events. Instead, we experience ourselves as individuals capable of evaluating possibilities, pursuing goals, and influencing our surroundings.
 
 Could this sense of agency be something that emerged through evolution because it helped us navigate the world more effectively?
 
@@ -157,9 +169,13 @@ Why work hard? Why exercise? Why study? Why try to become a better person?
 
 Well, because all of these things still have consequences!
 
+There's an important distinction between determinism and fatalism.
+
 Under determinism, the state of the world at a given moment and the laws of nature fix what happens next. Our choices and actions are part of how that future comes about. The kind of fatalism I'm talking about says we'd end up in the same place whatever we did.
 
 Imagine a student preparing for an exam. Maybe a lousy grade on the last test was what got them to open the textbook. The time they spend studying can still help them do better this time. That lousy grade, the decision to study, and the studying itself can all be part of the chain that leads to a better result.
+
+The possibility that their motivation to study was determined by earlier events doesn't make the studying any less consequential.
 
 It's precisely because our experiences shape us that we *can* change.
 
@@ -177,7 +193,9 @@ Whether we do so with free will is an entirely different question.
 
 Of course, everything we've discussed so far has been largely philosophical.
 
-We still haven't settled whether the universe is deterministic or what the nature of time might have to do with any of this.
+We've questioned whether we have ultimate control over our choices, but we haven't established that the universe itself is deterministic. Those are two different questions.
+
+So, what happens when we turn to science?
 
 What does Einstein's theory of relativity tell us about the nature of time and the future that we believe we are free to shape?
 
@@ -195,7 +213,7 @@ Because let's face it, you can't help it. :)
 
 <!-- footnotes -->
 
-[^predictability]: Even if the same starting conditions would always produce the same decision, we'd still need enough information and computing power to work out what that decision would be.
+[^predictability]: Even if the same starting conditions would always produce the same decision, we'd still need enough information and computing power to work out what that decision would be. Determinism and predictability are not the same thing.
 
 [^basic-argument]: Galen Strawson makes a related case about moral responsibility in his *Basic Argument*. If being ultimately responsible for what you do requires being ultimately responsible for the way you are, then any attempt to make yourself a certain way takes you back to the person you already were when you made that choice [@strawson1994responsibility].
 
