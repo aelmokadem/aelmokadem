@@ -35,13 +35,17 @@ This reminds me of a famous thought experiment proposed by the American philosop
 
 Imagine a person sitting inside a room who doesn't understand a single word of Chinese. Messages written in Chinese are passed into the room through a slot, and the person inside has an elaborate set of instructions that allows them to manipulate the Chinese symbols and produce appropriate responses without ever understanding their meaning.
 
-To a native Chinese speaker outside the room, it might appear that whoever is inside understands Chinese perfectly. Yet, according to Searle's argument, what appears to be understanding is merely the execution of a set of rules.
+To a native Chinese speaker outside the room, it might appear that whoever is inside understands Chinese perfectly. Yet, according to Searle's argument, the ability to produce appropriate responses by following a set of rules doesn't necessarily amount to genuine understanding.[^chinese-room]
 
 Now, Searle's thought experiment was concerned with understanding rather than free will, but I find the parallel intriguing.
 
 Could something similar be happening with our sense of agency? Could what we perceive as free choices emerge from an extraordinarily complex set of underlying processes?
 
-Imagine a computer program that can learn from its experiences, evaluate different options, modify its behavior, and even explain why it made a particular decision. Its decisions could be incredibly complex, perhaps even impossible for us to predict.[^predictability] Yet, we might still hesitate to say that it possesses free will.
+Imagine a computer program that can learn from its experiences, evaluate different options, modify its behavior, and even explain why it made a particular decision. Its decisions could be incredibly complex, perhaps even impossible for us to predict.
+
+But just because we can't predict a decision doesn't mean it isn't determined. Even in a completely deterministic system, we might simply lack the information or computing power needed to predict its behavior. Determinism and predictability are not the same thing.
+
+Yet, despite all that complexity, we might still hesitate to say that the program possesses free will.
 
 But then, what makes us fundamentally different? Could our genetics, upbringing, memories, emotions, and experiences collectively constitute our own rather sophisticated decision-making machinery?
 
@@ -49,15 +53,21 @@ And unlike the person inside the Chinese room, we might not even be aware of mos
 
 ## You Can Do What You Want, But Can You Want What You Want?
 
-Before you hate me for this idea, let me appeal to authority and call on a guy a little bit smarter than me. Enter Arthur Schopenhauer, the great German philosopher.
+Before you start cussing at me, let me commit the philosophical sin of appealing to authority and call on a guy a little bit smarter than me. Enter Arthur Schopenhauer, the great German philosopher.
 
-In his prize-winning essay *On the Freedom of the Will*, Schopenhauer argued that what we do in a given situation follows from our character and the motives at play, neither of which we ultimately chose [@schopenhauer2009freedom].
+In his prize-winning essay *On the Freedom of the Will*, Schopenhauer argued that what we do in a given situation follows from our character and the motives at play, neither of which we ultimately chose [@schopenhauer2009freedom].[^schopenhauer]
 
 In *My Credo*, Einstein put it this way, crediting Schopenhauer [@einstein1932credo]:
 
 > Man can do what he wants, but he cannot will what he wills.
 
 There's a subtle but profound difference between doing what we want and deciding what we want in the first place.
+
+Now, if I may be so bold as to push Schopenhauer's argument a little further (and risk getting into trouble with Einstein while I'm at it), can we really claim to freely do what we want if we cannot freely will what we want?
+
+If what we do ultimately stems from what we want, and we have no ultimate control over what we want, then, by extension, how much control do we really have over what we do?
+
+We may be free to act on our wants without being the ultimate authors of our actions.
 
 Imagine that I ask you to stop loving someone you deeply love. Not to pretend that you don't love them, but to genuinely stop loving them, right here, right now.
 
@@ -68,8 +78,6 @@ You might be able to control how you act on those feelings. Can you change the f
 Of course, our preferences can change over time. We can develop an appreciation for things we once disliked, abandon old habits, and even deliberately work toward changing aspects of our personalities.
 
 But where does the desire to change those preferences come from?
-
-Our choices seem to come back to what we *want*. If we don't ultimately choose what we want, how free are the choices that follow?
 
 ## A Mango or a Fig?
 
@@ -83,7 +91,7 @@ But did you choose to like mangoes more than figs? Did you, at some point in you
 
 Probably not.
 
-So, while you were perfectly free to pick whichever fruit you wanted, you weren't necessarily free to determine which fruit you wanted.
+So, while nothing was stopping you from picking either fruit, you didn't necessarily choose the preference that guided your decision.
 
 I see you fussing again. You can choose what to do with your wants, right? You can pick the fig even if you'd rather eat the mango.
 
@@ -99,7 +107,9 @@ Maybe you worked at becoming more adventurous. But what made you want to do that
 
 You can see where this is going.
 
-If each attempt to choose what we want takes us back to an earlier motivation, how far can we go before we run into something we never chose?[^basic-argument]
+If each attempt to choose what we want takes us back to an earlier motivation, how far can we go before we run into something we never chose?
+
+This line of reasoning is closely related to what the philosopher Galen Strawson calls the *Basic Argument*. He argues that to be ultimately responsible for what we do, we would have to be ultimately responsible for the way we are. But any attempt to change who we are necessarily starts with the person we already are [@strawson1994responsibility].[^basic-argument]
 
 And by *wants* here, I don't just mean cravings or immediate desires. I'm also talking about our values, ambitions, convictions, and the reasons that motivate us to act, even when doing so is unpleasant.
 
@@ -115,13 +125,19 @@ After all, my memories, experiences, preferences, values, and personality are a 
 
 If my decision emerges from these things, why shouldn't it be considered my own decision?
 
-That's one way to make the case for *compatibilism*, the view that we can have free will even if determinism is true.[^compatibilism]
+That's one way to make the case for *compatibilism*, the view that we can have free will even if determinism is true.
 
 Say you eat a mango because you enjoy mangoes. Now imagine eating the same mango because someone threatens you.
 
 Even if both actions were entirely determined by earlier events, there would still be a meaningful difference between them. In the first case, you're acting on your own preferences. In the second, you're acting under coercion.
 
-A compatibilist might say that's what matters for free will. We can act freely when we're guided by our own motives, values, and reasoning and have room to act on them.
+A compatibilist might say that's what matters for free will. We can act freely when we're guided by our own motives, values, and reasoning and have room to act on them. The fact that we didn't ultimately choose those motives doesn't necessarily make our actions any less free.
+
+The philosopher Harry Frankfurt offers an interesting take on this [@frankfurt1971freedom].
+
+Remember our mango and fig dilemma? You might want the mango but also wish that your curiosity about the fig would prevail. In other words, you have a desire, but you also have a desire about which of your desires you want to guide your actions.
+
+On Frankfurt's account, freedom of the will has to do with whether the desire you want to guide your actions is the one that actually does.[^frankfurt]
 
 And I think that's a perfectly reasonable position.
 
@@ -137,7 +153,7 @@ The former seems considerably easier to defend than the latter.
 
 ## A Rather Convincing Illusion?
 
-I know this is hard to digest, especially because we do feel like we have free will.
+I know this is hard to digest, especially because our daily experiences keep reinforcing the notion that we have free will.
 
 When we face a difficult decision, we can spend hours, days, or even years mulling it over. We weigh the pros and cons, imagine different futures, talk it through with other people, and sometimes change our minds several times before we settle on anything.
 
@@ -209,12 +225,14 @@ Have I brought you guys down yet? I hope not, but if I have, I apologize.
 
 You might think about all this for a few seconds or even a few days. Then you'll go on with your life, making choices as if you have free will.
 
-Because let's face it, you can't help it. :)
+Because let's face it, you can't help it. 🙂
 
 <!-- footnotes -->
 
-[^predictability]: Even if the same starting conditions would always produce the same decision, we'd still need enough information and computing power to work out what that decision would be. Determinism and predictability are not the same thing.
+[^chinese-room]: Searle's argument remains controversial. One prominent objection, known as the *systems reply*, suggests that although the person inside the room may not understand Chinese, the system as a whole might. The thought experiment is used here as an analogy rather than as evidence against free will.
 
-[^basic-argument]: Galen Strawson makes a related case about moral responsibility in his *Basic Argument*. If being ultimately responsible for what you do requires being ultimately responsible for the way you are, then any attempt to make yourself a certain way takes you back to the person you already were when you made that choice [@strawson1994responsibility].
+[^schopenhauer]: Schopenhauer's essay won a prize from the Royal Norwegian Society of Sciences and Letters in 1839. His broader philosophical position is consistent with the implication I'm exploring here, so my rather presumptuous challenge is more an extension of his argument than a disagreement with it.
 
-[^compatibilism]: Harry Frankfurt offers one version of this idea. Suppose you want the mango but wish your curiosity about the fig would win out. On Frankfurt's account, your will is free when the desire you want to guide you is the one that actually does [@frankfurt1971freedom].
+[^basic-argument]: Strawson's Basic Argument is primarily concerned with ultimate moral responsibility. Importantly, his argument is not dependent on determinism being true. Introducing randomness into the processes that shape our character would not, by itself, make us ultimately responsible for that character.
+
+[^frankfurt]: Frankfurt distinguishes between *first-order desires* (desires to do something), *second-order desires* (desires about one's desires), and *second-order volitions* (desires concerning which first-order desire should constitute one's effective will). His account is one influential approach to understanding freedom of the will.
