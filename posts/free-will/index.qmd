@@ -2,7 +2,7 @@
 ---
 title: "Free Will: Did You Really Choose to Read This?"
 description: "We make choices every day, but do we really choose what we want? An exploration of the unsettling possibility that free will is an illusion."
-date: 2026-11-25
+date: 2026-11-26
 categories:
 - PHILOSOPHY
 - FREE WILL
@@ -16,7 +16,7 @@ comments:
     #hypothesis: true
     #utterances:
     #    repo: aelmokadem/aelmokadem
-draft: true
+draft: false
 ---
 
 ## An Unnerving Idea!
