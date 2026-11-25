@@ -1,0 +1,202 @@
+
+---
+title: "Free Will: Did You Really Choose to Read This?"
+description: "We make choices every day, but do we really choose what we want? An exploration of the unsettling possibility that free will is an illusion."
+date: 2026-11-25
+categories:
+- PHILOSOPHY
+- FREE WILL
+- DETERMINISM
+- HUMAN NATURE
+image: free-will.png
+bibliography: references.bib
+comments:
+    giscus:
+        repo: aelmokadem/aelmokadem
+    #hypothesis: true
+    #utterances:
+    #    repo: aelmokadem/aelmokadem
+draft: true
+---
+
+## An Unnerving Idea!
+
+So, you decided to read this article. Well, good for you! It's a wonderful read, let me tell you. But did you *really* choose to read it?
+
+Before you dismiss the question as a stupid philosophical exercise, think about how you ended up here.
+
+Perhaps one of your parents loved philosophy and got you asking big questions as a kid. Perhaps a recent conversation got you thinking about how we make choices. Maybe you're a relative of mine and felt obligated to read this to show your support. Or maybe you just had too much time on your hands and nothing better to do.
+
+Whatever brought you here, chances are it was a mix of what you already cared about and what happened to catch your attention, much of it beyond your control.
+
+So, if our decisions are shaped by things we had no say in, what does that mean for free will? Do we really have it? Or are we merely passengers in a universe where our sense of choice is an elaborate illusion?
+
+Imagine a sufficiently sophisticated computer program that can learn from its experiences, evaluate different options, weigh their consequences, modify its behavior, and even explain why it made a particular decision.
+
+Its decisions could be incredibly complex, perhaps even impossible for us to predict.[^predictability] Yet we might hesitate to say it has free will. After all, its decisions depend on how it was built, the information it receives, and everything it has learned along the way.
+
+But then, what makes us fundamentally different? Could our genetics, upbringing, memories, emotions, and experiences collectively constitute our own rather sophisticated decision-making machinery?
+
+And if so, how complex would that machinery have to get before we'd call it free will?
+
+## You Can Do What You Want, But Can You Want What You Want?
+
+Before you hate me for this idea, let me appeal to authority and call on a guy a little bit smarter than me. Enter Arthur Schopenhauer, the great German philosopher.
+
+In his prize-winning essay *On the Freedom of the Will*, Schopenhauer argued that what we do in a given situation follows from our character and the motives at play, neither of which we ultimately chose [@schopenhauer2009freedom].
+
+In *My Credo*, Einstein put it this way, crediting Schopenhauer [@einstein1932credo].
+
+> Man can do what he wants, but he cannot will what he wills.
+
+There's a subtle but profound difference between doing what we want and deciding what we want in the first place.
+
+Imagine that I ask you to stop loving someone you deeply love. Not to pretend that you don't love them, but to genuinely stop loving them, right here, right now.
+
+Or perhaps something a little less dramatic. Think of a food you absolutely despise. Can you simply decide to find it delicious?
+
+You might be able to control how you act on those feelings. Can you change the feelings themselves on command?
+
+Of course, our preferences can change over time. We can develop an appreciation for things we once disliked, abandon old habits, and even deliberately work toward changing aspects of our personalities.
+
+But where does the desire to change those preferences come from?
+
+Our choices seem to come back to what we *want*. If we don't ultimately choose what we want, how free are the choices that follow?
+
+## A Mango or a Fig?
+
+Imagine you are offered two pieces of fruit, a mango and a fig, and you choose the mango.
+
+Why?
+
+Well, it's obvious. You like mangoes and hate figs (can't blame you there), so you *want* the mango more.
+
+But did you choose to like mangoes more than figs? Did you, at some point in your life, consciously decide what your taste buds should find appealing?
+
+Probably not.
+
+So, while you were perfectly free to pick whichever fruit you wanted, you weren't necessarily free to determine which fruit you wanted.
+
+I see you fussing again. You can choose what to do with your wants, right? You can pick the fig even if you'd rather eat the mango.
+
+Think about the last time you said, "I really don't want to work out today," and went anyway. You probably meant it. You wanted to stay on the couch. You just wanted to keep the promise you'd made to yourself a little more.
+
+Hate to burst your bubble here, my friend, but you may have picked the fig because you *wanted* to go against your first impulse.
+
+Maybe you picked the fig out of curiosity. Maybe you thought it was time you gave figs another chance. Or maybe you just desperately wanted to prove me wrong.
+
+I'd still ask where that curiosity or judgment came from. How much say did you have in becoming the person who would give the fig a second chance?
+
+Maybe you worked at becoming more adventurous. But what made you want to do that? And did you choose that want too?
+
+You can see where this is going.
+
+If each want we chose takes us back to an earlier one, how far can we go before we run into something we never chose?[^basic-argument]
+
+The point here is not that we are incapable of deliberating, reasoning, exercising self-control, or resisting our impulses. We do all of these things. The question is whether we are the ultimate authors of the very motivations and processes that allow us to do them.
+
+## But Aren't These Wants Mine?
+
+Now, you might reasonably object that I'm asking too much of free will.
+
+Why should I have to be the ultimate creator of my desires for my choices to be considered free?
+
+After all, my memories, experiences, preferences, values, and personality are a large part of what makes me *me*.
+
+If my decision emerges from these things, why shouldn't it be considered my own decision?
+
+That's one way to make the case for *compatibilism*, the view that we can have free will even if determinism is true.[^compatibilism]
+
+Say you eat a mango because you enjoy mangoes. Now imagine eating the same mango because someone threatens you.
+
+Both choices can follow from earlier events. In the first case, you're acting on your own preferences. In the second, you're acting under coercion.
+
+A compatibilist might say that's what matters for free will. We can act freely when we're guided by our own motives, values, and reasoning and have room to act on them.
+
+And I think that's a perfectly reasonable position.
+
+But it doesn't entirely resolve the question that troubles me.
+
+Even if I accept that my desires are genuinely mine, I still wonder how much say I had in becoming the person who has them.
+
+Perhaps the disagreement here is partly about what we mean by the word *free*.
+
+Are we talking about the freedom to act according to who we are, or the freedom to determine who we are in the first place?
+
+The former seems considerably easier to defend than the latter.
+
+## A Rather Convincing Illusion?
+
+I know this is hard to digest, especially because we do feel like we have free will.
+
+When we face a difficult decision, we can spend hours, days, or even years mulling it over. We weigh the pros and cons, imagine different futures, talk it through with other people, and sometimes change our minds several times before we settle on anything.
+
+Surely, all that deliberation must count for something?
+
+Absolutely!
+
+And all that deliberation still draws on who we've become. What matters to us, which memories come to mind, and how readily we change our minds all shape how we think a decision through.
+
+Perhaps what we call free will is what it feels like to make a decision from the inside.
+
+And perhaps the sense of agency that accompanies it serves a useful purpose.
+
+Imagine how difficult it would be to navigate life if we constantly perceived ourselves as nothing more than the products of countless preceding events. Instead, we experience ourselves as individuals capable of evaluating possibilities, pursuing goals, and influencing our surroundings.
+
+Could this sense of agency be something that emerged through evolution because it helped us navigate the world more effectively?
+
+I don't know. But it's an intriguing possibility.
+
+Perhaps a cosmic trick, if you will, although one that the universe didn't necessarily intend to play on us.
+
+## So, Why Bother?
+
+At this point, you might be wondering why you should bother doing anything if you don't ultimately have free will.
+
+Why work hard? Why exercise? Why study? Why try to become a better person?
+
+Well, because all of these things still have consequences!
+
+Under determinism, the state of the world at a given moment and the laws of nature fix what happens next. Our choices and actions are part of how that future comes about. The kind of fatalism I'm talking about says we'd end up in the same place whatever we did.
+
+Imagine a student preparing for an exam. Maybe a lousy grade on the last test was what got them to open the textbook. The time they spend studying can still help them do better this time. That lousy grade, the decision to study, and the studying itself can all be part of the chain that leads to a better result.
+
+It's precisely because our experiences shape us that we *can* change.
+
+Reading a book, having a conversation, making a mistake, or running into a new idea can change what we do next.
+
+Even this article, believe it or not, might become one of the many factors influencing the way you think about things from now on.
+
+So perhaps describing ourselves as mere passengers in the universe, as I did at the beginning of this article, isn't entirely fair.
+
+We are participants in the universe. We influence it just as it influences us.
+
+Whether we do so with free will is an entirely different question.
+
+## What Does Science Have to Say?
+
+Of course, everything we've discussed so far has been largely philosophical.
+
+We still haven't settled whether the universe is deterministic or what the nature of time might have to do with any of this.
+
+What does Einstein's theory of relativity tell us about the nature of time and the future that we believe we are free to shape?
+
+Could the past, present, and future all be equally real, with our entire lives embedded within a four-dimensional universe?
+
+And what about the wonderfully bizarre world of quantum mechanics? Could the apparent randomness at the heart of quantum physics offer us an escape from determinism? And would such an escape necessarily grant us free will?
+
+Well, that's a rabbit hole for another article.
+
+Have I brought you guys down yet? I hope not, but if I have, I apologize.
+
+You might think about all this for a few seconds or even a few days. Then you'll go on with your life, making choices as if you have free will.
+
+Because let's face it, you can't help it. :)
+
+<!-- footnotes -->
+
+[^predictability]: Even if the same starting conditions would always produce the same decision, we'd still need enough information and computing power to work out what that decision would be.
+
+[^basic-argument]: Galen Strawson makes a related case about moral responsibility in his *Basic Argument*. If being ultimately responsible for what you do requires being ultimately responsible for the way you are, then any attempt to make yourself a certain way takes you back to the person you already were when you made that choice [@strawson1994responsibility].
+
+[^compatibilism]: Harry Frankfurt offers one version of this idea. Suppose you want the mango but wish your curiosity about the fig would win out. On Frankfurt's account, your will is free when the desire you want to guide you is the one that actually does [@frankfurt1971freedom].
