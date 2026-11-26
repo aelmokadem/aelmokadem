@@ -51,6 +51,8 @@ But then, what makes us fundamentally different? Could our genetics, upbringing,
 
 And unlike the person inside the Chinese room, we might not even be aware of most of the rules we're following.
 
+To explore that possibility, let's start with something that seems central to almost every decision we make: what we want.
+
 ## You Can Do What You Want, But Can You Want What You Want?
 
 Before you start cussing at me, let me commit the philosophical sin of appealing to authority and call on a guy a little bit smarter than me. Enter Arthur Schopenhauer, the great German philosopher.
@@ -63,21 +65,25 @@ In *My Credo*, Einstein put it this way, crediting Schopenhauer [@einstein1932cr
 
 There's a subtle but profound difference between doing what we want and deciding what we want in the first place.
 
-Now, if I may be so bold as to push Schopenhauer's argument a little further (and risk getting into trouble with Einstein while I'm at it), can we really claim to freely do what we want if we cannot freely will what we want?
+Imagine that I ask you to stop loving someone you deeply love. Not to pretend that you don't love them, but to genuinely stop loving them, right here, right now.
 
-If what we do ultimately stems from what we want, and we have no ultimate control over what we want, then, by extension, how much control do we really have over what we do?
+Or consider your sexual orientation. You can make choices about whether and how to act on your attractions, but did you ever consciously choose whom you would find sexually attractive? Could you simply decide to be attracted to someone you're not?
+
+Or perhaps something a little less personal. Think of a food you absolutely despise. Can you simply decide to find it delicious?
+
+In all these cases, you may have some control over how you act on your feelings and desires. But can you summon or dismiss those feelings and desires at will?
+
+Of course, some of our preferences can change over time. We can develop an appreciation for things we once disliked, abandon old habits, and even deliberately work toward changing aspects of our personalities.
+
+But where does the desire to change those preferences come from?
+
+Now, if I may be so bold as to push Schopenhauer's argument a little further (and risk getting into trouble with Einstein while I'm at it), can we really claim to freely do what we want if we cannot freely *will* what we want?
+
+If what we do ultimately stems from what we want, and we have no ultimate control over what we want, wouldn't it follow that we have no ultimate control over what we do either?
 
 We may be free to act on our wants without being the ultimate authors of our actions.
 
-Imagine that I ask you to stop loving someone you deeply love. Not to pretend that you don't love them, but to genuinely stop loving them, right here, right now.
-
-Or perhaps something a little less dramatic. Think of a food you absolutely despise. Can you simply decide to find it delicious?
-
-You might be able to control how you act on those feelings. Can you change the feelings themselves on command?
-
-Of course, our preferences can change over time. We can develop an appreciation for things we once disliked, abandon old habits, and even deliberately work toward changing aspects of our personalities.
-
-But where does the desire to change those preferences come from?
+Let's put this idea to the test.
 
 ## A Mango or a Fig?
 
@@ -107,13 +113,21 @@ Maybe you worked at becoming more adventurous. But what made you want to do that
 
 You can see where this is going.
 
-If each attempt to choose what we want takes us back to an earlier motivation, how far can we go before we run into something we never chose?
+Every time we try to explain how we chose one of our desires, we seem to appeal to another desire, value, or motivation that preceded it. We end up with what we might call a *regress of desires*.
+
+And by *desires* or *wants* here, I don't just mean cravings or immediate impulses. I'm also talking about our values, ambitions, convictions, and the reasons that motivate us to act, even when doing so is unpleasant.
+
+We can keep tracing our choices back to the motivations behind them, and those motivations back to earlier ones. But can we ever trace them back to a starting point that we were entirely responsible for?
+
+After all, we didn't choose our genetic makeup, the circumstances into which we were born, or the experiences that shaped us before we were even capable of making conscious decisions.
+
+And even when we began making conscious decisions, we did so as individuals who had already been shaped, to some extent, by those things.
 
 This line of reasoning is closely related to what the philosopher Galen Strawson calls the *Basic Argument*. He argues that to be ultimately responsible for what we do, we would have to be ultimately responsible for the way we are. But any attempt to change who we are necessarily starts with the person we already are [@strawson1994responsibility].[^basic-argument]
 
-And by *wants* here, I don't just mean cravings or immediate desires. I'm also talking about our values, ambitions, convictions, and the reasons that motivate us to act, even when doing so is unpleasant.
+It's not that we're incapable of shaping who we become. We clearly can. The problem is that we never get to choose who we are before we begin doing the choosing.
 
-The point here is not that we are incapable of deliberating, reasoning, exercising self-control, or resisting our impulses. We do all of these things. The question is whether we are the ultimate authors of the very motivations and processes that allow us to do them.
+Whatever control we exercise over ourselves seems to rest, ultimately, on foundations we did not choose.
 
 ## But Aren't These Wants Mine?
 
@@ -133,7 +147,7 @@ Even if both actions were entirely determined by earlier events, there would sti
 
 A compatibilist might say that's what matters for free will. We can act freely when we're guided by our own motives, values, and reasoning and have room to act on them. The fact that we didn't ultimately choose those motives doesn't necessarily make our actions any less free.
 
-The philosopher Harry Frankfurt offers an interesting take on this [@frankfurt1971freedom].
+The philosopher Harry Frankfurt offers an interesting take on this by distinguishing between freedom of action and freedom of the will [@frankfurt1971freedom].
 
 Remember our mango and fig dilemma? You might want the mango but also wish that your curiosity about the fig would prevail. In other words, you have a desire, but you also have a desire about which of your desires you want to guide your actions.
 
@@ -141,13 +155,17 @@ On Frankfurt's account, freedom of the will has to do with whether the desire yo
 
 And I think that's a perfectly reasonable position.
 
-But it doesn't entirely resolve the question that troubles me.
+But you can probably guess what I'm going to ask next. Did you choose to want your curiosity to prevail over your appetite for the mango?
 
-Even if I accept that my desires are genuinely mine, I still wonder how much say I had in becoming the person who has them.
+Aren't we back to the same regress of desires we were wrestling with earlier, just one level up?
+
+Even if I accept that my desires, values, and judgments are genuinely mine, I still wonder how much say I had in becoming the person who has them.
+
+Of course, a compatibilist might argue that I don't need to have that kind of control for my will to be considered free.
 
 Perhaps the disagreement here is partly about what we mean by the word *free*.
 
-Are we talking about the freedom to act according to who we are, or the freedom to ultimately determine who we are in the first place?
+Are we talking about the freedom to act and make decisions according to who we are, or the freedom to ultimately determine who we are in the first place?
 
 The former seems considerably easier to defend than the latter.
 
@@ -161,7 +179,11 @@ Surely, all that deliberation must count for something?
 
 Absolutely!
 
-And all that deliberation still draws on who we've become. What matters to us, which memories come to mind, and how readily we change our minds all shape how we think a decision through.
+Our ability to deliberate, reason, exercise self-control, and resist our impulses is real. These are all processes through which we arrive at decisions, and the decisions we make can be very different because of them.
+
+But all that deliberation still draws on who we've become. What matters to us, which memories come to mind, how we evaluate the available options, and how readily we change our minds all shape how we think a decision through.
+
+The fact that we're actively involved in making a decision doesn't necessarily mean that we're the ultimate originators of the processes through which we make it.
 
 Perhaps what we interpret as free will is simply what it feels like to make a decision from the inside.
 
@@ -193,7 +215,9 @@ Imagine a student preparing for an exam. Maybe a lousy grade on the last test wa
 
 The possibility that their motivation to study was determined by earlier events doesn't make the studying any less consequential.
 
-It's precisely because our experiences shape us that we *can* change.
+And the fact that we didn't choose everything that shaped us doesn't mean that we can't play a role in shaping who we become.
+
+In fact, it's precisely because our experiences shape us that we *can* change.
 
 Reading a book, having a conversation, making a mistake, or running into a new idea can change what we do next.
 
@@ -210,6 +234,8 @@ Whether we do so with free will is an entirely different question.
 Of course, everything we've discussed so far has been largely philosophical.
 
 We've questioned whether we have ultimate control over our choices, but we haven't established that the universe itself is deterministic. Those are two different questions.
+
+Notice that the regress of desires we've been discussing doesn't necessarily require a deterministic universe. Even if some of the processes that shape our desires involve an element of randomness, would that make those desires any more freely chosen?
 
 So, what happens when we turn to science?
 
