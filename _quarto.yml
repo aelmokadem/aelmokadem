@@ -13,22 +13,10 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - text: About
-        menu:
-          - href: about.qmd#biography
-            text: Biography
-          - href: about.qmd#teaching-mentoring
-            text: Teaching & Mentoring
-          - href: about.qmd#affiliations
-            text: Affiliations
-          - href: about.qmd#personal-life
-            text: Personal Life
-      - text: Research
-        menu:
-          - href: research.qmd
-            text: Research Interests
-          - href: papers/index.qmd
-            text: Publications & Papers
+      - href: about.qmd
+        text: About
+      - href: research.qmd
+        text: Research
       - href: books/index.qmd
         text: Books
       - href: podcasts
